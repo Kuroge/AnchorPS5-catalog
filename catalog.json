@@ -193,6 +193,22 @@
       ]
     },
     {
+      "id": "github:Swordpdf/PS5SX2",
+      "name": "PS5SX2",
+      "author": "Swordpdf",
+      "repo": "Swordpdf/PS5SX2",
+      "description": {
+        "es": "Port de PCSX2 (emulador de PlayStation 2) con estantería 3D de tus juegos, escalado a 4K, parches de panorámico y 60 FPS y ajustes desde el móvil. Juega desde .iso, .chd, .cso y .zso con tus propios juegos y BIOS.",
+        "en": "PCSX2 port (PlayStation 2 emulator) with a 3D shelf of your games, 4K upscaling, widescreen and 60 FPS patches and settings from your phone. Plays .iso, .chd, .cso and .zso with your own games and BIOS."
+      },
+      "iconUrl": "https://github.com/Swordpdf.png?size=256",
+      "assets": [
+        {"match": "PS5SX2-*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}, "description": {"es": "Se descomprime en /data/homebrew/ y la monta ShadowMountPlus.", "en": "Extract it to /data/homebrew/ and ShadowMountPlus mounts it."}},
+        {"match": "PS5SX2Installer.elf", "label": {"es": "Instalador", "en": "Installer"}, "description": {"es": "Instala PS5SX2 y lo mantiene al día desde GitHub.", "en": "Installs PS5SX2 and keeps it up to date from GitHub."}},
+        {"match": "PS5SX2Helper.elf", "hidden": true}
+      ]
+    },
+    {
       "id": "github:mihawk-99/PS5_RetroArch",
       "name": "RetroArch",
       "author": "mihawk-99",
@@ -206,6 +222,21 @@
         {"match": "PS5_RetroArch-*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}},
         {"match": "*.tar.gz", "hidden": true},
         {"match": "SOURCES.txt", "hidden": true}
+      ]
+    },
+    {
+      "id": "github:ZiZc3/XPSemu",
+      "name": "XPSemu",
+      "author": "ZiZc3",
+      "repo": "ZiZc3/XPSemu",
+      "description": {
+        "es": "Port de Xemu (emulador de la Xbox original) con panel al estilo Xbox para el DualSense, ajustes por juego, carátulas y parches. Usa tus propios ficheros de la Xbox y juegos (.iso XISO).",
+        "en": "Xemu port (original Xbox emulator) with an Xbox-style dashboard for the DualSense, per-game settings, covers and patches. Uses your own Xbox files and games (XISO .iso)."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/ZiZc3/XPSemu/main/ps5/sce_sys/icon0.png",
+      "assets": [
+        {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}, "description": {"es": "Se descomprime en /data/homebrew/ y la monta ShadowMountPlus.", "en": "Extract it to /data/homebrew/ and ShadowMountPlus mounts it."}},
+        {"match": "xpsemu_tools.elf", "hidden": true}
       ]
     }
   ]
