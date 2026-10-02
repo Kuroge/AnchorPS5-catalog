@@ -252,6 +252,20 @@
       ]
     },
     {
+      "id": "github:elripalda/psgfx",
+      "name": "PSGFX",
+      "author": "elripalda",
+      "repo": "elripalda/psgfx",
+      "description": {
+        "es": "App para Windows que pone iconos y fondos personalizados a tu homebrew y tus juegos en la pantalla de inicio de la consola: elige una imagen, mírala en una vista previa y aplícala; el original se puede restaurar. Funciona con el payload de PS5 Upload.",
+        "en": "Windows app that sets custom icons and backgrounds for your homebrew and games on the console's home screen: pick an image, check it in a live preview and apply it; the original can be restored. Works through PS5 Upload's payload."
+      },
+      "iconUrl": "https://github.com/elripalda.png?size=256",
+      "assets": [
+        {"match": "PSGFX-windows.zip", "label": {"es": "App para Windows", "en": "Windows app"}, "description": {"es": "Se usa desde el PC; no se instala en la consola.", "en": "Runs on your PC; nothing is installed on the console."}}
+      ]
+    },
+    {
       "id": "github:mihawk-99/PS5_RetroArch",
       "name": "RetroArch",
       "author": "mihawk-99",
