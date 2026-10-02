@@ -3,6 +3,20 @@
   "schemaVersion": 1,
   "apps": [
     {
+      "id": "github:sainsaji/EVO-PLAYER-PS5",
+      "name": "EVO Player",
+      "author": "sainsaji",
+      "repo": "sainsaji/EVO-PLAYER-PS5",
+      "description": {
+        "es": "Reproductor de vídeo que usa el decodificador por hardware de la consola: hasta 4K y HDR de 10 bits en H.264, HEVC y VP9, desde USB o el almacenamiento interno. Pensado para el DualSense y la tele.",
+        "en": "Video player that uses the console's hardware decoder: up to 4K and 10-bit HDR in H.264, HEVC and VP9, from USB or internal storage. Built for the DualSense and the TV."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/sainsaji/EVO-PLAYER-PS5/main/projects/evoplayer/sce_sys/icon0.png",
+      "assets": [
+        {"match": "*.ffpfsc", "label": {"es": "Imagen .ffpfsc", "en": ".ffpfsc image"}, "description": {"es": "Se copia a /data/homebrew/ y la monta ShadowMountPlus.", "en": "Copy it to /data/homebrew/ and ShadowMountPlus mounts it."}}
+      ]
+    },
+    {
       "id": "github:ps5-payload-dev/ftpsrv",
       "name": "ftpsrv",
       "author": "ps5-payload-dev",
@@ -13,24 +27,9 @@
       },
       "iconUrl": "https://avatars.githubusercontent.com/u/166182419?s=256",
       "assets": [
-        { "match": "*-ps5.elf", "label": "Payload", "description": { "es": "Se envía al ELF loader cada vez que quieras usarlo.", "en": "Send it to the ELF loader every time you want to use it." } },
-        { "match": "*-ps5-install.elf", "label": { "es": "Instalador", "en": "Installer" }, "description": { "es": "Lo añade como icono al menú de la consola (necesita websrv).", "en": "Adds it as an icon to the console menu (requires websrv)." } },
-        { "match": "*-ps4.elf", "label": "Payload", "description": { "es": "Versión para PS4.", "en": "PS4 version." } }
-      ]
-    },
-    {
-      "id": "github:drakmor/nanoDNS",
-      "name": "nanoDNS",
-      "author": "Drakmor",
-      "repo": "drakmor/nanoDNS",
-      "description": {
-        "es": "Proxy DNS que se ejecuta en la propia consola, con reglas por dominio y registro de consultas. Su configuración por defecto bloquea los servidores de PlayStation (PSN y actualizaciones); se cambia en /data/nanodns/nanodns.ini.",
-        "en": "DNS proxy that runs on the console itself, with per-domain rules and query logging. Its default configuration blocks PlayStation servers (PSN and updates); change it in /data/nanodns/nanodns.ini."
-      },
-      "iconUrl": "https://avatars.githubusercontent.com/u/1344732?s=256",
-      "assets": [
-        { "match": "nanodns.elf", "label": "Payload" },
-        { "match": "nanodns-ps4.elf", "label": "Payload", "description": { "es": "Versión para PS4.", "en": "PS4 version." } }
+        {"match": "*-ps5.elf", "label": "Payload", "description": {"es": "Se envía al ELF loader cada vez que quieras usarlo.", "en": "Send it to the ELF loader every time you want to use it."}},
+        {"match": "*-ps5-install.elf", "label": {"es": "Instalador", "en": "Installer"}, "description": {"es": "Lo añade como icono al menú de la consola (necesita websrv).", "en": "Adds it as an icon to the console menu (requires websrv)."}},
+        {"match": "*-ps4.elf", "label": "Payload", "description": {"es": "Versión para PS4.", "en": "PS4 version."}}
       ]
     },
     {
@@ -44,7 +43,169 @@
       },
       "iconUrl": "https://avatars.githubusercontent.com/u/3332298?s=256",
       "assets": [
-        { "match": "*.elf", "label": "Payload" }
+        {"match": "*.elf", "label": "Payload"}
+      ]
+    },
+    {
+      "id": "github:VivaLaVent/kodi-ps5",
+      "name": "Kodi",
+      "author": "VivaLaVent",
+      "repo": "VivaLaVent/kodi-ps5",
+      "description": {
+        "es": "Port no oficial de Kodi 22: centro multimedia para tu biblioteca de vídeo, música y fotos desde la red o el almacenamiento local.",
+        "en": "Unofficial Kodi 22 port: media center for your video, music and photo library from the network or local storage."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/VivaLaVent/kodi-ps5/main/title/sce_sys/icon0.png",
+      "assets": [
+        {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}, "description": {"es": "Se descomprime en /data/homebrew/ y la monta ShadowMountPlus.", "en": "Extract it to /data/homebrew/ and ShadowMountPlus mounts it."}}
+      ]
+    },
+    {
+      "id": "github:drakmor/nanoDNS",
+      "name": "nanoDNS",
+      "author": "Drakmor",
+      "repo": "drakmor/nanoDNS",
+      "description": {
+        "es": "Proxy DNS que se ejecuta en la propia consola, con reglas por dominio y registro de consultas. Su configuración por defecto bloquea los servidores de PlayStation (PSN y actualizaciones); se cambia en /data/nanodns/nanodns.ini.",
+        "en": "DNS proxy that runs on the console itself, with per-domain rules and query logging. Its default configuration blocks PlayStation servers (PSN and updates); change it in /data/nanodns/nanodns.ini."
+      },
+      "iconUrl": "https://avatars.githubusercontent.com/u/1344732?s=256",
+      "assets": [
+        {"match": "nanodns.elf", "label": "Payload"},
+        {"match": "nanodns-ps4.elf", "label": "Payload", "description": {"es": "Versión para PS4.", "en": "PS4 version."}}
+      ]
+    },
+    {
+      "id": "github:SvenGDK/Prospero-Explorer",
+      "name": "Prospero Explorer",
+      "author": "SvenGDK",
+      "repo": "SvenGDK/Prospero-Explorer",
+      "description": {
+        "es": "Explorador de archivos: navega por el almacenamiento interno y los USB, abre imágenes y copia, mueve o borra ficheros.",
+        "en": "File explorer: browse internal storage and USB drives, view pictures and copy, move or delete files."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/SvenGDK/Prospero-Explorer/main/sce_sys/icon0.png",
+      "assets": [
+        {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}}
+      ]
+    },
+    {
+      "id": "github:SvenGDK/Prospero-Vibrate",
+      "name": "Prospero Vibrate",
+      "author": "SvenGDK",
+      "repo": "SvenGDK/Prospero-Vibrate",
+      "description": {
+        "es": "Estudio para crear patrones de vibración fotograma a fotograma para los motores del mando de PS5 y PS4. Guarda, carga y prueba tus patrones.",
+        "en": "Frame-by-frame studio to create vibration patterns for the PS5 and PS4 controller motors. Save, load and test your patterns."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/SvenGDK/Prospero-Vibrate/main/sce_sys/icon0.png",
+      "assets": [
+        {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}}
+      ]
+    },
+    {
+      "id": "github:blackbearreloaded/ProsperoAI",
+      "name": "ProsperoAI",
+      "author": "blackbearreloaded",
+      "repo": "blackbearreloaded/ProsperoAI",
+      "description": {
+        "es": "Chat con IA generativa local y privada que se ejecuta en la GPU de la consola. No incluye modelos: se preparan e instalan aparte siguiendo el README del proyecto.",
+        "en": "Local, private generative AI chat that runs on the console's GPU. Models are not included: prepare and install them separately following the project's README."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoAI/main/sce_sys/icon0.png",
+      "assets": [
+        {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}}
+      ]
+    },
+    {
+      "id": "github:blackbearreloaded/ProsperoEden",
+      "name": "ProsperoEden",
+      "author": "blackbearreloaded",
+      "repo": "blackbearreloaded/ProsperoEden",
+      "description": {
+        "es": "Port experimental del emulador Eden (Nintendo Switch) con escalado hasta 4x y salida a 120 Hz. Usa tus propias claves, firmware y juegos.",
+        "en": "Experimental port of the Eden emulator (Nintendo Switch) with up to 4x upscaling and 120 Hz output. Uses your own keys, firmware and games."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoEden/main/assets/icon0.png",
+      "assets": [
+        {"match": "*.ffpfsc", "label": {"es": "Imagen .ffpfsc", "en": ".ffpfsc image"}, "description": {"es": "Se copia a /data/homebrew/ y la monta ShadowMountPlus.", "en": "Copy it to /data/homebrew/ and ShadowMountPlus mounts it."}},
+        {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}, "description": {"es": "Se descomprime en /data/homebrew/ y la monta ShadowMountPlus.", "en": "Extract it to /data/homebrew/ and ShadowMountPlus mounts it."}}
+      ]
+    },
+    {
+      "id": "github:blackbearreloaded/ProsperoLight",
+      "name": "ProsperoLight",
+      "author": "blackbearreloaded",
+      "repo": "blackbearreloaded/ProsperoLight",
+      "description": {
+        "es": "Cliente de Moonlight: juega en la consola a los juegos de tu PC por streaming (con Sunshine), con baja latencia, ratón y teclado USB.",
+        "en": "Moonlight client: stream and play your PC games on the console (with Sunshine), with low latency and USB mouse and keyboard."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoLight/main/sce_sys/icon0.png",
+      "assets": [
+        {"match": "*.ffpfsc", "label": {"es": "Imagen .ffpfsc", "en": ".ffpfsc image"}, "description": {"es": "Se copia a /data/homebrew/ y la monta ShadowMountPlus.", "en": "Copy it to /data/homebrew/ and ShadowMountPlus mounts it."}},
+        {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}, "description": {"es": "Se descomprime en /data/homebrew/ y la monta ShadowMountPlus.", "en": "Extract it to /data/homebrew/ and ShadowMountPlus mounts it."}}
+      ]
+    },
+    {
+      "id": "github:blackbearreloaded/ProsperoRadio",
+      "name": "ProsperoRadio",
+      "author": "blackbearreloaded",
+      "repo": "blackbearreloaded/ProsperoRadio",
+      "description": {
+        "es": "Radio por Internet con miles de emisoras de la base de datos RadioBrowser.",
+        "en": "Internet radio with thousands of stations from the RadioBrowser database."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoRadio/main/sce_sys/icon0.png",
+      "assets": [
+        {"match": "*.ffpfsc", "label": {"es": "Imagen .ffpfsc", "en": ".ffpfsc image"}, "description": {"es": "Se copia a /data/homebrew/ y la monta ShadowMountPlus.", "en": "Copy it to /data/homebrew/ and ShadowMountPlus mounts it."}},
+        {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}, "description": {"es": "Se descomprime en /data/homebrew/ y la monta ShadowMountPlus.", "en": "Extract it to /data/homebrew/ and ShadowMountPlus mounts it."}}
+      ]
+    },
+    {
+      "id": "github:blackbearreloaded/ProsperoTV",
+      "name": "ProsperoTV",
+      "author": "blackbearreloaded",
+      "repo": "blackbearreloaded/ProsperoTV",
+      "description": {
+        "es": "Cliente IPTV con el catálogo de canales de iptv-org o tus propias listas M3U, con vídeo por hardware (H.264, HEVC y VP9).",
+        "en": "IPTV client with the iptv-org channel catalog or your own M3U playlists, with hardware video (H.264, HEVC and VP9)."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/blackbearreloaded/ProsperoTV/main/sce_sys/icon0.png",
+      "assets": [
+        {"match": "*.ffpfsc", "label": {"es": "Imagen .ffpfsc", "en": ".ffpfsc image"}, "description": {"es": "Se copia a /data/homebrew/ y la monta ShadowMountPlus.", "en": "Copy it to /data/homebrew/ and ShadowMountPlus mounts it."}},
+        {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}, "description": {"es": "Se descomprime en /data/homebrew/ y la monta ShadowMountPlus.", "en": "Extract it to /data/homebrew/ and ShadowMountPlus mounts it."}}
+      ]
+    },
+    {
+      "id": "github:blackbearreloaded/ps5-opengl",
+      "name": "PS5 OpenGL Showcase",
+      "author": "blackbearreloaded",
+      "repo": "blackbearreloaded/ps5-opengl",
+      "description": {
+        "es": "Demostración en 4K de OpenGL 4.6 (Mesa) funcionando en la consola. El SDK para desarrolladores está en el repo del proyecto.",
+        "en": "4K demo of OpenGL 4.6 (Mesa) running on the console. The developer SDK is in the project's repo."
+      },
+      "iconUrl": "https://github.com/blackbearreloaded.png?size=256",
+      "assets": [
+        {"match": "ps5-opengl-showcase-*.zip", "label": {"es": "Demo", "en": "Demo"}},
+        {"match": "ps5-opengl-sdk-*", "hidden": true}
+      ]
+    },
+    {
+      "id": "github:mihawk-99/PS5_RetroArch",
+      "name": "RetroArch",
+      "author": "mihawk-99",
+      "repo": "mihawk-99/PS5_RetroArch",
+      "description": {
+        "es": "RetroArch con muchos núcleos de emulación: PlayStation, PSP, Nintendo 64, GameCube/Wii, NES, SNES, Mega Drive y más. No incluye juegos ni BIOS.",
+        "en": "RetroArch with many emulation cores: PlayStation, PSP, Nintendo 64, GameCube/Wii, NES, SNES, Mega Drive and more. No games or BIOS included."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/mihawk-99/PS5_RetroArch/main/handoff/PPSA99002/sce_sys/icon0.png",
+      "assets": [
+        {"match": "PS5_RetroArch-*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}},
+        {"match": "*.tar.gz", "hidden": true},
+        {"match": "SOURCES.txt", "hidden": true}
       ]
     }
   ]
