@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://raw.githubusercontent.com/Kuroge/AnchorPS5-catalog/main/catalog.schema.json",
-  "title": "Catálogo de AnchorPS5",
-  "description": "Lista de homebrew para PS5 (consola ya en modo homebrew) que muestra AnchorPS5.",
+  "title": "Catálogo de AnchorPS5 · AnchorPS5 catalog",
+  "description": "Lista de homebrew para PS5 (consola ya en modo homebrew) que muestra AnchorPS5. · Homebrew list for PS5 (console already in homebrew mode) shown by AnchorPS5.",
   "type": "object",
   "required": ["schemaVersion", "apps"],
   "additionalProperties": false,
@@ -16,7 +16,7 @@
   },
   "$defs": {
     "text": {
-      "description": "Texto simple o traducciones por idioma. Siempre con español (\"es\").",
+      "description": "Texto simple o traducciones por idioma, siempre con español (\"es\"). · Plain text or translations per language, always with Spanish (\"es\").",
       "oneOf": [
         { "type": "string", "minLength": 1 },
         {
@@ -34,21 +34,21 @@
       "additionalProperties": false,
       "properties": {
         "id": {
-          "description": "\"github:\" + el repo, p. ej. github:ps5-payload-dev/ftpsrv.",
+          "description": "\"github:\" + el repo, p. ej. github:ps5-payload-dev/ftpsrv. · \"github:\" + the repo, e.g. github:ps5-payload-dev/ftpsrv.",
           "type": "string",
           "pattern": "^github:[A-Za-z0-9-]+/[A-Za-z0-9._-]+$"
         },
         "name": { "type": "string", "minLength": 1, "maxLength": 60 },
         "author": { "type": "string", "minLength": 1, "maxLength": 60 },
         "repo": {
-          "description": "Repo de GitHub con las releases: autor/nombre.",
+          "description": "Repo de GitHub con las releases: autor/nombre. · GitHub repo with the releases: owner/name.",
           "type": "string",
           "pattern": "^[A-Za-z0-9-]+/[A-Za-z0-9._-]+$"
         },
         "description": { "$ref": "#/$defs/text" },
         "iconUrl": { "type": "string", "pattern": "^https://" },
         "assets": {
-          "description": "Opcional: etiquetas y descripciones para los ficheros de la release cuyo nombre encaje (* y ?).",
+          "description": "Opcional: etiquetas y descripciones para los ficheros de la release cuyo nombre encaje (* y ?). · Optional: labels and descriptions for release files whose name matches (* and ?).",
           "type": "array",
           "items": {
             "type": "object",

@@ -1,5 +1,7 @@
 # Prompt para añadir una app con ayuda de una IA
 
+**Español** · [English](AI-PROMPT.md)
+
 ¿No sabes nada de JSON? No pasa nada. Copia **todo** el bloque de abajo en tu asistente
 de IA (cualquiera que pueda leer páginas web), cambia la última línea por el enlace de
 GitHub de la app y envíalo. Te devolverá la entrada lista para pegar en `catalog.json`
@@ -50,7 +52,8 @@ Reglas:
 - "id" es siempre "github:" + "AUTOR/REPO".
 - "name": el nombre con el que se conoce la app (el del README), no el del repo si son
   distintos. Máximo 60 caracteres.
-- "description": neutra y práctica, sin emojis ni marketing. Di qué hace y, si hace
+- "description": neutra y práctica, sin emojis ni marketing, SIEMPRE en español ("es")
+  e inglés ("en"). Di qué hace y, si hace
   falta, cómo se usa (p. ej. "se envía al ELF loader", "se abre en el navegador del PC en
   http://<ip-de-la-ps5>:PUERTO"). Si la app cambia algo importante de la consola (red,
   bloqueos, ficheros del sistema), dilo.

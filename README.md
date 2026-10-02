@@ -1,5 +1,7 @@
 # Catálogo de AnchorPS5
 
+**Español** · [English](README.en.md)
+
 Lista oficial de homebrew que muestra [AnchorPS5](https://github.com/Kuroge/AnchorPS5),
 el gestor de homebrew para PS5. La app descarga este [`catalog.json`](catalog.json) y,
 para cada app, saca los ficheros descargables (con su SHA-256) de las **releases de su
@@ -35,9 +37,3 @@ Cada app de la lista `apps`:
 El formato completo está en [`catalog.schema.json`](catalog.schema.json) y cada cambio se
 comprueba automáticamente con [`scripts/validar.py`](scripts/validar.py).
 
----
-
-**English:** this is the official app list used by AnchorPS5, a homebrew manager for
-PS5 consoles that are already in homebrew mode. Binaries are not hosted here; each app's
-files come from the GitHub releases of its own repository. Contributions are welcome in
-any language — see [CONTRIBUIR.md](CONTRIBUIR.md) (Spanish).

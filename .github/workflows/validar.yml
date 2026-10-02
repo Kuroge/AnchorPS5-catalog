@@ -1,4 +1,4 @@
-name: Validar catálogo
+name: Validar catálogo · Validate catalog
 
 on:
   pull_request:
@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install jsonschema
-      - name: Comprobar catalog.json
+      - name: Comprobar catalog.json · Check catalog.json
         run: python scripts/validar.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

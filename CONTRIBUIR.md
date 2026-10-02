@@ -1,5 +1,7 @@
 # Cómo proponer una app
 
+**Español** · [English](CONTRIBUTING.md)
+
 Hay dos formas. **Las dos se hacen desde la web de GitHub**; no hace falta instalar nada
 ni saber programar. Solo necesitas una cuenta de GitHub (gratis).
 
