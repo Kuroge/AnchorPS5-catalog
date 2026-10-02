@@ -205,7 +205,7 @@
       "assets": [
         {"match": "PS5SX2-*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}, "description": {"es": "Se descomprime en /data/homebrew/ y la monta ShadowMountPlus.", "en": "Extract it to /data/homebrew/ and ShadowMountPlus mounts it."}},
         {"match": "PS5SX2Installer.elf", "label": {"es": "Instalador", "en": "Installer"}, "description": {"es": "Instala PS5SX2 y lo mantiene al día desde GitHub.", "en": "Installs PS5SX2 and keeps it up to date from GitHub."}},
-        {"match": "PS5SX2Helper.elf", "hidden": true}
+        {"match": "PS5SX*Helper.elf", "hidden": true}
       ]
     },
     {
