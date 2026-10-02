@@ -46,9 +46,12 @@ Reglas:
 - "id" es siempre "github:" + "AUTOR/REPO".
 - "name": el nombre con el que se conoce la app (el del README), no el del repo si son
   distintos. Máximo 60 caracteres.
+- "iconUrl": si el repo tiene el icono de la app (busca un fichero "icon0.png", suele
+  estar en una carpeta "sce_sys"), usa su enlace directo:
+  https://raw.githubusercontent.com/AUTOR/REPO/RAMA/ruta/a/icon0.png (RAMA suele ser
+  "main"). Si no lo tiene, usa el avatar del autor: https://github.com/AUTOR.png?size=256
 - "description": neutra y práctica, sin emojis ni marketing, SIEMPRE en español ("es")
-  e inglés ("en"). Di qué hace y, si hace
-  falta, cómo se usa (p. ej. "se envía al ELF loader", "se abre en el navegador del PC en
+  e inglés ("en"). Di qué hace y, si hace falta, cómo se usa (p. ej. "se envía al ELF loader", "se abre en el navegador del PC en
   http://<ip-de-la-ps5>:PUERTO"). Si la app cambia algo importante de la consola (red,
   bloqueos, ficheros del sistema), dilo.
 - "assets" es OPCIONAL. Inclúyelo solo si la release tiene varios ficheros o nombres
@@ -58,8 +61,15 @@ Reglas:
     - "label": nombre corto: "Payload", { "es": "Instalador", "en": "Installer" }…
     - "description" (opcional): para qué sirve ese fichero, en es y en.
       Para el fichero de PS4: { "es": "Versión para PS4.", "en": "PS4 version." }
-    - "hidden": true para ocultar ficheros que no sirven al usuario (símbolos de
-      depuración, etc.). El código fuente ya se oculta solo; no hace falta.
+    - Si la release trae la misma app en dos formatos (p. ej. ".ffpfsc" y ".zip"), pon
+      una regla para cada uno con su etiqueta: { "es": "Imagen .ffpfsc", "en": ".ffpfsc
+      image" } y { "es": "Carpeta de la app", "en": "App folder" }.
+    - "hidden": true SOLO para ficheros que no le sirven a quien usa la app en la
+      consola: kits de desarrollo (SDK), código fuente en .tar.gz o similares, listados
+      de fuentes (SOURCES.txt), símbolos de depuración o registros de compilación.
+      Nunca ocultes un fichero que la app necesite para funcionar (instaladores,
+      ayudantes, paquetes de recursos…). Las sumas de comprobación (SHA256SUMS, *.sha256)
+      y el código fuente que GitHub añade solo ya se ocultan automáticamente.
 - No añadas campos que no estén en la plantilla.
 
 PASO 4 · Debajo del JSON, en 3 viñetas como máximo, dime qué conviene que revise a mano

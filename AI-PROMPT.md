@@ -47,6 +47,10 @@ Rules:
 - "id" is always "github:" + "OWNER/REPO".
 - "name": the name the app is known by (the README's), not the repo's if they differ.
   60 characters at most.
+- "iconUrl": if the repo has the app's icon (look for an "icon0.png" file, usually in a
+  "sce_sys" folder), use its direct link:
+  https://raw.githubusercontent.com/OWNER/REPO/BRANCH/path/to/icon0.png (BRANCH is
+  usually "main"). Otherwise use the owner's avatar: https://github.com/OWNER.png?size=256
 - "description": neutral and practical, no emojis or marketing, ALWAYS in Spanish ("es")
   and English ("en"). Say what it does and, if needed, how it's used (e.g. "it's sent to
   the ELF loader", "open it in your PC's browser at http://<ps5-ip>:PORT"). If the app
@@ -58,8 +62,14 @@ Rules:
     - "label": short name: "Payload", { "es": "Instalador", "en": "Installer" }…
     - "description" (optional): what that file is for, in es and en.
       For the PS4 file: { "es": "Versión para PS4.", "en": "PS4 version." }
-    - "hidden": true to hide files that are useless to the user (debug symbols, etc.).
-      Source code is already hidden automatically; no need to.
+    - If the release ships the same app in two formats (e.g. ".ffpfsc" and ".zip"), add
+      one rule for each with its label: { "es": "Imagen .ffpfsc", "en": ".ffpfsc image" }
+      and { "es": "Carpeta de la app", "en": "App folder" }.
+    - "hidden": true ONLY for files that are useless to whoever uses the app on the
+      console: development kits (SDKs), source code as .tar.gz or similar, source lists
+      (SOURCES.txt), debug symbols or build logs. Never hide a file the app needs to
+      work (installers, helpers, resource packs…). Checksums (SHA256SUMS, *.sha256) and
+      the source code GitHub adds by itself are already hidden automatically.
 - Don't add fields that are not in the template.
 
 STEP 4 · Below the JSON, in 3 bullet points at most, tell me what I should check by
