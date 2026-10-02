@@ -66,6 +66,9 @@ enlace de la app y te devuelve un bloque como este:
 }
 ```
 
+> Edita solo `catalog.json`. El fichero `releases.json` se genera solo cada hora: no lo
+> toques; en cuanto tu app entre en el catálogo, aparecerá en él.
+
 ### 3. Envía la propuesta
 
 1. Pulsa **Commit changes…** y escribe un título corto, p. ej. `Añadir Mi App`.

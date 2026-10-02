@@ -7,6 +7,12 @@ el gestor de homebrew para PS5. La app descarga este [`catalog.json`](catalog.js
 para cada app, saca los ficheros descargables (con su SHA-256) de las **releases de su
 propio repo de GitHub**. Aquí solo está la lista: no se alojan binarios.
 
+| Fichero | Qué es |
+|---|---|
+| [`catalog.json`](catalog.json) | La lista de apps. **Es el único que se edita.** |
+| [`releases.json`](releases.json) | Índice de releases (ver abajo). Se genera solo: no lo edites. |
+| [`catalog.schema.json`](catalog.schema.json) | El formato de `catalog.json`. |
+
 ## Qué entra en el catálogo
 
 Homebrew para PS5: servidores (FTP, web…), utilidades, gestores de partidas guardadas, reproductores, etc.
@@ -32,6 +38,19 @@ Cada app de la lista `apps`:
 
 El formato completo está en [`catalog.schema.json`](catalog.schema.json) y cada cambio se
 comprueba automáticamente con [`scripts/validar.py`](scripts/validar.py).
+
+## Índice de releases
+
+Para no depender del límite de consultas de GitHub (60 por hora sin sesión), este repo
+publica [`releases.json`](releases.json): las últimas releases de cada app del catálogo,
+con sus ficheros, tamaños y SHA-256. Lo genera una tarea automática
+([`scripts/indice.py`](scripts/indice.py)) **cada hora** y cada vez que cambia
+`catalog.json`, y solo se guarda si algo ha cambiado.
+
+AnchorPS5, si no has iniciado sesión en GitHub, descarga este único fichero en lugar de
+preguntar a GitHub app por app. Por eso una release recién publicada puede tardar hasta
+una hora en aparecer en el índice. Con sesión, la app pregunta a GitHub directamente y
+el índice queda de respaldo.
 
 ## Créditos
 

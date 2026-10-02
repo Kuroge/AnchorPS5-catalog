@@ -7,6 +7,12 @@ homebrew manager for PS5. The app downloads this [`catalog.json`](catalog.json) 
 each app, gets the downloadable files (with their SHA-256) from the **releases of the
 app's own GitHub repository**. Only the list lives here: no binaries are hosted.
 
+| File | What it is |
+|---|---|
+| [`catalog.json`](catalog.json) | The app list. **It's the only one you edit.** |
+| [`releases.json`](releases.json) | Release index (see below). Generated automatically: don't edit it. |
+| [`catalog.schema.json`](catalog.schema.json) | The format of `catalog.json`. |
+
 ## What goes into the catalog
 
 PS5 homebrew: servers (FTP, web…), utilities, save data managers, media players, etc.
@@ -33,6 +39,19 @@ Each app in the `apps` list:
 
 The full format is in [`catalog.schema.json`](catalog.schema.json) and every change is
 checked automatically by [`scripts/validar.py`](scripts/validar.py).
+
+## Release index
+
+To avoid depending on GitHub's request limit (60 per hour without a session), this repo
+publishes [`releases.json`](releases.json): the latest releases of every catalog app,
+with their files, sizes and SHA-256. An automatic task
+([`scripts/indice.py`](scripts/indice.py)) generates it **every hour** and every time
+`catalog.json` changes, and it's only saved if something changed.
+
+When you're not signed in to GitHub, AnchorPS5 downloads this single file instead of
+asking GitHub app by app. That's why a just-published release may take up to an hour to
+show up in the index. Signed in, the app asks GitHub directly and the index is the
+fallback.
 
 ## Credits
 
