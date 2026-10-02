@@ -1,0 +1,40 @@
+name: Índice de releases · Release index
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # cada hora · every hour
+  push:
+    branches: [main]
+    paths: ["catalog.json", "scripts/indice.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: indice
+  cancel-in-progress: false
+
+jobs:
+  indice:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generar releases.json · Generate releases.json
+        run: python scripts/indice.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Guardar si ha cambiado · Commit if changed
+        run: |
+          if git diff --quiet -- releases.json && git ls-files --error-unmatch releases.json >/dev/null 2>&1; then
+            echo "Sin cambios · No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add releases.json
+          git commit -m "Índice de releases · Release index"
+          git push
