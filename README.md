@@ -33,3 +33,7 @@ Cada app de la lista `apps`:
 El formato completo está en [`catalog.schema.json`](catalog.schema.json) y cada cambio se
 comprueba automáticamente con [`scripts/validar.py`](scripts/validar.py).
 
+## Créditos
+
+- **Huertas34**, de [elotrolado.net](https://www.elotrolado.net), por la sugerencia inicial del catálogo.
+- Gracias a los autores de cada app: aquí solo se enlazan sus releases.

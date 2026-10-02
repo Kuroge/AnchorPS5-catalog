@@ -33,3 +33,8 @@ Each app in the `apps` list:
 
 The full format is in [`catalog.schema.json`](catalog.schema.json) and every change is
 checked automatically by [`scripts/validar.py`](scripts/validar.py).
+
+## Credits
+
+- **Huertas34**, from [elotrolado.net](https://www.elotrolado.net), for the initial catalog suggestion.
+- Thanks to the authors of each app: this repo only links to their releases.
