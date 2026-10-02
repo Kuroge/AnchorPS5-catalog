@@ -76,6 +76,20 @@
       ]
     },
     {
+      "id": "github:pegasus-ps5/pegasus-dl",
+      "name": "Pegasus DL",
+      "author": "pegasus-ps5",
+      "repo": "pegasus-ps5/pegasus-dl",
+      "description": {
+        "es": "Gestor de descargas de paquetes en la propia consola, con interfaz web desde el móvil o el PC: cola de descargas, extracción automática, biblioteca y explorador de archivos.",
+        "en": "On-console package download manager with a web interface from your phone or PC: download queue, automatic extraction, library and file manager."
+      },
+      "iconUrl": "https://github.com/pegasus-ps5.png?size=256",
+      "assets": [
+        {"match": "pegasus_dl.elf", "label": "Payload"}
+      ]
+    },
+    {
       "id": "github:SvenGDK/Prospero-Explorer",
       "name": "Prospero Explorer",
       "author": "SvenGDK",
@@ -87,6 +101,21 @@
       "iconUrl": "https://raw.githubusercontent.com/SvenGDK/Prospero-Explorer/main/sce_sys/icon0.png",
       "assets": [
         {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}}
+      ]
+    },
+    {
+      "id": "github:SvenGDK/Prospero-Multi-Tools",
+      "name": "Prospero Multi Tools",
+      "author": "SvenGDK",
+      "repo": "SvenGDK/Prospero-Multi-Tools",
+      "description": {
+        "es": "Gestor de backups para PS1, PS2, PS3, PS4, PS5, PSP y PS Vita: explora tu biblioteca, consulta y edita sus metadatos e instala o lanza los títulos.",
+        "en": "Backup manager for PS1, PS2, PS3, PS4, PS5, PSP and PS Vita: browse your library, view and edit its metadata and install or launch titles."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/SvenGDK/Prospero-Multi-Tools/main/sce_sys/icon0.png",
+      "assets": [
+        {"match": "ProsperoMultiTools.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}},
+        {"match": "EmulatorPack.zip", "label": {"es": "Paquete de emuladores", "en": "Emulator pack"}, "description": {"es": "Emuladores y recursos para PS1, PS2 y PSP.", "en": "Emulators and resources for PS1, PS2 and PSP."}}
       ]
     },
     {
@@ -175,6 +204,21 @@
       "assets": [
         {"match": "*.ffpfsc", "label": {"es": "Imagen .ffpfsc", "en": ".ffpfsc image"}, "description": {"es": "Se copia a /data/homebrew/ y la monta ShadowMountPlus.", "en": "Copy it to /data/homebrew/ and ShadowMountPlus mounts it."}},
         {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}, "description": {"es": "Se descomprime en /data/homebrew/ y la monta ShadowMountPlus.", "en": "Extract it to /data/homebrew/ and ShadowMountPlus mounts it."}}
+      ]
+    },
+    {
+      "id": "github:thanhsondev/PS5-FPKG-RESTORE",
+      "name": "PS5 FPKG Restore",
+      "author": "thanhsondev",
+      "repo": "thanhsondev/PS5-FPKG-RESTORE",
+      "description": {
+        "es": "Vuelve a registrar en la biblioteca de la consola los títulos FPKG que ya estaban instalados en el almacenamiento interno o externo, por ejemplo tras restaurar la consola.",
+        "en": "Re-registers in the console's library the FPKG titles already installed on internal or external storage, for example after restoring the console."
+      },
+      "iconUrl": "https://github.com/thanhsondev.png?size=256",
+      "assets": [
+        {"match": "PS5_FPKG_RESTORE.elf", "label": "Payload"},
+        {"match": "PS5_FPKG_RESTORE_*.zip", "label": {"es": "Payload (zip)", "en": "Payload (zip)"}}
       ]
     },
     {
