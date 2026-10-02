@@ -47,7 +47,8 @@ Reglas:
 - "name": el nombre con el que se conoce la app (el del README), no el del repo si son
   distintos. Máximo 60 caracteres.
 - "iconUrl": si el repo tiene el icono de la app (busca un fichero "icon0.png", suele
-  estar en una carpeta "sce_sys"), usa su enlace directo:
+  estar en una carpeta "sce_sys"), usa su enlace directo. Si hay varios, elige el de la
+  propia app (el más cercano a la raíz), no uno de una subcarpeta de otra app o ejemplo:
   https://raw.githubusercontent.com/AUTOR/REPO/RAMA/ruta/a/icon0.png (RAMA suele ser
   "main"). Si no lo tiene, usa el avatar del autor: https://github.com/AUTOR.png?size=256
 - "description": neutra y práctica, sin emojis ni marketing, SIEMPRE en español ("es")

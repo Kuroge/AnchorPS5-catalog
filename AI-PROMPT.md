@@ -48,7 +48,8 @@ Rules:
 - "name": the name the app is known by (the README's), not the repo's if they differ.
   60 characters at most.
 - "iconUrl": if the repo has the app's icon (look for an "icon0.png" file, usually in a
-  "sce_sys" folder), use its direct link:
+  "sce_sys" folder), use its direct link. If there are several, pick the app's own one
+  (the closest to the root), not one in a subfolder for another app or an example:
   https://raw.githubusercontent.com/OWNER/REPO/BRANCH/path/to/icon0.png (BRANCH is
   usually "main"). Otherwise use the owner's avatar: https://github.com/OWNER.png?size=256
 - "description": neutral and practical, no emojis or marketing, ALWAYS in Spanish ("es")
