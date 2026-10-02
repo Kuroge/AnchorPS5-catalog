@@ -20,9 +20,7 @@ body:
     attributes:
       label: Antes de enviar · Before sending
       options:
-        - label: Es homebrew para PS5 que funciona con la consola ya en modo homebrew. · It's PS5 homebrew that runs on a console already in homebrew mode.
-          required: true
-        - label: No es un exploit ni una herramienta de jailbreak, ni sirve para piratería o para saltarse DRM, licencias o cuentas. · It's not an exploit or a jailbreak tool, and it's not for piracy or for bypassing DRM, licenses or accounts.
+        - label: Es una app homebrew para PS5. · It's a homebrew app for PS5.
           required: true
         - label: El repo es público y tiene al menos una release con ficheros. · The repo is public and has at least one release with files.
           required: true

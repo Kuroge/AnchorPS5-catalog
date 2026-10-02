@@ -10,9 +10,7 @@ ni saber programar. Solo necesitas una cuenta de GitHub (gratis).
 | **A. Pedirla** | Si solo quieres sugerirla | Rellenas un formulario con el enlace |
 | **B. Añadirla tú** | Si te animas a editar el catálogo | Pegas la entrada en `catalog.json` |
 
-Antes de nada: **solo se aceptan apps homebrew para PS5 ya en modo homebrew**. No se
-aceptan exploits ni herramientas de jailbreak, nada relacionado con piratería ni con
-saltarse DRM, licencias o cuentas. Las propuestas se revisan a mano.
+Las propuestas se revisan a mano antes de añadirlas.
 
 ---
 

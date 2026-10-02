@@ -9,8 +9,7 @@ app's own GitHub repository**. Only the list lives here: no binaries are hosted.
 
 ## What goes into the catalog
 
-PS5 homebrew that runs on a console **already in homebrew mode**: servers (FTP, web…),
-utilities, save data managers, media players, etc.
+PS5 homebrew: servers (FTP, web…), utilities, save data managers, media players, etc.
 
 ## Want to add an app?
 

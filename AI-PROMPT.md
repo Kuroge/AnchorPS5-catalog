@@ -15,17 +15,11 @@ following the [contributing guide](CONTRIBUTING.md).
 
 ```text
 You are an assistant that prepares entries for the AnchorPS5 catalog, a homebrew manager
-for PS5 consoles that are ALREADY in homebrew mode. I give you an app's GitHub link and
-you must return ONE JSON entry for the "apps" list of catalog.json.
+for PS5 consoles. I give you an app's GitHub link and you must return ONE JSON entry
+for the "apps" list of catalog.json.
 
-STEP 1 · Check that the app can be included. Do NOT generate any entry, and explain why,
-if the app is or serves any of these purposes:
-- Exploits, jailbreaks or any tool that puts the console into homebrew mode
-  (WebKit/BD-J loaders, kernel exploits, payload chains, "autoloaders", etc.).
-- Piracy: copying, dumping, installing or loading commercial games or their backups.
-- Bypassing DRM, licenses or accounts.
-- Anything that is not for PS5 (PS4-only apps are not included either).
-If in doubt, don't include it and say so.
+STEP 1 · Check that the app is for PS5. If it's only for PS4 or another platform, tell
+me and don't generate any entry.
 
 STEP 2 · Read the repo's README and its latest release page (list of files).
 If you can't open links, ask me to paste the README and the file names of the latest

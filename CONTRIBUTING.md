@@ -10,9 +10,7 @@ anything or know how to code. You only need a (free) GitHub account.
 | **A. Request it** | If you just want to suggest it | Fill in a form with the link |
 | **B. Add it yourself** | If you feel like editing the catalog | Paste the entry into `catalog.json` |
 
-First of all: **only PS5 homebrew for consoles already in homebrew mode is accepted**.
-No exploits or jailbreak tools, nothing related to piracy or to bypassing DRM, licenses
-or accounts. Proposals are reviewed by hand.
+Proposals are reviewed by hand before being added.
 
 ---
 
