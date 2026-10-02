@@ -1,0 +1,25 @@
+name: Validar catálogo
+
+on:
+  pull_request:
+    paths: ["catalog.json", "catalog.schema.json", "scripts/**"]
+  push:
+    branches: [main]
+    paths: ["catalog.json", "catalog.schema.json", "scripts/**"]
+
+permissions:
+  contents: read
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install jsonschema
+      - name: Comprobar catalog.json
+        run: python scripts/validar.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

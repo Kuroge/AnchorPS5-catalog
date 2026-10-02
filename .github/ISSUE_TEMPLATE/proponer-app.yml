@@ -1,0 +1,28 @@
+name: Proponer una app
+description: Sugiere una app homebrew para el catálogo (solo necesitas su enlace de GitHub).
+title: "Proponer: "
+labels: ["propuesta"]
+body:
+  - type: input
+    id: enlace
+    attributes:
+      label: Enlace de GitHub de la app
+      placeholder: https://github.com/autor/app
+    validations:
+      required: true
+  - type: textarea
+    id: comentario
+    attributes:
+      label: ¿Algo que debamos saber? (opcional)
+      description: Para qué la usas, si necesita otra app, en qué firmware la has probado…
+  - type: checkboxes
+    id: limites
+    attributes:
+      label: Antes de enviar
+      options:
+        - label: Es homebrew para PS5 que funciona con la consola ya en modo homebrew.
+          required: true
+        - label: No es un exploit ni una herramienta de jailbreak, ni sirve para piratería o para saltarse DRM, licencias o cuentas.
+          required: true
+        - label: El repo es público y tiene al menos una release con ficheros.
+          required: true

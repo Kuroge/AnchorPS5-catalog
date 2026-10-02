@@ -1,0 +1,51 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Kuroge/AnchorPS5-catalog/main/catalog.schema.json",
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "id": "github:ps5-payload-dev/ftpsrv",
+      "name": "ftpsrv",
+      "author": "ps5-payload-dev",
+      "repo": "ps5-payload-dev/ftpsrv",
+      "description": {
+        "es": "Servidor FTP para la consola (puerto 2121). Permite copiar archivos entre el PC y la PS5 con cualquier cliente FTP (FileZilla, curl…).",
+        "en": "FTP server for the console (port 2121). Copy files between your PC and the PS5 with any FTP client (FileZilla, curl…)."
+      },
+      "iconUrl": "https://avatars.githubusercontent.com/u/166182419?s=256",
+      "assets": [
+        { "match": "*-ps5.elf", "label": "Payload", "description": { "es": "Se envía al ELF loader cada vez que quieras usarlo.", "en": "Send it to the ELF loader every time you want to use it." } },
+        { "match": "*-ps5-install.elf", "label": { "es": "Instalador", "en": "Installer" }, "description": { "es": "Lo añade como icono al menú de la consola (necesita websrv).", "en": "Adds it as an icon to the console menu (requires websrv)." } },
+        { "match": "*-ps4.elf", "label": "Payload", "description": { "es": "Versión para PS4.", "en": "PS4 version." } }
+      ]
+    },
+    {
+      "id": "github:drakmor/nanoDNS",
+      "name": "nanoDNS",
+      "author": "Drakmor",
+      "repo": "drakmor/nanoDNS",
+      "description": {
+        "es": "Proxy DNS que se ejecuta en la propia consola, con reglas por dominio y registro de consultas. Su configuración por defecto bloquea los servidores de PlayStation (PSN y actualizaciones); se cambia en /data/nanodns/nanodns.ini.",
+        "en": "DNS proxy that runs on the console itself, with per-domain rules and query logging. Its default configuration blocks PlayStation servers (PSN and updates); change it in /data/nanodns/nanodns.ini."
+      },
+      "iconUrl": "https://avatars.githubusercontent.com/u/1344732?s=256",
+      "assets": [
+        { "match": "nanodns.elf", "label": "Payload" },
+        { "match": "nanodns-ps4.elf", "label": "Payload", "description": { "es": "Versión para PS4.", "en": "PS4 version." } }
+      ]
+    },
+    {
+      "id": "github:earthonion/garlic-savemgr",
+      "name": "Garlic SaveMgr",
+      "author": "earthonion",
+      "repo": "earthonion/garlic-savemgr",
+      "description": {
+        "es": "Gestor local de partidas guardadas con interfaz web: explora, exporta e importa tus saves desde el navegador del PC (http://<ip-de-la-ps5>:8082).",
+        "en": "Local save data manager with a web interface: browse, export and import your saves from your PC's browser (http://<ps5-ip>:8082)."
+      },
+      "iconUrl": "https://avatars.githubusercontent.com/u/3332298?s=256",
+      "assets": [
+        { "match": "*.elf", "label": "Payload" }
+      ]
+    }
+  ]
+}

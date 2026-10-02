@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/Kuroge/AnchorPS5-catalog/main/catalog.schema.json",
+  "title": "Catálogo de AnchorPS5",
+  "description": "Lista de homebrew para PS5 (consola ya en modo homebrew) que muestra AnchorPS5.",
+  "type": "object",
+  "required": ["schemaVersion", "apps"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": { "type": "string" },
+    "schemaVersion": { "const": 1 },
+    "apps": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/app" }
+    }
+  },
+  "$defs": {
+    "text": {
+      "description": "Texto simple o traducciones por idioma. Siempre con español (\"es\").",
+      "oneOf": [
+        { "type": "string", "minLength": 1 },
+        {
+          "type": "object",
+          "required": ["es"],
+          "minProperties": 1,
+          "propertyNames": { "pattern": "^[a-z]{2}(-[A-Z]{2})?$" },
+          "additionalProperties": { "type": "string", "minLength": 1 }
+        }
+      ]
+    },
+    "app": {
+      "type": "object",
+      "required": ["id", "name", "author", "repo", "description"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "description": "\"github:\" + el repo, p. ej. github:ps5-payload-dev/ftpsrv.",
+          "type": "string",
+          "pattern": "^github:[A-Za-z0-9-]+/[A-Za-z0-9._-]+$"
+        },
+        "name": { "type": "string", "minLength": 1, "maxLength": 60 },
+        "author": { "type": "string", "minLength": 1, "maxLength": 60 },
+        "repo": {
+          "description": "Repo de GitHub con las releases: autor/nombre.",
+          "type": "string",
+          "pattern": "^[A-Za-z0-9-]+/[A-Za-z0-9._-]+$"
+        },
+        "description": { "$ref": "#/$defs/text" },
+        "iconUrl": { "type": "string", "pattern": "^https://" },
+        "assets": {
+          "description": "Opcional: etiquetas y descripciones para los ficheros de la release cuyo nombre encaje (* y ?).",
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["match"],
+            "additionalProperties": false,
+            "properties": {
+              "match": { "type": "string", "minLength": 1 },
+              "label": { "$ref": "#/$defs/text" },
+              "description": { "$ref": "#/$defs/text" },
+              "hidden": { "type": "boolean" }
+            }
+          }
+        }
+      }
+    }
+  }
+}
