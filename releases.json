@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-02T17:51:42+00:00",
+ "generatedAt": "2026-10-02T22:11:37+00:00",
  "repos": {
   "blackbearreloaded/ProsperoAI": [
    {
@@ -1105,6 +1105,178 @@
    }
   ],
   "mihawk-99/PS5_RetroArch": [
+   {
+    "tag_name": "v0.6.0-alpha.6",
+    "name": "PS5 RetroArch v0.6.0-alpha.6 — WebUI, Shaders & Bezels",
+    "draft": false,
+    "prerelease": true,
+    "published_at": "2026-10-02T20:08:43Z",
+    "html_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/tag/v0.6.0-alpha.6",
+    "assets": [
+     {
+      "name": "azahar-4598458e115f.tar.gz",
+      "size": 66278887,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/azahar-4598458e115f.tar.gz",
+      "digest": "sha256:8f669d9e2708bdf2900f327f57fcb962f5be465bb093ce4f1001f5df173955be"
+     },
+     {
+      "name": "beetle-psx-e43b3980e031.tar.gz",
+      "size": 5572573,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/beetle-psx-e43b3980e031.tar.gz",
+      "digest": "sha256:f7462abb4731aa86a9ed7c508aa1edfa6515b9cba9363189d790888fd6c80c19"
+     },
+     {
+      "name": "beetle-saturn-41a8a4b6ea16.tar.gz",
+      "size": 2068842,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/beetle-saturn-41a8a4b6ea16.tar.gz",
+      "digest": "sha256:a5dad76f75c35ec7897587d9309ac98565525d2734ea5b3b913ab6f162f725ab"
+     },
+     {
+      "name": "desmume-532c50e6c313.tar.gz",
+      "size": 3915323,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/desmume-532c50e6c313.tar.gz",
+      "digest": "sha256:ef3690b9dd64672152e7fdd044c99cccf8985e9f5b8912612e963ec7af4b665f"
+     },
+     {
+      "name": "dolphin-c6630001e057.tar.gz",
+      "size": 210330966,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/dolphin-c6630001e057.tar.gz",
+      "digest": "sha256:56bd5a1155d8134b61d74a75733433ce412bd59096f2cd453f847849fd658e3e"
+     },
+     {
+      "name": "fbneo-6bb3167a044e19e7106a5110d5531aa9c6afa96f.tar.gz",
+      "size": 27137285,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/fbneo-6bb3167a044e19e7106a5110d5531aa9c6afa96f.tar.gz",
+      "digest": "sha256:7d4cacbd55e74c5cd973fbe63d1c75b8dbe5c29b61593d8185be60483d29c892"
+     },
+     {
+      "name": "fceumm-236ccdfc911e84c60fea6b9d0699c2d440a8de14.tar.gz",
+      "size": 1111541,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/fceumm-236ccdfc911e84c60fea6b9d0699c2d440a8de14.tar.gz",
+      "digest": "sha256:dd002cde9b5271979e0394bb9e696bd37e149ced473ff1e3629cc7fed502381f"
+     },
+     {
+      "name": "genesis-plus-gx-c2838c7dc4236fc2fe94e5dbd08b41486067918e.tar.gz",
+      "size": 16984980,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/genesis-plus-gx-c2838c7dc4236fc2fe94e5dbd08b41486067918e.tar.gz",
+      "digest": "sha256:7ba2eab9d6dae71bb42e8208573300ad3475a4263e860178c4d19c36d85fc92b"
+     },
+     {
+      "name": "libmicrohttpd-1.0.10.tar.gz",
+      "size": 2626750,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/libmicrohttpd-1.0.10.tar.gz",
+      "digest": "sha256:04bfe8ef75db7d629a33de767599765cecadc56274a39822d5d081030d577685"
+     },
+     {
+      "name": "lrps2-9c2eea4cbd76.tar.gz",
+      "size": 10280743,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/lrps2-9c2eea4cbd76.tar.gz",
+      "digest": "sha256:f11cd238b1565ca799b7efe8a00c545d71cecae38230878b0d5b73e88e679372"
+     },
+     {
+      "name": "mame-fa592b0e1000.tar.gz",
+      "size": 212189993,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/mame-fa592b0e1000.tar.gz",
+      "digest": "sha256:580d6ac2204e88e7491878d754fbd129db4f11147afad6c9fab0894eabc44090"
+     },
+     {
+      "name": "mgba-7a12d6d4b9acb14c0ae62c9166b6a2f3d08007f6.tar.gz",
+      "size": 16151731,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/mgba-7a12d6d4b9acb14c0ae62c9166b6a2f3d08007f6.tar.gz",
+      "digest": "sha256:5cbf639e527fb586bf33e14d59037eab35f78f45154e0b79c784fff474c3bc37"
+     },
+     {
+      "name": "mupen64plus-763e7f55e2b6.tar.gz",
+      "size": 14873049,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/mupen64plus-763e7f55e2b6.tar.gz",
+      "digest": "sha256:936e1e9d56c985d856c562b92054fcfe8eb5f200df0ac58d455923b96d1847b1"
+     },
+     {
+      "name": "ppsspp-fa50bb197606.tar.gz",
+      "size": 561978475,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/ppsspp-fa50bb197606.tar.gz",
+      "digest": "sha256:484c49b498a71a17e9a63a0b09c8b94d873721b244dd80cadb9d911da096c1b4"
+     },
+     {
+      "name": "PS5_Mesa-15a5e9933e14.tar.gz",
+      "size": 112407029,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/PS5_Mesa-15a5e9933e14.tar.gz",
+      "digest": "sha256:e1e6bd937ea19c208c33c6a064083097212dd5957a1503cdc9c3d2fc90927d70"
+     },
+     {
+      "name": "PS5_PayloadSDK-f674976f48a8.tar.gz",
+      "size": 3665553,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/PS5_PayloadSDK-f674976f48a8.tar.gz",
+      "digest": "sha256:50fec445222fd1d77083916c73cb7f12bdbc53856b7300e16975a4716b466445"
+     },
+     {
+      "name": "PS5_RetroArch-8854f31c648c.tar.gz",
+      "size": 80231061,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/PS5_RetroArch-8854f31c648c.tar.gz",
+      "digest": "sha256:c3d00d8283e8bcd28a56c79491ec04cd6a15f04237b532ae66dcf04f3d9c2f00"
+     },
+     {
+      "name": "PS5_RetroArch-v0.6.0-alpha.6-screenshots.zip",
+      "size": 40079521,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/PS5_RetroArch-v0.6.0-alpha.6-screenshots.zip",
+      "digest": "sha256:e1c2db07031c2e472d9076475883d178dcd97775363165aa8228ad4634904ca0"
+     },
+     {
+      "name": "PS5_RetroArch-v0.6.0-alpha.6.zip",
+      "size": 600520132,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/PS5_RetroArch-v0.6.0-alpha.6.zip",
+      "digest": "sha256:b4fb0d0c92e718bace43f848c2597c8e3bd275998d36c2b636ab9ec7061b2712"
+     },
+     {
+      "name": "PS5_RetroArch-v0.6.0-alpha.6.zip.sha256",
+      "size": 99,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/PS5_RetroArch-v0.6.0-alpha.6.zip.sha256",
+      "digest": "sha256:f0b7bd983cdf80e99dcf57d15d980088ffde07e8c4eb93cdeb74772304620911"
+     },
+     {
+      "name": "PS5_Vulkan-1da9b625ea2e.tar.gz",
+      "size": 38501546,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/PS5_Vulkan-1da9b625ea2e.tar.gz",
+      "digest": "sha256:a663f18714c2e95e297d6de2f9291d7631b2f7e893f690fd5f23625528f28396"
+     },
+     {
+      "name": "retroarch-69a4f0ea1e8a.tar.gz",
+      "size": 71463314,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/retroarch-69a4f0ea1e8a.tar.gz",
+      "digest": "sha256:0e915cddc4e3b0f82d7b0dd1003a4b68e51e8e0ba95df46247a18c34b51fa57b"
+     },
+     {
+      "name": "SHA256SUMS",
+      "size": 2221,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/SHA256SUMS",
+      "digest": "sha256:42249043aaab6396224a95a77ce4202099881ecd85902d8d6989cfaeeff9853c"
+     },
+     {
+      "name": "snes9x-fae2fea08f74180759ef540ee94259213f503480.tar.gz",
+      "size": 644805,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/snes9x-fae2fea08f74180759ef540ee94259213f503480.tar.gz",
+      "digest": "sha256:0d4b0c4181d66668ec0040eb17f90a559f7b7fa6cbd9198593c3bdbe79acd029"
+     },
+     {
+      "name": "SOURCES.txt",
+      "size": 2886,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/SOURCES.txt",
+      "digest": "sha256:4678b4d4350c9bd861f8db19f82bb28eae72f317897d23d87819e4743d82c070"
+     },
+     {
+      "name": "vice-2b4b5e3e5390.tar.gz",
+      "size": 17867035,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/vice-2b4b5e3e5390.tar.gz",
+      "digest": "sha256:c063c0dca17242ecb3fa2b0e50edfc346dfc3dff34b48d57e445935c3906227a"
+     },
+     {
+      "name": "zlib-1.3.2.tar.gz",
+      "size": 1502830,
+      "browser_download_url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v0.6.0-alpha.6/zlib-1.3.2.tar.gz",
+      "digest": "sha256:bb329a0a2cd0274d05519d61c667c062e06990d72e125ee2dfa8de64f0119d16"
+     }
+    ]
+   },
    {
     "tag_name": "v0.5.7-alpha.5",
     "name": "PS5 RetroArch - Alpha 5.7",
@@ -2544,6 +2716,12 @@
       "size": 16951407,
       "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-117/PS5SX2-vk-285-117.zip",
       "digest": "sha256:cd16892453ccff91c5643bc47edfbd6c376db7c41dd28c87fd09f5a97749fa6d"
+     },
+     {
+      "name": "PS5SX2Installer.elf",
+      "size": 1196432,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-117/PS5SX2Installer.elf",
+      "digest": "sha256:6b1be3ea24ec8144b27b2a1f3e279cd17574f3093e9431abf8579dcc6c0bfae9"
      },
      {
       "name": "PS5SXHelper.elf",
