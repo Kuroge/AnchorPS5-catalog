@@ -9,11 +9,8 @@ app's own GitHub repository**. Only the list lives here: no binaries are hosted.
 
 ## What goes into the catalog
 
-- ✅ PS5 homebrew that runs on a console **already in homebrew mode**: servers (FTP,
-  web…), utilities, save data managers, media players, etc.
-- ❌ Exploits, jailbreaks and tools that put the console into homebrew mode.
-- ❌ Piracy: copying, dumping or loading commercial games or their backups.
-- ❌ Bypassing DRM, licenses or accounts.
+PS5 homebrew that runs on a console **already in homebrew mode**: servers (FTP, web…),
+utilities, save data managers, media players, etc.
 
 ## Want to add an app?
 

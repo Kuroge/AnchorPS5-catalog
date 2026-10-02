@@ -9,11 +9,8 @@ propio repo de GitHub**. Aquí solo está la lista: no se alojan binarios.
 
 ## Qué entra en el catálogo
 
-- ✅ Homebrew para PS5 que funciona con la consola **ya en modo homebrew**: servidores
-  (FTP, web…), utilidades, gestores de partidas guardadas, reproductores, etc.
-- ❌ Exploits, jailbreak y herramientas para poner la consola en modo homebrew.
-- ❌ Piratería: copiar, volcar o cargar juegos comerciales o sus backups.
-- ❌ Saltarse DRM, licencias o cuentas.
+Homebrew para PS5 que funciona con la consola **ya en modo homebrew**: servidores (FTP,
+web…), utilidades, gestores de partidas guardadas, reproductores, etc.
 
 ## ¿Quieres añadir una app?
 
