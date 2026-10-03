@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-03T12:30:47+00:00",
+ "generatedAt": "2026-10-03T19:51:36+00:00",
  "repos": {
   "blackbearreloaded/ProsperoAI": [
    {
@@ -2346,10 +2346,16 @@
       "digest": "sha256:a2b14616a2662a5e8401aad9012ba1c0d3df68211e5b70039eedfb9a0845a0be"
      },
      {
+      "name": "EVOPlayer-v0.10.0-PPSA99039.zip",
+      "size": 19590627,
+      "browser_download_url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.zip",
+      "digest": "sha256:dd7d80dcfbf27af377f4014df4e88ea412988d169785912b10a162e3060cb011"
+     },
+     {
       "name": "SHA256SUMS.txt",
-      "size": 101,
+      "size": 199,
       "browser_download_url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/SHA256SUMS.txt",
-      "digest": "sha256:020aa91a457587e5f4f68e11b7be45c823678272f5750baa502d05d42a8ac6f8"
+      "digest": "sha256:6e090d1d1c54f1aee261d11df5123c1b1ced54c7aa4cfc2df2accba92c8a93e8"
      }
     ]
    },
@@ -2703,6 +2709,34 @@
    }
   ],
   "Swordpdf/PS5SX2": [
+   {
+    "tag_name": "vk-285-122",
+    "name": "PS5SX2 1.8",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-03T18:40:59Z",
+    "html_url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-122",
+    "assets": [
+     {
+      "name": "PS5SX2-vk-285-122.zip",
+      "size": 16975859,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-122/PS5SX2-vk-285-122.zip",
+      "digest": "sha256:8c1488600832971702b1fe09dc68f64e1a1206be7ff307e0a4dea96ed49820a1"
+     },
+     {
+      "name": "PS5SX2Installer.elf",
+      "size": 1196432,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-122/PS5SX2Installer.elf",
+      "digest": "sha256:6b1be3ea24ec8144b27b2a1f3e279cd17574f3093e9431abf8579dcc6c0bfae9"
+     },
+     {
+      "name": "PS5SXHelper.elf",
+      "size": 1052384,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-122/PS5SXHelper.elf",
+      "digest": "sha256:737d95a8a1545447c4166b094005704465e420f79f54e882e30e7f9e4cde6210"
+     }
+    ]
+   },
    {
     "tag_name": "vk-285-118",
     "name": "PS5SX2 1.7",
