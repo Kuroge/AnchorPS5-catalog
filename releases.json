@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-03T19:51:36+00:00",
+ "generatedAt": "2026-10-03T23:01:35+00:00",
  "repos": {
   "blackbearreloaded/ProsperoAI": [
    {
@@ -161,6 +161,34 @@
    }
   ],
   "blackbearreloaded/ProsperoLight": [
+   {
+    "tag_name": "01.000.080",
+    "name": "ProsperoLight 01.000.080",
+    "draft": false,
+    "prerelease": true,
+    "published_at": "2026-10-03T20:24:45Z",
+    "html_url": "https://github.com/blackbearreloaded/ProsperoLight/releases/tag/01.000.080",
+    "assets": [
+     {
+      "name": "PPSA99002.ffpfsc",
+      "size": 26935296,
+      "browser_download_url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.080/PPSA99002.ffpfsc",
+      "digest": "sha256:7f2e364aa98d7db9b5d9f4a5d5d9ae69321a8bdd319c10ef551a2da13ba6105c"
+     },
+     {
+      "name": "PPSA99002.zip",
+      "size": 24052742,
+      "browser_download_url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.080/PPSA99002.zip",
+      "digest": "sha256:30e373f5eef475b30a65ffb43a19bce74dc6688d902c04ce8b6df0fe3df7695d"
+     },
+     {
+      "name": "SHA256SUMS",
+      "size": 163,
+      "browser_download_url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.080/SHA256SUMS",
+      "digest": "sha256:6ea49f9d720801ab8a0906016ec5d207dfadfada078a1afa3fde9a048aca889a"
+     }
+    ]
+   },
    {
     "tag_name": "01.000.070",
     "name": "ProsperoLight 01.000.070",
@@ -1087,6 +1115,22 @@
    }
   ],
   "elripalda/psgfx": [
+   {
+    "tag_name": "v1.1.0",
+    "name": "PSGFX 1.1",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-03T20:37:40Z",
+    "html_url": "https://github.com/elripalda/psgfx/releases/tag/v1.1.0",
+    "assets": [
+     {
+      "name": "PSGFX-windows.zip",
+      "size": 1545917,
+      "browser_download_url": "https://github.com/elripalda/psgfx/releases/download/v1.1.0/PSGFX-windows.zip",
+      "digest": "sha256:6bb77d84fb8e8b81f1870831355b4751f23f56129132ee4f267a190942657781"
+     }
+    ]
+   },
    {
     "tag_name": "v1.0.0",
     "name": "PSGFX 1.0",
