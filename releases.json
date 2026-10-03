@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-02T22:11:37+00:00",
+ "generatedAt": "2026-10-03T12:30:47+00:00",
  "repos": {
   "blackbearreloaded/ProsperoAI": [
    {
@@ -2703,6 +2703,34 @@
    }
   ],
   "Swordpdf/PS5SX2": [
+   {
+    "tag_name": "vk-285-118",
+    "name": "PS5SX2 1.7",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-03T11:13:51Z",
+    "html_url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-118",
+    "assets": [
+     {
+      "name": "PS5SX2-vk-285-118.zip",
+      "size": 16974170,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-118/PS5SX2-vk-285-118.zip",
+      "digest": "sha256:1caeba2bf8c3426ef5461796d54bf7d770adfb1a01ae3c7cebe5e665f1ba65ec"
+     },
+     {
+      "name": "PS5SX2Installer.elf",
+      "size": 1196432,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-118/PS5SX2Installer.elf",
+      "digest": "sha256:6b1be3ea24ec8144b27b2a1f3e279cd17574f3093e9431abf8579dcc6c0bfae9"
+     },
+     {
+      "name": "PS5SXHelper.elf",
+      "size": 1052384,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-118/PS5SXHelper.elf",
+      "digest": "sha256:737d95a8a1545447c4166b094005704465e420f79f54e882e30e7f9e4cde6210"
+     }
+    ]
+   },
    {
     "tag_name": "vk-285-117",
     "name": "PS5SX2 1.6",
