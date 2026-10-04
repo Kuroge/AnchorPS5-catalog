@@ -44,12 +44,12 @@ comprueba automáticamente con [`scripts/validar.py`](scripts/validar.py).
 Para no depender del límite de consultas de GitHub (60 por hora sin sesión), este repo
 publica [`releases.json`](releases.json): las últimas releases de cada app del catálogo,
 con sus ficheros, tamaños y SHA-256. Lo genera una tarea automática
-([`scripts/indice.py`](scripts/indice.py)) **cada hora** y cada vez que cambia
-`catalog.json`, y solo se guarda si algo ha cambiado.
+([`scripts/indice.py`](scripts/indice.py)) programada **cada hora** (GitHub suele retrasarla, así que en la práctica se ejecuta cada
+pocas horas) y cada vez que cambia `catalog.json`, y solo se guarda si algo ha cambiado.
 
 AnchorPS5, si no has iniciado sesión en GitHub, descarga este único fichero en lugar de
-preguntar a GitHub app por app. Por eso una release recién publicada puede tardar hasta
-una hora en aparecer en el índice. Con sesión, la app pregunta a GitHub directamente y
+preguntar a GitHub app por app. Por eso una release recién publicada puede tardar unas
+horas en aparecer en el índice. Con sesión, la app pregunta a GitHub directamente y
 el índice queda de respaldo.
 
 ## Créditos

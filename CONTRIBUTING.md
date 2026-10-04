@@ -67,8 +67,8 @@ link and it will give you back a block like this one:
 }
 ```
 
-> Only edit `catalog.json`. The `releases.json` file is generated automatically every
-> hour: don't touch it; as soon as your app is in the catalog, it will show up there.
+> Only edit `catalog.json`. The `releases.json` file is generated automatically several
+> times a day: don't touch it; as soon as your app is in the catalog, it will show up there.
 
 ### 3. Send the proposal
 

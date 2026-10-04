@@ -45,11 +45,11 @@ checked automatically by [`scripts/validar.py`](scripts/validar.py).
 To avoid depending on GitHub's request limit (60 per hour without a session), this repo
 publishes [`releases.json`](releases.json): the latest releases of every catalog app,
 with their files, sizes and SHA-256. An automatic task
-([`scripts/indice.py`](scripts/indice.py)) generates it **every hour** and every time
-`catalog.json` changes, and it's only saved if something changed.
+([`scripts/indice.py`](scripts/indice.py)) is scheduled **every hour** (GitHub usually delays it, so in practice it runs every few
+hours) and also runs every time `catalog.json` changes; it's only saved if something changed.
 
 When you're not signed in to GitHub, AnchorPS5 downloads this single file instead of
-asking GitHub app by app. That's why a just-published release may take up to an hour to
+asking GitHub app by app. That's why a just-published release may take a few hours to
 show up in the index. Signed in, the app asks GitHub directly and the index is the
 fallback.
 

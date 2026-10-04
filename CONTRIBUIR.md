@@ -66,7 +66,7 @@ enlace de la app y te devuelve un bloque como este:
 }
 ```
 
-> Edita solo `catalog.json`. El fichero `releases.json` se genera solo cada hora: no lo
+> Edita solo `catalog.json`. El fichero `releases.json` se genera solo, varias veces al día: no lo
 > toques; en cuanto tu app entre en el catálogo, aparecerá en él.
 
 ### 3. Envía la propuesta
