@@ -294,6 +294,41 @@
       "assets": [
         {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}, "description": {"es": "Se descomprime en /data/homebrew/ y la monta ShadowMountPlus.", "en": "Extract it to /data/homebrew/ and ShadowMountPlus mounts it."}}
       ]
+    },
+    {
+      "id": "github:TheCriicom/omega-dashboard-ps5",
+      "name": "Omega",
+      "author": "TheCriicom",
+      "repo": "TheCriicom/omega-dashboard-ps5",
+      "description": {
+        "es": "Home alternativa para PS5: juegos, homebrew y juegos en discos externos en una sola fila, tienda de homebrew, música y radio, mando desde el móvil, chat de grupo y más de 30 opciones de personalización. 27 idiomas.",
+        "en": "Replacement Home for PS5: games, homebrew and games on external drives in one row, homebrew Store, music and radio, phone remote, party chat and 30+ customization options. 27 languages."
+      },
+      "iconUrl": "https://raw.githubusercontent.com/TheCriicom/omega-dashboard-ps5/main/client/sce_sys/icon0.png",
+      "assets": [
+        {
+          "match": "omega-installer*.elf",
+          "label": {
+            "es": "Instalador",
+            "en": "Installer"
+          },
+          "description": {
+            "es": "Envíalo al ELF loader una vez: instala Omega como app en el menú de la consola (necesita websrv).",
+            "en": "Send it to the ELF loader once: installs Omega as an app on the console menu (requires websrv)."
+          }
+        },
+        {
+          "match": "omega-*.zip",
+          "label": {
+            "es": "Carpeta",
+            "en": "Folder"
+          },
+          "description": {
+            "es": "La misma app en carpeta, para copiarla por FTP en /data/homebrew/.",
+            "en": "The same app as a folder, to copy over FTP into /data/homebrew/."
+          }
+        }
+      ]
     }
   ]
 }
