@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-05T09:00:15+00:00",
+ "generatedAt": "2026-10-05T18:24:49+00:00",
  "repos": {
   "blackbearreloaded/ProsperoAI": [
    {
@@ -413,6 +413,28 @@
    }
   ],
   "blackbearreloaded/ProsperoRadio": [
+   {
+    "tag_name": "01.000.010",
+    "name": "ProsperoRadio 01.000.010",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-05T14:50:47Z",
+    "html_url": "https://github.com/blackbearreloaded/ProsperoRadio/releases/tag/01.000.010",
+    "assets": [
+     {
+      "name": "PPSA99001.zip",
+      "size": 18233463,
+      "browser_download_url": "https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.010/PPSA99001.zip",
+      "digest": "sha256:413011fcaf2cee3b1ce796388f3c9b13d3a0ac2e1a1a2b5bc5bba1adcd0fc020"
+     },
+     {
+      "name": "SHA256SUMS",
+      "size": 80,
+      "browser_download_url": "https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.010/SHA256SUMS",
+      "digest": "sha256:7ce11076dae69b8a85ef858c48c9f2a6b4a261993f329eb143e475d7cd0b0efc"
+     }
+    ]
+   },
    {
     "tag_name": "01.000.005",
     "name": "ProsperoRadio 01.000.005",
