@@ -294,6 +294,665 @@
       "assets": [
         {"match": "*.zip", "label": {"es": "Carpeta de la app", "en": "App folder"}, "description": {"es": "Se descomprime en /data/homebrew/ y la monta ShadowMountPlus.", "en": "Extract it to /data/homebrew/ and ShadowMountPlus mounts it."}}
       ]
-    }
+    },
+      {
+    "id": "github:premohq/PS5CEMU-HAR",
+    "name": "PS5CEMU-HAR",
+    "author": "premohq",
+    "repo": "premohq/PS5CEMU-HAR",
+    "description": {
+      "es": "Emulador que une Cemu (Wii U) y Azahar (Nintendo 3DS) en una sola app para PS5 con jailbreak. Usa Vulkan a través del driver RADV de Mihawk y se controla con el DualSense.",
+      "en": "Emulator that bundles Cemu (Wii U) and Azahar (Nintendo 3DS) into a single homebrew app for jailbroken PS5. It renders with Vulkan through Mihawk's RADV driver and is played with the DualSense."
+    },
+    "iconUrl": "https://github.com/premohq.png?size=256",
+    "assets": [
+      { "match": "PS5CEMU-HAR-*.zip", "label": { "es": "Carpeta de la app", "en": "App folder" }, "description": { "es": "Se descomprime en /data/homebrew/ y se carga con el HEN.", "en": "Extract to /data/homebrew/ and load it with your HEN." } }
+    ]
+  },
+  {
+    "id": "github:cobanov/PS5LM",
+    "name": "PS5LM",
+    "author": "cobanov",
+    "repo": "cobanov/PS5LM",
+    "description": {
+      "es": "Port de llama.cpp para PS5 con jailbreak. Permite ejecutar modelos de lenguaje GGUF (como Qwen) nativamente en la consola a través de un payload que abre una biblioteca de modelos en el navegador.",
+      "en": "llama.cpp port for jailbroken PS5. It runs GGUF language models (like Qwen) natively on the console through a payload that opens a model library in the browser."
+    },
+    "iconUrl": "https://github.com/cobanov.png?size=256",
+    "assets": [
+      { "match": "ps5lm.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:KytyPS5/KytyPS5",
+    "name": "KytyPS5",
+    "author": "KytyPS5",
+    "repo": "KytyPS5/KytyPS5",
+    "description": {
+      "es": "Emulador de PlayStation 5 para Windows, Linux y macOS (experimental). Basado en Kyty, puede arrancar juegos 2D y algunos 3D (Unreal Engine 4/5, Unity). No distribuye juegos ni software del sistema.",
+      "en": "PlayStation 5 emulator for Windows, Linux and experimental macOS. Based on Kyty, it can boot 2D games and a selection of 3D titles (Unreal Engine 4/5, Unity). It does not distribute games or system software."
+    },
+    "iconUrl": "https://github.com/KytyPS5.png?size=256",
+    "assets": [
+      { "match": "KytyPS5-*.zip", "label": { "es": "Ejecutable", "en": "Executable" } }
+    ]
+  },
+  {
+    "id": "github:iStark/PS5PCEM",
+    "name": "PS5PCEM",
+    "author": "iStark",
+    "repo": "iStark/PS5PCEM",
+    "description": {
+      "es": "Emulador experimental de PlayStation 5 para PC escrito en Zig. Está en desarrollo activo y su prototipo para Windows x64 es la versión 0.3.2.",
+      "en": "Experimental PlayStation 5 emulator for PC written in Zig. It is under active development and its Windows x64 prototype is at version 0.3.2."
+    },
+    "iconUrl": "https://github.com/iStark.png?size=256",
+    "assets": [
+      { "match": "PS5PCEM-*.zip", "label": { "es": "Ejecutable", "en": "Executable" } }
+    ]
+  },
+  {
+    "id": "github:Force67/prosperity",
+    "name": "Prosperity",
+    "author": "Force67",
+    "repo": "Force67/prosperity",
+    "description": {
+      "es": "Emulador experimental dual de PS4 y PS5 para Linux y Android (Windows en el futuro). La CPU se ejecuta de forma nativa en hosts AMD64 y la GPU se emula por completo, recompilando el código gráfico a SPIR-V.",
+      "en": "Experimental dual PS4 and PS5 emulator for Linux and Android (Windows planned). The CPU runs natively on AMD64 hosts and the GPU is fully emulated, recompiling graphics code to SPIR-V."
+    },
+    "iconUrl": "https://github.com/Force67.png?size=256",
+    "assets": [
+      { "match": "prosperity-*.zip", "label": { "es": "Ejecutable", "en": "Executable" } }
+    ]
+  },
+  {
+    "id": "github:elripalda/Porpoise-Dolphin-Emulator-for-PS5",
+    "name": "Porpoise",
+    "author": "elripalda",
+    "repo": "elripalda/Porpoise-Dolphin-Emulator-for-PS5",
+    "description": {
+      "es": "Emulador nativo de GameCube y Wii para PS5 con jailbreak, basado en Dolphin. Incluye una biblioteca estilo cover-flow, carátulas, tarjetas de memoria y música original.",
+      "en": "Native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. It features a cover-flow library, box art, memory cards and original music."
+    },
+    "iconUrl": "https://github.com/elripalda.png?size=256",
+    "assets": [
+      { "match": "Porpoise-*.zip", "label": { "es": "Carpeta de la app", "en": "App folder" } }
+    ]
+  },
+  {
+    "id": "github:GronedWaffel/etahen-11.00-13.60",
+    "name": "etaHEN 2.5B Unified",
+    "author": "GronedWaffel",
+    "repo": "GronedWaffel/etahen-11.00-13.60",
+    "description": {
+      "es": "Actualización no oficial de etaHEN que unifica el soporte para firmwares 11.00 a 13.60. Incluye corrección del arranque con el mando, visualización de FPS para juegos de PS5 y PS4, y contenedores nativos para plugins de sistema y juego.",
+      "en": "Unofficial etaHEN update that unifies support for firmwares 11.00 to 13.60. It includes a controller-input startup fix, FPS display for PS5 and PS4 games, and native containers for system and game plugins."
+    },
+    "iconUrl": "https://github.com/GronedWaffel.png?size=256",
+    "assets": [
+      { "match": "etaHEN-11.00-13.60.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:ZiZc3/Ruffle-Flash-PS5",
+    "name": "Ruffle Flash PS5",
+    "author": "ZiZc3",
+    "repo": "ZiZc3/Ruffle-Flash-PS5",
+    "description": {
+      "es": "Reproductor de juegos Flash (.swf) para PS5 con jailbreak. Soporta ratón y teclado USB, menú rápido en juegos, temas, logros y búsqueda de juegos.",
+      "en": "Flash game (.swf) player for jailbroken PS5. It supports USB mouse and keyboard, an in-game quick menu, themes, achievements and game search."
+    },
+    "iconUrl": "https://github.com/ZiZc3.png?size=256",
+    "assets": [
+      { "match": "PPSA68091.zip", "label": { "es": "Carpeta de la app", "en": "App folder" }, "description": { "es": "Se descomprime en /data/homebrew/ y se carga con el HEN.", "en": "Extract to /data/homebrew/ and load it with your HEN." } },
+      { "match": "helper.elf", "label": { "es": "Helper", "en": "Helper" }, "description": { "es": "Se carga junto a kstuff.", "en": "Load it together with kstuff." } }
+    ]
+  },
+  {
+    "id": "github:ItsBlurf/BFpilot",
+    "name": "BFpilot",
+    "author": "ItsBlurf",
+    "repo": "ItsBlurf/BFpilot",
+    "description": {
+      "es": "Gestor de archivos ligero para PS5 con interfaz web en el puerto 5905. Permite explorar el almacenamiento, extraer archivos ZIP/RAR/7z e instalar PKGs locales.",
+      "en": "Lightweight PS5 file manager with a web interface on port 5905. It lets you browse storage, extract ZIP/RAR/7z archives and install local PKGs."
+    },
+    "iconUrl": "https://github.com/ItsBlurf.png?size=256",
+    "assets": [
+      { "match": "bfpilot.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:juma-sayeh/PS5-File-Explorer",
+    "name": "PS5 File Explorer",
+    "author": "juma-sayeh",
+    "repo": "juma-sayeh/PS5-File-Explorer",
+    "description": {
+      "es": "Payload que inicia un explorador de archivos basado en navegador en el puerto 5905. Mantiene accesos directos a /data/homebrew y /mnt/usb0.",
+      "en": "Payload that starts a browser-based file explorer on port 5905. It keeps shortcuts to /data/homebrew and /mnt/usb0."
+    },
+    "iconUrl": "https://github.com/juma-sayeh.png?size=256",
+    "assets": [
+      { "match": "ps5-file-explorer.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:n0llptr/Playstation-5-Save-Mounter",
+    "name": "Playstation 5 Save Mounter",
+    "author": "n0llptr",
+    "repo": "n0llptr/Playstation-5-Save-Mounter",
+    "description": {
+      "es": "Herramienta para Windows que permite montar, leer y editar partidas guardadas de PS1, PS2, PSP, PS4 y PS5. Se conecta a la consola por FTP y soporta todos los firmwares con jailbreak.",
+      "en": "Windows tool that lets you mount, read and edit PS1, PS2, PSP, PS4 and PS5 game saves. It connects to the console over FTP and supports all jailbreakable firmwares."
+    },
+    "iconUrl": "https://github.com/n0llptr.png?size=256",
+    "assets": [
+      { "match": "Playstation-5-Save-Mounter-*.zip", "label": { "es": "App para Windows", "en": "Windows app" } }
+    ]
+  },
+  {
+    "id": "github:itsPLK/ps5-payload-manager",
+    "name": "PS5 Payload Manager",
+    "author": "itsPLK",
+    "repo": "itsPLK/ps5-payload-manager",
+    "description": {
+      "es": "Dashboard web para gestionar, importar y cargar payloads automáticamente en la PS5. Accesible desde PC, móvil o la propia consola, e incluye acceso directo en la pantalla de inicio.",
+      "en": "Web dashboard to manage, import and automatically load payloads on your PS5. Accessible from PC, phone or the console itself, and it includes a home screen shortcut."
+    },
+    "iconUrl": "https://github.com/itsPLK.png?size=256",
+    "assets": [
+      { "match": "pldmgr.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:Pharaoh2k/PlayStation-Payload-Center",
+    "name": "PlayStation Payload Center",
+    "author": "Pharaoh2k",
+    "repo": "Pharaoh2k/PlayStation-Payload-Center",
+    "description": {
+      "es": "Herramienta de escritorio multiplataforma para descubrir, descargar, verificar (SHA-256) y enviar payloads homebrew a PS4 y PS5 con jailbreak.",
+      "en": "Cross-platform desktop tool to discover, download, SHA-256-verify and send homebrew payloads to jailbroken PS4 and PS5 consoles."
+    },
+    "iconUrl": "https://github.com/Pharaoh2k.png?size=256",
+    "assets": [
+      { "match": "PlayStation-Payload-Center-*.zip", "label": { "es": "Ejecutable", "en": "Executable" } }
+    ]
+  },
+  {
+    "id": "github:aydencharles/onionHEN",
+    "name": "OnionHEN",
+    "author": "aydencharles",
+    "repo": "aydencharles/onionHEN",
+    "description": {
+      "es": "Homebrew Enabler y Toolbox alternativo para PS5 con jailbreak. Prepara el sistema, inyecta un Toolbox en el ShellUI y añade gestión de payloads, trucos y servicios en segundo plano.",
+      "en": "Homebrew Enabler and alternative Toolbox for jailbroken PS5. It prepares the system, injects a Toolbox into the ShellUI and adds payload management, cheats and background services."
+    },
+    "iconUrl": "https://github.com/aydencharles.png?size=256",
+    "assets": [
+      { "match": "onionHEN.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:whoismob/onionhen-13x-research",
+    "name": "DPI v2 OnionHEN plugin",
+    "author": "whoismob",
+    "repo": "whoismob/onionhen-13x-research",
+    "description": {
+      "es": "Plugin externo para OnionHEN compilado específicamente para PS5 13.60. Añade un instalador de PKG remoto basado en navegador que permite arrastrar un paquete desde cualquier dispositivo de la red local.",
+      "en": "External OnionHEN plugin built specifically for PS5 13.60. It adds a browser-based remote PKG installer that lets you drop a package from any device on the local network."
+    },
+    "iconUrl": "https://github.com/whoismob.png?size=256",
+    "assets": [
+      { "match": "dpiv2-13.60-*.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:KsAmJ/PS5-Auto-Jailbreak-and-Auto-Run-Payload-",
+    "name": "PS5 Auto JB + Autorun Payload",
+    "author": "KsAmJ",
+    "repo": "KsAmJ/PS5-Auto-Jailbreak-and-Auto-Run-Payload-",
+    "description": {
+      "es": "Paquete listo para flashear en una placa ESP32-S3 (16MB) que incluye UTMX2 modificado, ps5-hen y etaHEN 2.5b. Permite hacer jailbreak automático y cargar payloads al arrancar la consola.",
+      "en": "Ready-to-flash package for an ESP32-S3 (16MB) board that includes modified UTMX2, ps5-hen and etaHEN 2.5b. It enables automatic jailbreak and payload loading on console boot."
+    },
+    "iconUrl": "https://github.com/KsAmJ.png?size=256",
+    "assets": [
+      { "match": "AutoJB+AutorunPayload-*.bin", "label": { "es": "Firmware ESP32", "en": "ESP32 firmware" } }
+    ]
+  },
+  {
+    "id": "github:cy33hc/ps5-payload-loader",
+    "name": "ps5-payload-loader",
+    "author": "cy33hc",
+    "repo": "cy33hc/ps5-payload-loader",
+    "description": {
+      "es": "App homebrew para cargar payloads .elf/.bin desde la unidad interna o un USB. Diseñada para usarse con PS5 JAR Loader e incluye etaHEN, kstuff y ftpsrv por defecto.",
+      "en": "Homebrew app to load .elf/.bin payloads from the internal drive or a USB drive. Designed to be used with PS5 JAR Loader and it includes etaHEN, kstuff and ftpsrv by default."
+    },
+    "iconUrl": "https://github.com/cy33hc.png?size=256",
+    "assets": [
+      { "match": "ps5-payload-loader.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:EchoStretch/dump_installer",
+    "name": "Dump Installer",
+    "author": "EchoStretch",
+    "repo": "EchoStretch/dump_installer",
+    "description": {
+      "es": "Utilidad para ejecutar apps homebrew en PS5 usando los payloads Kstuff, Websrv y Homebrew Launcher. Se copia una carpeta a un USB y se lanza desde el lanzador.",
+      "en": "Utility to run homebrew apps on PS5 using the Kstuff, Websrv and Homebrew Launcher payloads. Copy a folder to a USB drive and launch it from the launcher."
+    },
+    "iconUrl": "https://github.com/EchoStretch.png?size=256",
+    "assets": [
+      { "match": "dump_installer.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:phantomptr/ps5upload",
+    "name": "PS5 Upload",
+    "author": "phantomptr",
+    "repo": "phantomptr/ps5upload",
+    "description": {
+      "es": "Herramienta para transferir apps y homebrew a la consola sin las lentitudes habituales. Incluye servidor FTP integrado (puerto 2122) y navegador SMB.",
+      "en": "Tool to transfer apps and homebrew to the console without the usual slow speeds. It includes an integrated FTP server (port 2122) and an SMB browser."
+    },
+    "iconUrl": "https://github.com/phantomptr.png?size=256",
+    "assets": [
+      { "match": "ps5upload-*.zip", "label": { "es": "Ejecutable", "en": "Executable" } }
+    ]
+  },
+  {
+    "id": "github:barisyild/airpsx",
+    "name": "AirPSX",
+    "author": "barisyild",
+    "repo": "barisyild/airpsx",
+    "description": {
+      "es": "Payload similar a AirDroid que permite gestionar muchas operaciones de la PS5 a través de un entorno de escritorio web. Se accede desde el navegador de cualquier dispositivo de la red local.",
+      "en": "AirDroid-like payload that lets you manage many PS5 operations through a web-based desktop environment. Access it from any browser on your local network."
+    },
+    "iconUrl": "https://github.com/barisyild.png?size=256",
+    "assets": [
+      { "match": "airpsx.zip", "label": { "es": "Carpeta de la app", "en": "App folder" }, "description": { "es": "Se descomprime en /data/homebrew/airpsx/.", "en": "Extract to /data/homebrew/airpsx/." } }
+    ]
+  },
+  {
+    "id": "github:notmaj0r/ProsperoMgr",
+    "name": "Prospero Manager",
+    "author": "notmaj0r",
+    "repo": "notmaj0r/ProsperoMgr",
+    "description": {
+      "es": "Gestor homebrew todo-en-uno basado en web para PS5. Se envía ProsperoMgr.elf a la consola y permite gestionar ZIPs, archivos, repositorios de payloads y más.",
+      "en": "All-in-one web-based homebrew manager for PS5. Send ProsperoMgr.elf to the console and it lets you manage ZIPs, files, payload repositories and more."
+    },
+    "iconUrl": "https://github.com/notmaj0r.png?size=256",
+    "assets": [
+      { "match": "ProsperoMgr.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:aydencharles/kylin-core-release",
+    "name": "Kylin Core",
+    "author": "aydencharles",
+    "repo": "aydencharles/kylin-core-release",
+    "description": {
+      "es": "Cargador de trucos y modificador de juego en tiempo real para PS5. Soporta archivos .shn, .mc4 y .json, detecta el juego automáticamente y permite activar o desactivar trucos al instante.",
+      "en": "Cheat loader and real-time game modifier for PS5. It supports .shn, .mc4 and .json cheat files, auto-detects the running game and lets you toggle cheats instantly."
+    },
+    "iconUrl": "https://github.com/aydencharles.png?size=256",
+    "assets": [
+      { "match": "kylin-core.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:itsPLK/ps5-elfldr",
+    "name": "ps5-payload-elfldr",
+    "author": "itsPLK",
+    "repo": "itsPLK/ps5-elfldr",
+    "description": {
+      "es": "Fork del ELF loader que solo acepta payloads desde la propia PS5. Se ejecuta en segundo plano, sobrevive al modo reposo y sigue funcionando aunque un payload se cierre.",
+      "en": "ELF loader fork that only accepts payloads from the PS5 itself. It runs in the background, survives rest mode and keeps working even if a payload crashes."
+    },
+    "iconUrl": "https://github.com/itsPLK.png?size=256",
+    "assets": [
+      { "match": "elfldr-ps5.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:ps5-payload-dev/elfldr",
+    "name": "ps5-payload-elfldr",
+    "author": "ps5-payload-dev",
+    "repo": "ps5-payload-dev/elfldr",
+    "description": {
+      "es": "ELF loader oficial para PS5 con jailbreak que acepta payloads en el puerto 9021. Se ejecuta en segundo plano y sobrevive al modo reposo.",
+      "en": "Official ELF loader for jailbroken PS5 that accepts payloads on port 9021. It runs in the background and survives rest mode."
+    },
+    "iconUrl": "https://github.com/ps5-payload-dev.png?size=256",
+    "assets": [
+      { "match": "elfldr-ps5.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:ItsDeidara/ChronicLoader-PS5-Payload",
+    "name": "ChronicLoader",
+    "author": "ItsDeidara",
+    "repo": "ItsDeidara/ChronicLoader-PS5-Payload",
+    "description": {
+      "es": "Gestor de actualización de payloads y administrador de autoload.txt para PS5. Permite mantener los payloads al día y automatizar su carga.",
+      "en": "Payload updater and autoload.txt manager for PS5. It keeps your payloads up to date and automates their loading."
+    },
+    "iconUrl": "https://github.com/ItsDeidara.png?size=256",
+    "assets": [
+      { "match": "ChronicLoader-*.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:itsPLK/PS5-Lapy-JB-Daemon",
+    "name": "Lapy JB Daemon",
+    "author": "itsPLK",
+    "repo": "itsPLK/PS5-Lapy-JB-Daemon",
+    "description": {
+      "es": "Daemon de jailbreak homebrew independiente para PS5. Imita la API de jailbreak bajo demanda de etaHEN y es compatible con firmwares 3.00 a 12.00 sin necesidad de etaHEN.",
+      "en": "Standalone homebrew jailbreak daemon for PS5. It mimics etaHEN's jailbreak-on-demand API and supports firmwares 3.00 to 12.00 without requiring etaHEN."
+    },
+    "iconUrl": "https://github.com/itsPLK.png?size=256",
+    "assets": [
+      { "match": "lapy-jb-daemon.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:robin2kk/Goldengames-PS5-Autoloader",
+    "name": "Goldengames PS5 Jailbreak",
+    "author": "robin2kk",
+    "repo": "robin2kk/Goldengames-PS5-Autoloader",
+    "description": {
+      "es": "Solución todo-en-uno de jailbreak y lanzador de payloads para PS5. Incluye OnionHEN 0.0.11, PIZZA-HEN v0.1 y ShadowMountPlus 1.7 Alpha 11, todos verificados con SHA-256.",
+      "en": "All-in-one jailbreak and payload launcher for PS5. It includes OnionHEN 0.0.11, PIZZA-HEN v0.1 and ShadowMountPlus 1.7 Alpha 11, all SHA-256 verified."
+    },
+    "iconUrl": "https://github.com/robin2kk.png?size=256",
+    "assets": [
+      { "match": "Goldengames-PS5-Autoloader-*.zip", "label": { "es": "Paquete", "en": "Package" } }
+    ]
+  },
+  {
+    "id": "github:mshivam019/morrowind-ps5",
+    "name": "OpenMW (Morrowind)",
+    "author": "mshivam019",
+    "repo": "mshivam019/morrowind-ps5",
+    "description": {
+      "es": "Port nativo de OpenMW (motor de Morrowind) para PS5 con resolución 1080p y controles con DualSense. Requiere los archivos del juego original.",
+      "en": "Native OpenMW port (Morrowind engine) for PS5 at 1080p with DualSense controls. It requires the original game files."
+    },
+    "iconUrl": "https://github.com/mshivam019.png?size=256",
+    "assets": [
+      { "match": "morrowind-ps5-*.zip", "label": { "es": "Carpeta de la app", "en": "App folder" } }
+    ]
+  },
+  {
+    "id": "github:mshivam019/oot64-ps5",
+    "name": "Ship of Harkinian (Ocarina of Time)",
+    "author": "mshivam019",
+    "repo": "mshivam019/oot64-ps5",
+    "description": {
+      "es": "Port nativo de Ship of Harkinian (Ocarina of Time) para PS5 con 4K, ~60 FPS y texturas HD. Requiere tu propia ROM del juego.",
+      "en": "Native Ship of Harkinian port (Ocarina of Time) for PS5 with 4K, ~60 FPS and HD textures. It requires your own game ROM."
+    },
+    "iconUrl": "https://github.com/mshivam019.png?size=256",
+    "assets": [
+      { "match": "oot64-ps5-*.zip", "label": { "es": "Carpeta de la app", "en": "App folder" } }
+    ]
+  },
+  {
+    "id": "github:alex-free/wolf4sdl-ps5",
+    "name": "Wolf4SDL",
+    "author": "alex-free",
+    "repo": "alex-free/wolf4sdl-ps5",
+    "description": {
+      "es": "Port nativo de Wolf4SDL (Wolfenstein 3D) para PS5. Se lanza desde el Homebrew Launcher y requiere los archivos del juego original.",
+      "en": "Native Wolf4SDL port (Wolfenstein 3D) for PS5. It is launched from the Homebrew Launcher and requires the original game files."
+    },
+    "iconUrl": "https://github.com/alex-free.png?size=256",
+    "assets": [
+      { "match": "wolf4sdl-ps5-*.zip", "label": { "es": "Carpeta de la app", "en": "App folder" } }
+    ]
+  },
+  {
+    "id": "github:ItsBlurf/BFplayer",
+    "name": "BFplayer",
+    "author": "ItsBlurf",
+    "repo": "ItsBlurf/BFplayer",
+    "description": {
+      "es": "Reproductor multimedia y biblioteca completa para PS5. Soporta subtítulos, múltiples pistas de audio, ajuste de relación de aspecto y recorte. Instala su propio icono en la sección Media.",
+      "en": "Media player and complete library for PS5. It supports subtitles, multiple audio tracks, aspect ratio adjustment and cropping. It installs its own tile in the Media section."
+    },
+    "iconUrl": "https://github.com/ItsBlurf.png?size=256",
+    "assets": [
+      { "match": "BFplayer-standalone-*.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:ps5-payload-dev/dlnaplay",
+    "name": "dlnaplay",
+    "author": "ps5-payload-dev",
+    "repo": "ps5-payload-dev/dlnaplay",
+    "description": {
+      "es": "Reproductor DLNA para PS5 con jailbreak. Permite reproducir contenido multimedia desde servidores DLNA de la red local.",
+      "en": "DLNA player for jailbroken PS5. It lets you play media content from DLNA servers on your local network."
+    },
+    "iconUrl": "https://github.com/ps5-payload-dev.png?size=256",
+    "assets": [
+      { "match": "dlnaplay.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:pegasus-ps5/ps-play",
+    "name": "PS-Play",
+    "author": "pegasus-ps5",
+    "repo": "pegasus-ps5/ps-play",
+    "description": {
+      "es": "Centro multimedia completo para PS5 con jailbreak. Añade DLNA, IPTV (listas M3U/M3U8), Stremio y reproducción por USB, con una interfaz que incluye búsqueda y hasta 2500 canales.",
+      "en": "Complete media hub for jailbroken PS5. It adds DLNA, IPTV (M3U/M3U8 playlists), Stremio and USB playback, with an interface that includes search and up to 2500 channels."
+    },
+    "iconUrl": "https://github.com/pegasus-ps5.png?size=256",
+    "assets": [
+      { "match": "ps-play-*.zip", "label": { "es": "Carpeta de la app", "en": "App folder" } }
+    ]
+  },
+  {
+    "id": "github:blackbearreloaded/ps5-homebrew-catalog",
+    "name": "PS5 Homebrew Catalog",
+    "author": "blackbearreloaded",
+    "repo": "blackbearreloaded/ps5-homebrew-catalog",
+    "description": {
+      "es": "Índice comunitario de apps homebrew nativas para PS5. Cada app apunta a la release de su desarrollador y es la fuente del sitio web homebrew.page.",
+      "en": "Community-maintained index of native PS5 homebrew apps. Each app points to its developer's release and it is the source for the homebrew.page website."
+    },
+    "iconUrl": "https://github.com/blackbearreloaded.png?size=256",
+    "assets": [
+      { "match": "catalog.json", "label": { "es": "Catálogo", "en": "Catalog" } }
+    ]
+  },
+  {
+    "id": "github:blackbearreloaded/ps5-homebrew-ui",
+    "name": "Homebrew UI Lab",
+    "author": "blackbearreloaded",
+    "repo": "blackbearreloaded/ps5-homebrew-ui",
+    "description": {
+      "es": "Kit de referencia y reutilizable para interfaces de homebrew de PS5 de calidad consola. Está dibujado con OpenGL 4.6 e incluye 21 diseños completos.",
+      "en": "Reference and reusable kit for console-quality PS5 homebrew interfaces. It is drawn with OpenGL 4.6 and includes 21 complete designs."
+    },
+    "iconUrl": "https://github.com/blackbearreloaded.png?size=256",
+    "assets": [
+      { "match": "ps5-homebrew-ui-*.zip", "label": { "es": "Kit", "en": "Kit" } }
+    ]
+  },
+  {
+    "id": "github:nexgen999/PS5-Repository-List",
+    "name": "PS5-Repository-List",
+    "author": "nexgen999",
+    "repo": "nexgen999/PS5-Repository-List",
+    "description": {
+      "es": "Colección mantenida por la comunidad de recursos sobre homebrew, jailbreak y herramientas de exploit para PS5. Incluye enlaces a repositorios, payloads y guías.",
+      "en": "Community-maintained collection of resources about PS5 homebrew, jailbreak and exploit tools. It includes links to repositories, payloads and guides."
+    },
+    "iconUrl": "https://github.com/nexgen999.png?size=256",
+    "assets": [
+      { "match": "README.md", "label": { "es": "Lista", "en": "List" } }
+    ]
+  },
+  {
+    "id": "github:XavyProd/pkg-mutant-shop",
+    "name": "PKG Mutant Shop",
+    "author": "XavyProd",
+    "repo": "XavyProd/pkg-mutant-shop",
+    "description": {
+      "es": "Tienda e instalador de PKG para PS5 y PS4 con jailbreak. Incluye un compañero para Windows y se carga PKG-MUTANT-SHOP.elf desde el lanzador.",
+      "en": "PKG store and installer for jailbroken PS5 and PS4. It includes a Windows companion and you load PKG-MUTANT-SHOP.elf from the launcher."
+    },
+    "iconUrl": "https://github.com/XavyProd.png?size=256",
+    "assets": [
+      { "match": "PKG-MUTANT-SHOP.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:ItsJokerZz/FPKGi",
+    "name": "FPKGi",
+    "author": "ItsJokerZz",
+    "repo": "ItsJokerZz/FPKGi",
+    "description": {
+      "es": "Clon open-source de PKGi para PSP, Vita y PS3, adaptado a PS4 y PS5. Instala paquetes falsos (FPKG) a través de archivos .json y está pensado para la preservación de juegos.",
+      "en": "Open-source clone of PKGi for PSP, Vita and PS3, adapted to PS4 and PS5. It installs fake packages (FPKG) through .json files and is intended for game preservation."
+    },
+    "iconUrl": "https://github.com/ItsJokerZz.png?size=256",
+    "assets": [
+      { "match": "FPKGi-*.zip", "label": { "es": "Carpeta de la app", "en": "App folder" } }
+    ]
+  },
+  {
+    "id": "github:MestreTM/ps5_pkg_virtual_shop",
+    "name": "PS5 PKG Virtual Shop",
+    "author": "MestreTM",
+    "repo": "MestreTM/ps5_pkg_virtual_shop",
+    "description": {
+      "es": "Interfaz web simple para gestionar e instalar archivos .pkg locales (PS4/PS5) en una PS5 con jailbreak. Se accede desde el navegador de un PC o móvil en la misma red.",
+      "en": "Simple web interface to manage and install local .pkg files (PS4/PS5) on a jailbroken PS5. Access it from a PC or phone browser on the same network."
+    },
+    "iconUrl": "https://github.com/MestreTM.png?size=256",
+    "assets": [
+      { "match": "ps5_pkg_virtual_shop-*.zip", "label": { "es": "Carpeta de la app", "en": "App folder" } }
+    ]
+  },
+  {
+    "id": "github:Rufidj/Nativehbl",
+    "name": "Nativehbl",
+    "author": "Rufidj",
+    "repo": "Rufidj/Nativehbl",
+    "description": {
+      "es": "Lanzador de homebrew nativo para PS5, basado en el websrv de John Törnblom. Permite ejecutar apps homebrew instaladas en la consola.",
+      "en": "Native homebrew launcher for PS5, based on John Törnblom's websrv. It lets you run homebrew apps installed on the console."
+    },
+    "iconUrl": "https://github.com/Rufidj.png?size=256",
+    "assets": [
+      { "match": "nativehbl.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:MasterPS0/Y2JB",
+    "name": "Y2JB",
+    "author": "MasterPS0",
+    "repo": "MasterPS0/Y2JB",
+    "description": {
+      "es": "Proyecto relacionado con lanzadores y utilidades para PS5. Aparece como alternativa a Nativehbl y facilita la ejecución de homebrew.",
+      "en": "Project related to launchers and utilities for PS5. It appears as an alternative to Nativehbl and facilitates homebrew execution."
+    },
+    "iconUrl": "https://github.com/MasterPS0.png?size=256",
+    "assets": [
+      { "match": "Y2JB.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:mpereiraesaa/prospero-win",
+    "name": "Prospero-win",
+    "author": "mpereiraesaa",
+    "repo": "mpereiraesaa/prospero-win",
+    "description": {
+      "es": "Runtime de compatibilidad con Windows para homebrew nativo de PS5. Ejecuta juegos de Windows localmente en una PS5 con homebrew, con controles DualSense, teclado y ratón. Lleva su propia copia de Wine.",
+      "en": "Windows compatibility runtime for native PS5 homebrew. It runs Windows games locally on a homebrew-enabled PS5, with DualSense, keyboard and mouse controls. It bundles its own copy of Wine."
+    },
+    "iconUrl": "https://github.com/mpereiraesaa.png?size=256",
+    "assets": [
+      { "match": "prospero-win-*.zip", "label": { "es": "Paquete", "en": "Package" } }
+    ]
+  },
+  {
+    "id": "github:holdmysocks/ps5-tailscale",
+    "name": "Tailscale for PS5",
+    "author": "holdmysocks",
+    "repo": "holdmysocks/ps5-tailscale",
+    "description": {
+      "es": "Cliente de Tailscale para PS5 con jailbreak. Permite acceder a la consola a través de tu tailnet para Remote Play y streaming con Moonlight/Sunshine, sin reenvío de puertos.",
+      "en": "Tailscale client for jailbroken PS5. It lets you reach the console over your tailnet for Remote Play and streaming with Moonlight/Sunshine, without port forwarding."
+    },
+    "iconUrl": "https://github.com/holdmysocks.png?size=256",
+    "assets": [
+      { "match": "ps5-tailscale.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:ps5-payload-dev/linkdev",
+    "name": "LinkDev",
+    "author": "ps5-payload-dev",
+    "repo": "ps5-payload-dev/linkdev",
+    "description": {
+      "es": "Homebrew que enlaza dispositivos a una PS5 con jailbreak sin acceso a PSN. Habilita Remote Play local y otras funciones de conexión.",
+      "en": "Homebrew that links devices to a jailbroken PS5 without PSN access. It enables local Remote Play and other connection features."
+    },
+    "iconUrl": "https://github.com/ps5-payload-dev.png?size=256",
+    "assets": [
+      { "match": "linkdev.elf", "label": "Payload" }
+    ]
+  },
+  {
+    "id": "github:nexgen999/evoX-CoreOS",
+    "name": "evoX-CoreOS",
+    "author": "nexgen999",
+    "repo": "nexgen999/evoX-CoreOS",
+    "description": {
+      "es": "Paquete de payloads y herramientas todo-en-uno para PS5. Incluye garlic-savemgr, garlic-worker, savemnt-offset-dumper, Common_FPS_PS5, ps5_overlay y PS5-Power-Payloads-Project, entre otros.",
+      "en": "All-in-one payload and tools package for PS5. It includes garlic-savemgr, garlic-worker, savemnt-offset-dumper, Common_FPS_PS5, ps5_overlay and PS5-Power-Payloads-Project, among others."
+    },
+    "iconUrl": "https://github.com/nexgen999.png?size=256",
+    "assets": [
+      { "match": "Pack-PAYLOADS-*.zip", "label": { "es": "Paquete de payloads", "en": "Payload pack" } }
+    ]
+  },
+  {
+    "id": "github:ntfargo/Relapse-Exploit",
+    "name": "Relapse Exploit",
+    "author": "ntfargo",
+    "repo": "ntfargo/Relapse-Exploit",
+    "description": {
+      "es": "Cadena de exploit para PS5 que soporta firmwares 7.00 a 13.60. Tras su ejecución, deja un ELF loader escuchando en el puerto 9021 y los payloads por defecto en la carpeta payloads/.",
+      "en": "Exploit chain for PS5 that supports firmwares 7.00 to 13.60. After running, it leaves an ELF loader listening on port 9021 and the default payloads in the payloads/ folder."
+    },
+    "iconUrl": "https://github.com/ntfargo.png?size=256",
+    "assets": [
+      { "match": "Relapse-*.zip", "label": { "es": "Paquete", "en": "Package" } }
+    ]
+  },
+  {
+    "id": "github:ps5-linux/ps5-linux-loader",
+    "name": "PS5 Linux Loader",
+    "author": "ps5-linux",
+    "repo": "ps5-linux/ps5-linux-loader",
+    "description": {
+      "es": "Payload que explota una vulnerabilidad del hipervisor en PS5 Phat con firmware 3.xx a 4.xx para arrancar un entorno Linux completo. Incluye un script de construcción con una imagen de Ubuntu 24.04.",
+      "en": "Payload that exploits a hypervisor vulnerability on PS5 Phat with firmware 3.xx to 4.xx to boot a full Linux environment. It includes a build script with an Ubuntu 24.04 image."
+    },
+    "iconUrl": "https://github.com/ps5-linux.png?size=256",
+    "assets": [
+      { "match": "ps5-linux-loader.elf", "label": "Payload" }
+    ]
+  }
   ]
 }
