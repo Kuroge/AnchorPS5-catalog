@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-06T23:21:09+00:00",
+ "generatedAt": "2026-10-07T00:40:33+00:00",
  "repos": {
   "alex-free/wolf4sdl-ps5": [
    {
@@ -963,6 +963,28 @@
    }
   ],
   "blackbearreloaded/ProsperoTV": [
+   {
+    "tag_name": "01.000.020",
+    "name": "ProsperoTV 01.000.020",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-06T23:35:49Z",
+    "html_url": "https://github.com/blackbearreloaded/ProsperoTV/releases/tag/01.000.020",
+    "assets": [
+     {
+      "name": "PPSA99003.zip",
+      "size": 20723038,
+      "browser_download_url": "https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.020/PPSA99003.zip",
+      "digest": "sha256:d7ea6a099a2719ae5c61a956a0ff8e55d59f6a6caa7600fd505dccabc6806dbd"
+     },
+     {
+      "name": "SHA256SUMS",
+      "size": 80,
+      "browser_download_url": "https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.020/SHA256SUMS",
+      "digest": "sha256:ddc078361712353e03fe2ba2d2f5e9121ec9bd26d25ee99875ddd15b95c1c62b"
+     }
+    ]
+   },
    {
     "tag_name": "01.000.015",
     "name": "ProsperoTV-01.000.015",
@@ -2552,6 +2574,74 @@
    }
   ],
   "holdmysocks/ps5-tailscale": [
+   {
+    "tag_name": "v0.7.1",
+    "name": "v0.7.1",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-06T23:46:38Z",
+    "html_url": "https://github.com/holdmysocks/ps5-tailscale/releases/tag/v0.7.1",
+    "assets": [
+     {
+      "name": "SHA256SUMS.txt",
+      "size": 86,
+      "browser_download_url": "https://github.com/holdmysocks/ps5-tailscale/releases/download/v0.7.1/SHA256SUMS.txt",
+      "digest": "sha256:476cf50cf721fa4474a2311c84ca59395cec6633bd5bb0dae11408936fdc7d1c"
+     },
+     {
+      "name": "tailscale-0.7.1.elf",
+      "size": 25196896,
+      "browser_download_url": "https://github.com/holdmysocks/ps5-tailscale/releases/download/v0.7.1/tailscale-0.7.1.elf",
+      "digest": "sha256:af320493c8e2fc3443b8f42496ac11aa3db77b112e95777706d835eccd304cb9"
+     },
+     {
+      "name": "tailscale-0.7.1.elf.sig",
+      "size": 188,
+      "browser_download_url": "https://github.com/holdmysocks/ps5-tailscale/releases/download/v0.7.1/tailscale-0.7.1.elf.sig",
+      "digest": "sha256:7f0b99a4da35cd63cd1e17d6a36f4835bfa5b0a76ea17ca4a4e97b57da19312b"
+     }
+    ]
+   },
+   {
+    "tag_name": "v0.7.0",
+    "name": "v0.7.0",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-06T23:29:57Z",
+    "html_url": "https://github.com/holdmysocks/ps5-tailscale/releases/tag/v0.7.0",
+    "assets": [
+     {
+      "name": "SHA256SUMS.txt",
+      "size": 166,
+      "browser_download_url": "https://github.com/holdmysocks/ps5-tailscale/releases/download/v0.7.0/SHA256SUMS.txt",
+      "digest": "sha256:0178920ad4b556d2ccb7c06adf32c931d633dfecefb9e67720851536ad8f5a91"
+     },
+     {
+      "name": "tailscale-0.7.0.elf",
+      "size": 25131360,
+      "browser_download_url": "https://github.com/holdmysocks/ps5-tailscale/releases/download/v0.7.0/tailscale-0.7.0.elf",
+      "digest": "sha256:20c246b0426bc7dd66df1fb566ba53d62d432f4171f7f4caf4b3808725f0a8fb"
+     },
+     {
+      "name": "tailscale-0.7.0.elf.sig",
+      "size": 188,
+      "browser_download_url": "https://github.com/holdmysocks/ps5-tailscale/releases/download/v0.7.0/tailscale-0.7.0.elf.sig",
+      "digest": "sha256:fb9fbe49d8febba9bd878a42142fd04b362f51062498f341c08cd3b2afb21263"
+     },
+     {
+      "name": "tailscale.elf",
+      "size": 25131360,
+      "browser_download_url": "https://github.com/holdmysocks/ps5-tailscale/releases/download/v0.7.0/tailscale.elf",
+      "digest": "sha256:20c246b0426bc7dd66df1fb566ba53d62d432f4171f7f4caf4b3808725f0a8fb"
+     },
+     {
+      "name": "tailscale.elf.sig",
+      "size": 188,
+      "browser_download_url": "https://github.com/holdmysocks/ps5-tailscale/releases/download/v0.7.0/tailscale.elf.sig",
+      "digest": "sha256:fb9fbe49d8febba9bd878a42142fd04b362f51062498f341c08cd3b2afb21263"
+     }
+    ]
+   },
    {
     "tag_name": "v0.6.2",
     "name": "v0.6.2",
@@ -4995,6 +5085,62 @@
   ],
   "KytyPS5/KytyPS5": [
    {
+    "tag_name": "KytyPS5-2026-10-07-e7cfe5a",
+    "name": "KytyPS5-2026-10-07-e7cfe5a",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-07T00:25:05Z",
+    "html_url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-07-e7cfe5a",
+    "assets": [
+     {
+      "name": "KytyPS5-2026-10-07-e7cfe5a-Linux-x86_64.tar.gz",
+      "size": 73981120,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-07-e7cfe5a/KytyPS5-2026-10-07-e7cfe5a-Linux-x86_64.tar.gz",
+      "digest": "sha256:5444d3592aed59f25f66e5f0671ac6352c86032c6199c4fedd9410defb8ac679"
+     },
+     {
+      "name": "KytyPS5-2026-10-07-e7cfe5a-macOS-x86_64.zip",
+      "size": 55135156,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-07-e7cfe5a/KytyPS5-2026-10-07-e7cfe5a-macOS-x86_64.zip",
+      "digest": "sha256:e583eb09dbb097e81a78e2fa707c5c9b26d605a0ebd2b8da54e231bdbf10365e"
+     },
+     {
+      "name": "KytyPS5-2026-10-07-e7cfe5a-Windows-x64.zip",
+      "size": 25707215,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-07-e7cfe5a/KytyPS5-2026-10-07-e7cfe5a-Windows-x64.zip",
+      "digest": "sha256:df1dba654ea8ef21635b5f8d89e2298f7e1e272b3781a157f9c3b783b06e19cf"
+     }
+    ]
+   },
+   {
+    "tag_name": "KytyPS5-2026-10-07-cc44a43",
+    "name": "KytyPS5-2026-10-07-cc44a43",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-07T00:40:10Z",
+    "html_url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-07-cc44a43",
+    "assets": [
+     {
+      "name": "KytyPS5-2026-10-07-cc44a43-Linux-x86_64.tar.gz",
+      "size": 73978441,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-07-cc44a43/KytyPS5-2026-10-07-cc44a43-Linux-x86_64.tar.gz",
+      "digest": "sha256:74de023ba8b9af5d76070a80b3f0a26a076dd75132f9dee09dcf352c80220912"
+     },
+     {
+      "name": "KytyPS5-2026-10-07-cc44a43-macOS-x86_64.zip",
+      "size": 55135977,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-07-cc44a43/KytyPS5-2026-10-07-cc44a43-macOS-x86_64.zip",
+      "digest": "sha256:c3e08c139dd9c68eda4462897eb20e23912ab90e0eb517446cbfd01b1f75cd2e"
+     },
+     {
+      "name": "KytyPS5-2026-10-07-cc44a43-Windows-x64.zip",
+      "size": 25708165,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-07-cc44a43/KytyPS5-2026-10-07-cc44a43-Windows-x64.zip",
+      "digest": "sha256:ffa6cdc1095afaa61228581d748ef2a9a293b28dc976103072acfbc34dacf2d9"
+     }
+    ]
+   },
+   {
     "tag_name": "KytyPS5-2026-10-06-fb7ff7e",
     "name": "KytyPS5-2026-10-06-fb7ff7e",
     "draft": false,
@@ -5125,6 +5271,34 @@
       "size": 25707343,
       "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-06-7492cb9/KytyPS5-2026-10-06-7492cb9-Windows-x64.zip",
       "digest": "sha256:b8db31fb1c577f8561851084bedb2f1b15331697fba188046fb5a6a064a375b4"
+     }
+    ]
+   },
+   {
+    "tag_name": "KytyPS5-2026-10-06-7415feb",
+    "name": "KytyPS5-2026-10-06-7415feb",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-06T23:28:17Z",
+    "html_url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-06-7415feb",
+    "assets": [
+     {
+      "name": "KytyPS5-2026-10-06-7415feb-Linux-x86_64.tar.gz",
+      "size": 73979468,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-06-7415feb/KytyPS5-2026-10-06-7415feb-Linux-x86_64.tar.gz",
+      "digest": "sha256:8dd6ff52d1cadb0556725fa7bebf666a5420ca4768a44161461c444dc3f17e98"
+     },
+     {
+      "name": "KytyPS5-2026-10-06-7415feb-macOS-x86_64.zip",
+      "size": 55135429,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-06-7415feb/KytyPS5-2026-10-06-7415feb-macOS-x86_64.zip",
+      "digest": "sha256:aec9c4e09779ceccf975772d956e252a28aa2500881f880022b44d85fbaaead2"
+     },
+     {
+      "name": "KytyPS5-2026-10-06-7415feb-Windows-x64.zip",
+      "size": 25707790,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-06-7415feb/KytyPS5-2026-10-06-7415feb-Windows-x64.zip",
+      "digest": "sha256:39fe84d0fcb0dcc649ec081d35c236e16021133dbdc82eb86e1c9c7865413b2a"
      }
     ]
    },
@@ -5449,90 +5623,6 @@
       "size": 25608275,
       "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-05-72e4989/KytyPS5-2026-10-05-72e4989-Windows-x64.zip",
       "digest": "sha256:de9bc008b259e468df6ca77e870836e4a9441cc2066ef59d9c4400f2b83929fe"
-     }
-    ]
-   },
-   {
-    "tag_name": "KytyPS5-2026-10-05-2b1b7ed",
-    "name": "KytyPS5-2026-10-05-2b1b7ed",
-    "draft": false,
-    "prerelease": false,
-    "published_at": "2026-10-05T05:06:06Z",
-    "html_url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-05-2b1b7ed",
-    "assets": [
-     {
-      "name": "KytyPS5-2026-10-05-2b1b7ed-Linux-x86_64.tar.gz",
-      "size": 73589082,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-05-2b1b7ed/KytyPS5-2026-10-05-2b1b7ed-Linux-x86_64.tar.gz",
-      "digest": "sha256:e9f342c2d809d066d6e3150e9dd1a7c59b809404613ed7c12cb6d51958f8fcb1"
-     },
-     {
-      "name": "KytyPS5-2026-10-05-2b1b7ed-macOS-x86_64.zip",
-      "size": 54259969,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-05-2b1b7ed/KytyPS5-2026-10-05-2b1b7ed-macOS-x86_64.zip",
-      "digest": "sha256:344d1b2fec86ad1f15a62c2594e7b63a55a7249fae6e0372344a60bde1f10094"
-     },
-     {
-      "name": "KytyPS5-2026-10-05-2b1b7ed-Windows-x64.zip",
-      "size": 25274197,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-05-2b1b7ed/KytyPS5-2026-10-05-2b1b7ed-Windows-x64.zip",
-      "digest": "sha256:e69a2a5d9c16a8e4c4773c5b688e3c09bc55ab6970c2b5affdcb751417eecf28"
-     }
-    ]
-   },
-   {
-    "tag_name": "KytyPS5-2026-10-05-1d55272",
-    "name": "KytyPS5-2026-10-05-1d55272",
-    "draft": false,
-    "prerelease": false,
-    "published_at": "2026-10-05T05:41:30Z",
-    "html_url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-05-1d55272",
-    "assets": [
-     {
-      "name": "KytyPS5-2026-10-05-1d55272-Linux-x86_64.tar.gz",
-      "size": 73589492,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-05-1d55272/KytyPS5-2026-10-05-1d55272-Linux-x86_64.tar.gz",
-      "digest": "sha256:5b33e2901dc75a1818b1da93c8377c6d898ab53f04fff77300181c0f0e8aeab7"
-     },
-     {
-      "name": "KytyPS5-2026-10-05-1d55272-macOS-x86_64.zip",
-      "size": 54258465,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-05-1d55272/KytyPS5-2026-10-05-1d55272-macOS-x86_64.zip",
-      "digest": "sha256:a3de31344a9f802ed6a5372b8a124658e0ac2c250de1e12268bab755438855ab"
-     },
-     {
-      "name": "KytyPS5-2026-10-05-1d55272-Windows-x64.zip",
-      "size": 25274038,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-05-1d55272/KytyPS5-2026-10-05-1d55272-Windows-x64.zip",
-      "digest": "sha256:7b005b5f30bf197b39a937a69340dd5977c5e273a3939ed6d6937e0836e9310f"
-     }
-    ]
-   },
-   {
-    "tag_name": "KytyPS5-2026-10-04-f96a14a",
-    "name": "KytyPS5-2026-10-04-f96a14a",
-    "draft": false,
-    "prerelease": false,
-    "published_at": "2026-10-04T23:10:45Z",
-    "html_url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-04-f96a14a",
-    "assets": [
-     {
-      "name": "KytyPS5-2026-10-04-f96a14a-Linux-x86_64.tar.gz",
-      "size": 73586949,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-04-f96a14a/KytyPS5-2026-10-04-f96a14a-Linux-x86_64.tar.gz",
-      "digest": "sha256:4e833e595f1cc2b03fbeeed6a0132c3779b600634f6428907bc7d73d40196f43"
-     },
-     {
-      "name": "KytyPS5-2026-10-04-f96a14a-macOS-x86_64.zip",
-      "size": 54255689,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-04-f96a14a/KytyPS5-2026-10-04-f96a14a-macOS-x86_64.zip",
-      "digest": "sha256:2074d8e0e8e42d34d2ced4d1633be73dcb8e4dfb4b45c764ea5be328af4374fa"
-     },
-     {
-      "name": "KytyPS5-2026-10-04-f96a14a-Windows-x64.zip",
-      "size": 25272873,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-04-f96a14a/KytyPS5-2026-10-04-f96a14a-Windows-x64.zip",
-      "digest": "sha256:0b7275ddbc20a8143d012fc59b113cddcdfcdde7f5da29ac6fea8a7199b51386"
      }
     ]
    }
