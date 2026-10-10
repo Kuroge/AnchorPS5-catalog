@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-10T18:33:33+00:00",
+ "generatedAt": "2026-10-10T22:29:47+00:00",
  "repos": {
   "alex-free/wolf4sdl-ps5": [
    {
@@ -2416,6 +2416,22 @@
    }
   ],
   "elripalda/Porpoise-Dolphin-Emulator-for-PS5": [
+   {
+    "tag_name": "v3.0",
+    "name": "Porpoise 3.0 (DolphinPS5)",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-10T20:52:31Z",
+    "html_url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/tag/v3.0",
+    "assets": [
+     {
+      "name": "Porpoise-3.0.zip",
+      "size": 31018028,
+      "browser_download_url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v3.0/Porpoise-3.0.zip",
+      "digest": "sha256:889bc738624c1c1abe5be304e3e78604f5cd66068473b5eeaef6c77e7677513e"
+     }
+    ]
+   },
    {
     "tag_name": "v2.7",
     "name": "Porpoise 2.7",
@@ -5627,6 +5643,34 @@
     ]
    },
    {
+    "tag_name": "KytyPS5-2026-10-10-947627d",
+    "name": "KytyPS5-2026-10-10-947627d",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-10T20:59:28Z",
+    "html_url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-10-947627d",
+    "assets": [
+     {
+      "name": "KytyPS5-2026-10-10-947627d-Linux-x86_64.tar.gz",
+      "size": 74239509,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-10-947627d/KytyPS5-2026-10-10-947627d-Linux-x86_64.tar.gz",
+      "digest": "sha256:2ccbbc7fef7e4f1dcc0c7193e7d25b104f323a7377c553aefc838a95cbc75723"
+     },
+     {
+      "name": "KytyPS5-2026-10-10-947627d-macOS-x86_64.zip",
+      "size": 55277456,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-10-947627d/KytyPS5-2026-10-10-947627d-macOS-x86_64.zip",
+      "digest": "sha256:570042bc1597588840af9e347c0df079596ce7b6b74f3e5e514df7ddb20b84df"
+     },
+     {
+      "name": "KytyPS5-2026-10-10-947627d-Windows-x64.zip",
+      "size": 25923585,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-10-947627d/KytyPS5-2026-10-10-947627d-Windows-x64.zip",
+      "digest": "sha256:a2dc9f43fb3f2fb9a09e30b299c507c280565d2c906047181db97c1ad0783673"
+     }
+    ]
+   },
+   {
     "tag_name": "KytyPS5-2026-10-10-679be25",
     "name": "KytyPS5-2026-10-10-679be25",
     "draft": false,
@@ -6047,34 +6091,6 @@
       "size": 25723336,
       "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-08-107d5f7/KytyPS5-2026-10-08-107d5f7-Windows-x64.zip",
       "digest": "sha256:1e427ace1a1837068a21f66f10a5afba340699f117d1ac550b03a7de29cdff22"
-     }
-    ]
-   },
-   {
-    "tag_name": "KytyPS5-2026-10-08-5a88080",
-    "name": "KytyPS5-2026-10-08-5a88080",
-    "draft": false,
-    "prerelease": false,
-    "published_at": "2026-10-08T01:51:13Z",
-    "html_url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-08-5a88080",
-    "assets": [
-     {
-      "name": "KytyPS5-2026-10-08-5a88080-Linux-x86_64.tar.gz",
-      "size": 73989923,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-08-5a88080/KytyPS5-2026-10-08-5a88080-Linux-x86_64.tar.gz",
-      "digest": "sha256:a3871a08a8a3f64108180573c24d3ee7e04bec265706ebba6b0279d9b06a5b77"
-     },
-     {
-      "name": "KytyPS5-2026-10-08-5a88080-macOS-x86_64.zip",
-      "size": 55165452,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-08-5a88080/KytyPS5-2026-10-08-5a88080-macOS-x86_64.zip",
-      "digest": "sha256:6ad27950ea7b71e28247895630ffbec5f92ad08fbbd23f624835909c77e390d2"
-     },
-     {
-      "name": "KytyPS5-2026-10-08-5a88080-Windows-x64.zip",
-      "size": 25717359,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-08-5a88080/KytyPS5-2026-10-08-5a88080-Windows-x64.zip",
-      "digest": "sha256:e2fe2af45985c92a853dc3a87fc03da5a7fa1f3edc46fd6c60dbe15e86ac97d4"
      }
     ]
    }
@@ -12805,6 +12821,28 @@
    }
   ],
   "Swordpdf/PS5SX2": [
+   {
+    "tag_name": "vk-285-162",
+    "name": "PS5SX2 2.02",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-10T20:19:45Z",
+    "html_url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-162",
+    "assets": [
+     {
+      "name": "ps5sx2-aio.elf",
+      "size": 1315544,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-162/ps5sx2-aio.elf",
+      "digest": "sha256:b52c7a70c266826974314417bc059063b6e8ab0b8cc9537471f65f0e4915560d"
+     },
+     {
+      "name": "PS5SX2-vk-285-162.zip",
+      "size": 18117213,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-162/PS5SX2-vk-285-162.zip",
+      "digest": "sha256:6030dba6eca71c7d8ef2f1e4c0055ae0f665b3d61e7a33fc26262140be1c0de0"
+     }
+    ]
+   },
    {
     "tag_name": "vk-285-161",
     "name": "PS5SX2 2.01",
