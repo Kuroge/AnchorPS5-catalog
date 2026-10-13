@@ -953,6 +953,28 @@
     "assets": [
       { "match": "ps5-linux-loader.elf", "label": "Payload" }
     ]
+  },
+  {
+    "id": "github:abhi245y/PS5LM",
+    "name": "PS5LM (native app)",
+    "author": "abhi245y",
+    "repo": "abhi245y/PS5LM",
+    "description": {
+      "es": "App nativa de PS5LM: ejecuta modelos de lenguaje GGUF con llama.cpp en la GPU de la PS5 (Qwen 3.8 27B a unos 20 tok/s). Panel en la TV, biblioteca y descargas de modelos desde Hugging Face, y chat web y API compatible con OpenAI para tu red.",
+      "en": "PS5LM's native app: runs GGUF language models with llama.cpp on the PS5's GPU (Qwen 3.8 27B at about 20 tok/s). Dashboard on the TV, model library and Hugging Face downloads, and a web chat and OpenAI-compatible API for your network."
+    },
+    "iconUrl": "https://raw.githubusercontent.com/abhi245y/PS5LM/v0.8.2/ps5/app/sce_sys/icon0.png",
+    "assets": [
+      {
+        "match": "ps5lm-app-*.zip",
+        "label": { "es": "Carpeta de la app", "en": "App folder" },
+        "description": {
+          "es": "Se descomprime en /data/homebrew/ y la monta ShadowMountPlus.",
+          "en": "Extract it to /data/homebrew/ and ShadowMountPlus mounts it."
+        }
+      },
+      { "match": "*.sha256", "hidden": true }
+    ]
   }
   ]
 }
