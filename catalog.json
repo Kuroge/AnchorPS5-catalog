@@ -956,14 +956,14 @@
   },
   {
     "id": "github:abhi245y/PS5LM",
-    "name": "PS5LM (native app)",
+    "name": "PS5LM Plus",
     "author": "abhi245y",
     "repo": "abhi245y/PS5LM",
     "description": {
-      "es": "App nativa de PS5LM: ejecuta modelos de lenguaje GGUF con llama.cpp en la GPU de la PS5 (Qwen 3.8 27B a unos 20 tok/s). Panel en la TV, biblioteca y descargas de modelos desde Hugging Face, y chat web y API compatible con OpenAI para tu red.",
-      "en": "PS5LM's native app: runs GGUF language models with llama.cpp on the PS5's GPU (Qwen 3.8 27B at about 20 tok/s). Dashboard on the TV, model library and Hugging Face downloads, and a web chat and OpenAI-compatible API for your network."
+      "es": "PS5LM Plus, la app nativa basada en PS5LM: ejecuta modelos de lenguaje GGUF con llama.cpp en la GPU de la PS5 (Qwen 3.8 27B a unos 20 tok/s). Panel en la TV, biblioteca y descargas de modelos desde Hugging Face, y chat web y API compatible con OpenAI para tu red.",
+      "en": "PS5LM Plus, the native app built on PS5LM: runs GGUF language models with llama.cpp on the PS5's GPU (Qwen 3.8 27B at about 20 tok/s). Dashboard on the TV, model library and Hugging Face downloads, and a web chat and OpenAI-compatible API for your network."
     },
-    "iconUrl": "https://raw.githubusercontent.com/abhi245y/PS5LM/v0.8.2/ps5/app/sce_sys/icon0.png",
+    "iconUrl": "https://raw.githubusercontent.com/abhi245y/PS5LM/v0.8.3/ps5/app/sce_sys/icon0.png",
     "assets": [
       {
         "match": "ps5lm-app-*.zip",
