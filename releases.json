@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-17T22:16:45+00:00",
+ "generatedAt": "2026-10-18T00:04:43+00:00",
  "repos": {
   "alex-free/wolf4sdl-ps5": [
    {
@@ -9351,6 +9351,142 @@
   ],
   "phantomptr/ps5upload": [
    {
+    "tag_name": "v7.1.0",
+    "name": "v7.1.0",
+    "draft": false,
+    "prerelease": true,
+    "published_at": "2026-10-17T23:58:01Z",
+    "html_url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.1.0",
+    "assets": [
+     {
+      "name": "latest.json",
+      "size": 5206,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/latest.json",
+      "digest": "sha256:acb8851523ad8bc8268e0adf2a5db0b1de0436e8317fb0c69dc467966f0c7a81"
+     },
+     {
+      "name": "PS5Upload-7.1.0-android.apk",
+      "size": 104820691,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-android.apk",
+      "digest": "sha256:65aed624801d95a6e842f68b1b43b9e9e299f12e37c4f76670d1993afa387904"
+     },
+     {
+      "name": "PS5Upload-7.1.0-linux-arm64.deb",
+      "size": 26817218,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-linux-arm64.deb",
+      "digest": "sha256:25224a9d1feeee44315d7033343e3ee4351bae4860e6f8c031674dea28cb2aad"
+     },
+     {
+      "name": "PS5Upload-7.1.0-linux-arm64.rpm",
+      "size": 26819164,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-linux-arm64.rpm",
+      "digest": "sha256:8d771f7e3e5c1f05ab47d45e8720cff5f06c8d286b9d970f1eb48386303fee08"
+     },
+     {
+      "name": "PS5Upload-7.1.0-linux-arm64.zip",
+      "size": 100484646,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-linux-arm64.zip",
+      "digest": "sha256:23e5da7ba1a46f1a7515cfd2ff434915824aea640fa36d3d892e020d8ca48414"
+     },
+     {
+      "name": "PS5Upload-7.1.0-linux-x64.deb",
+      "size": 26652516,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-linux-x64.deb",
+      "digest": "sha256:40288642a4379d1607c8eb70723d1c8f945422a64a13e1c3fc8d08b5308e4cc9"
+     },
+     {
+      "name": "PS5Upload-7.1.0-linux-x64.rpm",
+      "size": 26655196,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-linux-x64.rpm",
+      "digest": "sha256:846b6f4702c2e1844bd69715f0ec559c59d37d9f5020bd983411026eae1c0490"
+     },
+     {
+      "name": "PS5Upload-7.1.0-linux-x64.zip",
+      "size": 102513046,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-linux-x64.zip",
+      "digest": "sha256:15a743807dbf43d7c38e97c3cc5a8fd70d37198a8e82c59ae256f2152f029f13"
+     },
+     {
+      "name": "PS5Upload-7.1.0-mac-arm64.dmg",
+      "size": 24826991,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-mac-arm64.dmg",
+      "digest": "sha256:5dd9e0d4f369f4ba6e1bd27b49ca1d257f647595980c1492a1e90de067919cab"
+     },
+     {
+      "name": "PS5Upload-7.1.0-mac-x64.dmg",
+      "size": 26010476,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-mac-x64.dmg",
+      "digest": "sha256:bd63db1d4d54fcf44c613ecc153b53cd011c6d38eb2641f1fcd2059a1791e1ce"
+     },
+     {
+      "name": "PS5Upload-7.1.0-win-arm64-setup.exe",
+      "size": 16474059,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-win-arm64-setup.exe",
+      "digest": "sha256:a3fa0b91abc7cf8eede7d675b4530b1558bf72ded0f531add4d2909c118e06e0"
+     },
+     {
+      "name": "PS5Upload-7.1.0-win-arm64.zip",
+      "size": 23105086,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-win-arm64.zip",
+      "digest": "sha256:87800c1bd9c1e6a19dba444ae438ff6531c8ded6f6d7aedc6f80453cc68c5b79"
+     },
+     {
+      "name": "PS5Upload-7.1.0-win-x64-setup.exe",
+      "size": 18101638,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-win-x64-setup.exe",
+      "digest": "sha256:b702023df2920ae72cd4e95841b53a7c69cfdb960ae72d00dee059f0b6454cfc"
+     },
+     {
+      "name": "PS5Upload-7.1.0-win-x64.zip",
+      "size": 24419807,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/PS5Upload-7.1.0-win-x64.zip",
+      "digest": "sha256:15bc39409d00f9f11d83efde866d1f63b5a686c490917357715fd5f9450fc4e1"
+     },
+     {
+      "name": "ps5upload-7.1.0.elf",
+      "size": 3971032,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/ps5upload-7.1.0.elf",
+      "digest": "sha256:f16a99904f194f96a592cc29206843f3641a46ad7df96fabd4cc9851cd8c1d37"
+     },
+     {
+      "name": "ps5upload-engine-7.1.0-linux-arm64",
+      "size": 47656328,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/ps5upload-engine-7.1.0-linux-arm64",
+      "digest": "sha256:6b0d093445a94a08a04c247c5d699655a2ae122b3574d84e55a38d487003f0c2"
+     },
+     {
+      "name": "ps5upload-engine-7.1.0-linux-x64",
+      "size": 50156672,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/ps5upload-engine-7.1.0-linux-x64",
+      "digest": "sha256:d7ba7b3031f6b619cddd3a7f12c6a757efad090bda0323c4c488f1ca2405808f"
+     },
+     {
+      "name": "ps5upload-engine-7.1.0-macos-arm64",
+      "size": 43213536,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/ps5upload-engine-7.1.0-macos-arm64",
+      "digest": "sha256:86440921ecc408f8b35a13299d82393df8f6c057205707f3383892b96fdaef1f"
+     },
+     {
+      "name": "ps5upload-engine-7.1.0-macos-x64",
+      "size": 45156840,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/ps5upload-engine-7.1.0-macos-x64",
+      "digest": "sha256:59409caac2deaa7c06339e3595135072ba8ed8c96d9cb4837ec9ae84b9c0c6dd"
+     },
+     {
+      "name": "ps5upload-engine-7.1.0-windows-arm64.exe",
+      "size": 35047936,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/ps5upload-engine-7.1.0-windows-arm64.exe",
+      "digest": "sha256:fc6214e5f8f26c69cc01a6a2d3bf2ece64e89969221f1efbe1befe238f5c7104"
+     },
+     {
+      "name": "ps5upload-engine-7.1.0-windows-x64.exe",
+      "size": 41228288,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.0/ps5upload-engine-7.1.0-windows-x64.exe",
+      "digest": "sha256:53f1b6090f1b0b291b20d6884a5b5b8d6962a5b72c35dd4bce66ac571f074510"
+     }
+    ]
+   },
+   {
     "tag_name": "v7.0.34",
     "name": "v7.0.34",
     "draft": false,
@@ -11931,142 +12067,6 @@
       "size": 38110208,
       "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.13/ps5upload-engine-7.0.13-windows-x64.exe",
       "digest": "sha256:de835698f9381f55b87413820dbc2e3c205edbe75cedf17b0a1b91cff7646f30"
-     }
-    ]
-   },
-   {
-    "tag_name": "v7.0.12",
-    "name": "v7.0.12",
-    "draft": false,
-    "prerelease": false,
-    "published_at": "2026-10-11T20:50:02Z",
-    "html_url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.0.12",
-    "assets": [
-     {
-      "name": "latest.json",
-      "size": 2463,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/latest.json",
-      "digest": "sha256:2652f9f4caa50e712bf8112f9913b31a71c9bd3dd9ef56c51d434db6191507c6"
-     },
-     {
-      "name": "PS5Upload-7.0.12-android.apk",
-      "size": 98283475,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-android.apk",
-      "digest": "sha256:c8215808242a517e4fb4ffb1372cbb11b54863b0f69e12439fb4f18e7470e1ed"
-     },
-     {
-      "name": "PS5Upload-7.0.12-linux-arm64.deb",
-      "size": 24509520,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-linux-arm64.deb",
-      "digest": "sha256:ece325132536eaa1f381dc74e107859d452444da261a32547b30a7a5c6152dcf"
-     },
-     {
-      "name": "PS5Upload-7.0.12-linux-arm64.rpm",
-      "size": 24509494,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-linux-arm64.rpm",
-      "digest": "sha256:21a31b5001337ce7ed4def26e4bc98aa66d6e19ef6d6b01cb946d1fcde0b685e"
-     },
-     {
-      "name": "PS5Upload-7.0.12-linux-arm64.zip",
-      "size": 98338577,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-linux-arm64.zip",
-      "digest": "sha256:a81838f5f13df3f66dae241e0eec39546778feecd340def757a0e68015b7fe34"
-     },
-     {
-      "name": "PS5Upload-7.0.12-linux-x64.deb",
-      "size": 24344798,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-linux-x64.deb",
-      "digest": "sha256:0a55f492f94575b6e2c9d42e54734e79f2e05d96b2ae56510f3564d7a0d222fe"
-     },
-     {
-      "name": "PS5Upload-7.0.12-linux-x64.rpm",
-      "size": 24339664,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-linux-x64.rpm",
-      "digest": "sha256:bf192dbc8c023f44e35a7f5647450038b3424a64229d6d0ddc81e6461c40fc93"
-     },
-     {
-      "name": "PS5Upload-7.0.12-linux-x64.zip",
-      "size": 100366731,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-linux-x64.zip",
-      "digest": "sha256:1e3067a6729941339d42b5e3727b8a4f4d128e22ac27c84440bdd3c2013f60f2"
-     },
-     {
-      "name": "PS5Upload-7.0.12-mac-arm64.dmg",
-      "size": 22625996,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-mac-arm64.dmg",
-      "digest": "sha256:eb83f61ccb5e64cb5ce3cac038fa673a8bdd722f6d36715feace0b17417f0b45"
-     },
-     {
-      "name": "PS5Upload-7.0.12-mac-x64.dmg",
-      "size": 23762875,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-mac-x64.dmg",
-      "digest": "sha256:a21ea454ba6144eacff49ff05df41b5ae26933e8fbe40d293c64a0edf8a08466"
-     },
-     {
-      "name": "PS5Upload-7.0.12-win-arm64-setup.exe",
-      "size": 14505207,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-win-arm64-setup.exe",
-      "digest": "sha256:b98b22f0a075e3e71e61f9d9cb04b527f1eafff04a465d2167d2f5abdb9fd72e"
-     },
-     {
-      "name": "PS5Upload-7.0.12-win-arm64.zip",
-      "size": 20950291,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-win-arm64.zip",
-      "digest": "sha256:c3c355cd89a4489e9d1d7c9ab96004cfa003c98e5c1cfba1a83491da17ec625e"
-     },
-     {
-      "name": "PS5Upload-7.0.12-win-x64-setup.exe",
-      "size": 16248278,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-win-x64-setup.exe",
-      "digest": "sha256:8bf37974167f80bdff556ec1ef8ab8db481bcc7de2862b28386a7a7cff96b914"
-     },
-     {
-      "name": "PS5Upload-7.0.12-win-x64.zip",
-      "size": 22150852,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/PS5Upload-7.0.12-win-x64.zip",
-      "digest": "sha256:e1b8961c89d3818e755b2f02e507f6c1f8e122ae14b720518009858dae98c328"
-     },
-     {
-      "name": "ps5upload-7.0.12.elf",
-      "size": 3294736,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/ps5upload-7.0.12.elf",
-      "digest": "sha256:6291b53c92d5e1e0b0f44253439615254fd8a876970fbdb4e368a9ed01175648"
-     },
-     {
-      "name": "ps5upload-engine-7.0.12-linux-arm64",
-      "size": 44435536,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/ps5upload-engine-7.0.12-linux-arm64",
-      "digest": "sha256:504ac5db70209c35516078d1bcbe8ad8da0dcf2a0f095550700e07db3c162536"
-     },
-     {
-      "name": "ps5upload-engine-7.0.12-linux-x64",
-      "size": 46717024,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/ps5upload-engine-7.0.12-linux-x64",
-      "digest": "sha256:ff40f824478a49a5c38c628bafb54251fcf3d64c5b6772c53c326b0f5b22512a"
-     },
-     {
-      "name": "ps5upload-engine-7.0.12-macos-arm64",
-      "size": 40126384,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/ps5upload-engine-7.0.12-macos-arm64",
-      "digest": "sha256:a7e65642b77e9bcb0ba89fa72a2a1bd9ab33adaa747764819aa17d4c421f39d1"
-     },
-     {
-      "name": "ps5upload-engine-7.0.12-macos-x64",
-      "size": 42022440,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/ps5upload-engine-7.0.12-macos-x64",
-      "digest": "sha256:4a3c38dcfbe5f5a3ba39b142309bb4108dcb16f6001f23b37544500738c93bc3"
-     },
-     {
-      "name": "ps5upload-engine-7.0.12-windows-arm64.exe",
-      "size": 32367616,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/ps5upload-engine-7.0.12-windows-arm64.exe",
-      "digest": "sha256:b67ac3b06a9223aaaec9201598294dd42bcc58f0e862e51618a6437ff59dfa72"
-     },
-     {
-      "name": "ps5upload-engine-7.0.12-windows-x64.exe",
-      "size": 38018560,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.12/ps5upload-engine-7.0.12-windows-x64.exe",
-      "digest": "sha256:0fb2170ff4f08d3c331b80479f80415a07ba8934b8cdfd16de89387b541095fb"
      }
     ]
    }
