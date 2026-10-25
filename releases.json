@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-24T23:10:51+00:00",
+ "generatedAt": "2026-10-25T01:08:09+00:00",
  "repos": {
   "alex-free/wolf4sdl-ps5": [
    {
@@ -6191,6 +6191,28 @@
   ],
   "KytyPS5/KytyPS5": [
    {
+    "tag_name": "KytyPS5-2026-10-25-83f8bfd",
+    "name": "KytyPS5-2026-10-25-83f8bfd",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-25T00:43:27Z",
+    "html_url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-25-83f8bfd",
+    "assets": [
+     {
+      "name": "KytyPS5-2026-10-25-83f8bfd-Linux-x86_64.tar.gz",
+      "size": 77240321,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-25-83f8bfd/KytyPS5-2026-10-25-83f8bfd-Linux-x86_64.tar.gz",
+      "digest": "sha256:737ea99ea0022adae2b63f07b5bd1e708c8aa2acdd1a77f83531494b48b6d7e9"
+     },
+     {
+      "name": "KytyPS5-2026-10-25-83f8bfd-Windows-x64.zip",
+      "size": 28981875,
+      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-25-83f8bfd/KytyPS5-2026-10-25-83f8bfd-Windows-x64.zip",
+      "digest": "sha256:1a7ba18aba97b29d5e792fb6164c23af9eab4aec516ca9b717dfac6688c4102f"
+     }
+    ]
+   },
+   {
     "tag_name": "KytyPS5-2026-10-24-906d255",
     "name": "KytyPS5-2026-10-24-906d255",
     "draft": false,
@@ -6707,34 +6729,6 @@
       "size": 28341407,
       "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-21-80932f8/KytyPS5-2026-10-21-80932f8-Windows-x64.zip",
       "digest": "sha256:ac869e5fc3181cb682456032fe05a51b28ceaf33413fa46b92f1e412468e0e01"
-     }
-    ]
-   },
-   {
-    "tag_name": "KytyPS5-2026-10-21-4644c52",
-    "name": "KytyPS5-2026-10-21-4644c52",
-    "draft": false,
-    "prerelease": false,
-    "published_at": "2026-10-21T04:10:14Z",
-    "html_url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-10-21-4644c52",
-    "assets": [
-     {
-      "name": "KytyPS5-2026-10-21-4644c52-Linux-x86_64.tar.gz",
-      "size": 76618763,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-21-4644c52/KytyPS5-2026-10-21-4644c52-Linux-x86_64.tar.gz",
-      "digest": "sha256:295126d956a229d64758a31440abf0d106bf24eefaad3527b10e6e0b13959f33"
-     },
-     {
-      "name": "KytyPS5-2026-10-21-4644c52-macOS-x86_64.zip",
-      "size": 56313507,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-21-4644c52/KytyPS5-2026-10-21-4644c52-macOS-x86_64.zip",
-      "digest": "sha256:2c34fdcd7ce1280c1a6025cb80964e44b7068955ae3ec08773fde13c1c8515ee"
-     },
-     {
-      "name": "KytyPS5-2026-10-21-4644c52-Windows-x64.zip",
-      "size": 28336932,
-      "browser_download_url": "https://github.com/KytyPS5/KytyPS5/releases/download/KytyPS5-2026-10-21-4644c52/KytyPS5-2026-10-21-4644c52-Windows-x64.zip",
-      "digest": "sha256:6efd3dc2cd53693c23ce878f2b4505ffa8e383321234f3931b8211ec2f86efc6"
      }
     ]
    }
@@ -9586,6 +9580,40 @@
   ],
   "ntfargo/Relapse-Exploit": [],
   "pegasus-ps5/pegasus-dl": [
+   {
+    "tag_name": "native-v2.0.1",
+    "name": "Pegasus DL+ 2.0.1",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-24T23:49:17Z",
+    "html_url": "https://github.com/pegasus-ps5/pegasus-dl/releases/tag/native-v2.0.1",
+    "assets": [
+     {
+      "name": "native-release.json",
+      "size": 501,
+      "browser_download_url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/native-v2.0.1/native-release.json",
+      "digest": "sha256:41f429cb78877e819f3ef8ed26b64ac72725ea988efb06f6b5ca33d64937dbd6"
+     },
+     {
+      "name": "native-release.sig",
+      "size": 128,
+      "browser_download_url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/native-v2.0.1/native-release.sig",
+      "digest": "sha256:904169123e4d3fb2cc38b921a3cf2f1fa7d54e71b24d4f5b14460812e1620476"
+     },
+     {
+      "name": "PPSA99998.ffpfsc",
+      "size": 46333952,
+      "browser_download_url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/native-v2.0.1/PPSA99998.ffpfsc",
+      "digest": "sha256:de69bda955c1709e9077c060dac552c367be9882741c2472b3f3aed24aaeed01"
+     },
+     {
+      "name": "SHA256SUMS",
+      "size": 254,
+      "browser_download_url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/native-v2.0.1/SHA256SUMS",
+      "digest": "sha256:b82f17c1131a8415b2bad5fb53da0b1ca4d44aea7f71d5cccb890a225a1bad70"
+     }
+    ]
+   },
    {
     "tag_name": "native-v2.0.0",
     "name": "Pegasus DL+ 2.0.0",
