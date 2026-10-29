@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-29T09:54:47+00:00",
+ "generatedAt": "2026-10-29T16:55:29+00:00",
  "repos": {
   "alex-free/wolf4sdl-ps5": [
    {
@@ -8449,6 +8449,172 @@
   ],
   "nexgen999/evoX-CoreOS": [
    {
+    "tag_name": "v2026.10.29-1230",
+    "name": "PS5 Store AIO Release (v2026.10.29-1230)",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-29T12:33:51Z",
+    "html_url": "https://github.com/nexgen999/evoX-CoreOS/releases/tag/v2026.10.29-1230",
+    "assets": [
+     {
+      "name": "prosperostore-app_aio_part1_latest.zip",
+      "size": 1198780719,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/prosperostore-app_aio_part1_latest.zip",
+      "digest": "sha256:5d605c8d430413f4f5b4e6b52dab80c05a5969723840eb7551a1f9711eef5540"
+     },
+     {
+      "name": "prosperostore-app_aio_part2_latest.zip",
+      "size": 876552199,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/prosperostore-app_aio_part2_latest.zip",
+      "digest": "sha256:7f855e21d1f9466be753a04b579f75965177bdaae258d19bfd622c8c97bb8fe4"
+     },
+     {
+      "name": "prosperostore-app_aio_part3_latest.zip",
+      "size": 1543469748,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/prosperostore-app_aio_part3_latest.zip",
+      "digest": "sha256:209a6f0f2889b168bdbaf1cc3f5dce5dd8e49484f9337299a394542ac93463b3"
+     },
+     {
+      "name": "prosperostore-app_aio_part4_latest.zip",
+      "size": 1360294373,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/prosperostore-app_aio_part4_latest.zip",
+      "digest": "sha256:2a3c380a41c187f57d4d3c595eb84a95c3d835d6a1af818f101b54e7e6f944c4"
+     },
+     {
+      "name": "prosperostore-app_aio_part5_latest.zip",
+      "size": 171435308,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/prosperostore-app_aio_part5_latest.zip",
+      "digest": "sha256:e5574fde3cf192ea2e6435469aaf2a5a6d26d9f96b2e1cd60ac58713d3b45ffa"
+     },
+     {
+      "name": "prosperostore-game_aio_part1_latest.zip",
+      "size": 1462052531,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/prosperostore-game_aio_part1_latest.zip",
+      "digest": "sha256:cab87de088a9746b89653fc1453b8680ffb1c940efbc4e5308e314bb85387c06"
+     },
+     {
+      "name": "prosperostore-game_aio_part2_latest.zip",
+      "size": 1476474432,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/prosperostore-game_aio_part2_latest.zip",
+      "digest": "sha256:3cda9de5c86b36bbeb57d2bc37d98548f8c57307d40d8baea82b1276cac00dcd"
+     },
+     {
+      "name": "prosperostore-game_aio_part3_latest.zip",
+      "size": 851754050,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/prosperostore-game_aio_part3_latest.zip",
+      "digest": "sha256:abb08f1da36e799f3174148c01146914cfffb008898958495286b4f1b596069f"
+     },
+     {
+      "name": "prosperostore-tool_aio_latest.zip",
+      "size": 72735315,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/prosperostore-tool_aio_latest.zip",
+      "digest": "sha256:ca3aef2f8a696df2dd5a9af7e900019a6683a4376b4787494ff3202d8b56da29"
+     },
+     {
+      "name": "PS5_apps_aio_part1_latest.zip",
+      "size": 1377497670,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_apps_aio_part1_latest.zip",
+      "digest": "sha256:9807239a32f1e941e95274f9d7d8a3c3d080d91ff118d94217893d524fee92c5"
+     },
+     {
+      "name": "PS5_apps_aio_part2_latest.zip",
+      "size": 650640086,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_apps_aio_part2_latest.zip",
+      "digest": "sha256:a594dbe44fe776c89af0b8754131d3664ff7f881a6f927bd1951557abb6d7f04"
+     },
+     {
+      "name": "PS5_ffpfsc_aio_latest.zip",
+      "size": 115136452,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_ffpfsc_aio_latest.zip",
+      "digest": "sha256:735191600d02195f45352fc345d359c1f3b6ceced405c864f9693ec7d9cdb079"
+     },
+     {
+      "name": "PS5_payloads_aio_latest.zip",
+      "size": 400676141,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_payloads_aio_latest.zip",
+      "digest": "sha256:7f4d0b7ba57869b9027c983d2ddb626a4c2faa5adb5ab01e68cd30e748ec7e40"
+     },
+     {
+      "name": "PS5_pkg_aio_part1_latest.zip",
+      "size": 941322814,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_pkg_aio_part1_latest.zip",
+      "digest": "sha256:dc71ab3b9eff12771f54236a3314096e5284f907d0df50032639e90a728b2e60"
+     },
+     {
+      "name": "PS5_pkg_aio_part2_latest.zip",
+      "size": 926803324,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_pkg_aio_part2_latest.zip",
+      "digest": "sha256:2d0eece075c6322f6e92a3428c2f0fb49ef9930727255629f7e898fc5b7bd3f5"
+     },
+     {
+      "name": "PS5_ultimate_pack_part10_latest.zip",
+      "size": 1344692312,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_ultimate_pack_part10_latest.zip",
+      "digest": "sha256:6a1c4c3181ae9dc42094a37a638cd87b998e61dae0d4520917f50dce562cdcbd"
+     },
+     {
+      "name": "PS5_ultimate_pack_part11_latest.zip",
+      "size": 171435308,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_ultimate_pack_part11_latest.zip",
+      "digest": "sha256:e5574fde3cf192ea2e6435469aaf2a5a6d26d9f96b2e1cd60ac58713d3b45ffa"
+     },
+     {
+      "name": "PS5_ultimate_pack_part1_latest.zip",
+      "size": 939596868,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_ultimate_pack_part1_latest.zip",
+      "digest": "sha256:bdf10bedb104c42ae8df9e5ab1e9285c4e8960b3b03c9d64462b80aa651b6f6e"
+     },
+     {
+      "name": "PS5_ultimate_pack_part2_latest.zip",
+      "size": 1395048904,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_ultimate_pack_part2_latest.zip",
+      "digest": "sha256:cf124ec6a333ff037e5fd28cff6744e597f6b1c1148aef4bdcca6dfce57c792e"
+     },
+     {
+      "name": "PS5_ultimate_pack_part3_latest.zip",
+      "size": 1426790585,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_ultimate_pack_part3_latest.zip",
+      "digest": "sha256:60fc1d9df5d4625e25b37a8135c462198ee02305f5b41a53c4717a05fabc4617"
+     },
+     {
+      "name": "PS5_ultimate_pack_part4_latest.zip",
+      "size": 1407304806,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_ultimate_pack_part4_latest.zip",
+      "digest": "sha256:e63aa8a6a8538ff0311b22b42bf25095db72114f96c106084a4d8d4746deb704"
+     },
+     {
+      "name": "PS5_ultimate_pack_part5_latest.zip",
+      "size": 1479023639,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_ultimate_pack_part5_latest.zip",
+      "digest": "sha256:0ede93b88b710eb2625b38300802adca2f17cf30de8ca2f7c3c824d8ac8bedbc"
+     },
+     {
+      "name": "PS5_ultimate_pack_part6_latest.zip",
+      "size": 1310093111,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_ultimate_pack_part6_latest.zip",
+      "digest": "sha256:cf2113dc89185803c0aeb6367027009fd8c6829979fe6f39bfe36ead4caadadb"
+     },
+     {
+      "name": "PS5_ultimate_pack_part7_latest.zip",
+      "size": 1543469748,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_ultimate_pack_part7_latest.zip",
+      "digest": "sha256:209a6f0f2889b168bdbaf1cc3f5dce5dd8e49484f9337299a394542ac93463b3"
+     },
+     {
+      "name": "PS5_ultimate_pack_part8_latest.zip",
+      "size": 1242922349,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_ultimate_pack_part8_latest.zip",
+      "digest": "sha256:33d50b3825f174658bd3e15d0749b2f8dc5effc9b40d2d68a201f515bd8dbebf"
+     },
+     {
+      "name": "PS5_ultimate_pack_part9_latest.zip",
+      "size": 1165247444,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.29-1230/PS5_ultimate_pack_part9_latest.zip",
+      "digest": "sha256:3de37cc581811601b2fe35f3d0a59f904f0c8fa2aafb1096c336d451af448808"
+     }
+    ]
+   },
+   {
     "tag_name": "v2026.10.29-0430",
     "name": "PS5 Store AIO Release (v2026.10.29-0430)",
     "draft": false,
@@ -8619,164 +8785,164 @@
     "name": "PS5 Store AIO - Latest (Permanent)",
     "draft": false,
     "prerelease": false,
-    "published_at": "2026-10-29T04:36:35Z",
+    "published_at": "2026-10-29T12:36:53Z",
     "html_url": "https://github.com/nexgen999/evoX-CoreOS/releases/tag/latest",
     "assets": [
      {
       "name": "prosperostore-app_aio_part1_latest.zip",
-      "size": 1240958682,
+      "size": 1198780719,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part1_latest.zip",
-      "digest": "sha256:a5eca870e0a6bf16a47a37a363aea090b0ebd6a4f4c6c0e33f19a8532c1531ca"
+      "digest": "sha256:5d605c8d430413f4f5b4e6b52dab80c05a5969723840eb7551a1f9711eef5540"
      },
      {
       "name": "prosperostore-app_aio_part2_latest.zip",
       "size": 876552199,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part2_latest.zip",
-      "digest": "sha256:e3b51a59d823cb0069629db53a11597b0469c606fa211a0ba84fb9d66d13481c"
+      "digest": "sha256:7f855e21d1f9466be753a04b579f75965177bdaae258d19bfd622c8c97bb8fe4"
      },
      {
       "name": "prosperostore-app_aio_part3_latest.zip",
       "size": 1543469748,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part3_latest.zip",
-      "digest": "sha256:3783bffb8bd244faefb8d7d578a4f899ef405c3e587db8f67330746b9a126f27"
+      "digest": "sha256:209a6f0f2889b168bdbaf1cc3f5dce5dd8e49484f9337299a394542ac93463b3"
      },
      {
       "name": "prosperostore-app_aio_part4_latest.zip",
       "size": 1360294373,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part4_latest.zip",
-      "digest": "sha256:bc9cc2ec82f6a9bb884d8861c2782f49daac7744949cc2beebd4cfa325e6c674"
+      "digest": "sha256:2a3c380a41c187f57d4d3c595eb84a95c3d835d6a1af818f101b54e7e6f944c4"
      },
      {
       "name": "prosperostore-app_aio_part5_latest.zip",
       "size": 171435308,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part5_latest.zip",
-      "digest": "sha256:80c48048443c488c74658dcbed204ecbafd60a2b466ca7b3486f94c72866e842"
+      "digest": "sha256:e5574fde3cf192ea2e6435469aaf2a5a6d26d9f96b2e1cd60ac58713d3b45ffa"
      },
      {
       "name": "prosperostore-game_aio_part1_latest.zip",
       "size": 1462052531,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part1_latest.zip",
-      "digest": "sha256:5e80a8c1c1ebd1d1b9b5031f93b80d638a9d64aa512574863a705cb604dd35b7"
+      "digest": "sha256:cab87de088a9746b89653fc1453b8680ffb1c940efbc4e5308e314bb85387c06"
      },
      {
       "name": "prosperostore-game_aio_part2_latest.zip",
-      "size": 1476367632,
+      "size": 1476474432,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part2_latest.zip",
-      "digest": "sha256:2caa3765652bb8daf306f689818dc6ffb0255bd3cd3ce1600d862578489fd170"
+      "digest": "sha256:3cda9de5c86b36bbeb57d2bc37d98548f8c57307d40d8baea82b1276cac00dcd"
      },
      {
       "name": "prosperostore-game_aio_part3_latest.zip",
-      "size": 851757010,
+      "size": 851754050,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part3_latest.zip",
-      "digest": "sha256:2b0f320cd5488554e2016163ea72bab5fcf4a45285d41b5ff3c95b3329b5c63a"
+      "digest": "sha256:abb08f1da36e799f3174148c01146914cfffb008898958495286b4f1b596069f"
      },
      {
       "name": "prosperostore-tool_aio_latest.zip",
       "size": 72735315,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-tool_aio_latest.zip",
-      "digest": "sha256:2cbc5dbfdd90c6b17a1ffba37988ee16aec09a01da2930f8866cf58c4f4ca2cf"
+      "digest": "sha256:ca3aef2f8a696df2dd5a9af7e900019a6683a4376b4787494ff3202d8b56da29"
      },
      {
       "name": "PS5_apps_aio_part1_latest.zip",
       "size": 1377497670,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part1_latest.zip",
-      "digest": "sha256:ae72c2dbeaa596783c87fcc7c21e158970715019457a6a6df6baeecb14f1326d"
+      "digest": "sha256:9807239a32f1e941e95274f9d7d8a3c3d080d91ff118d94217893d524fee92c5"
      },
      {
       "name": "PS5_apps_aio_part2_latest.zip",
       "size": 650640086,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part2_latest.zip",
-      "digest": "sha256:6358f356a5f545c4feb953d23a565b369d32b63bb1f8d7b083366861b0b2a69b"
+      "digest": "sha256:a594dbe44fe776c89af0b8754131d3664ff7f881a6f927bd1951557abb6d7f04"
      },
      {
       "name": "PS5_ffpfsc_aio_latest.zip",
       "size": 115136452,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ffpfsc_aio_latest.zip",
-      "digest": "sha256:4b4ea09db68915ff381edca4dba6bdb726d3f4d5dc9fec920b4b4b3d8ccaebed"
+      "digest": "sha256:735191600d02195f45352fc345d359c1f3b6ceced405c864f9693ec7d9cdb079"
      },
      {
       "name": "PS5_payloads_aio_latest.zip",
-      "size": 400637224,
+      "size": 400676141,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip",
-      "digest": "sha256:e6fdc92ac8ba3fc2189bbd4ffea3b4b48e3d20ba854921dd7e50021ce284a2e9"
+      "digest": "sha256:7f4d0b7ba57869b9027c983d2ddb626a4c2faa5adb5ab01e68cd30e748ec7e40"
      },
      {
       "name": "PS5_pkg_aio_part1_latest.zip",
       "size": 941322814,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part1_latest.zip",
-      "digest": "sha256:02ed6096d785f4513d3f87aa2ec3ffcfedd59990e644544e9ba899cf1867a663"
+      "digest": "sha256:dc71ab3b9eff12771f54236a3314096e5284f907d0df50032639e90a728b2e60"
      },
      {
       "name": "PS5_pkg_aio_part2_latest.zip",
       "size": 926803324,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part2_latest.zip",
-      "digest": "sha256:fd18cf43751e7d5a9a5734d2611e021fc84395a4b620ab7c637d73b4c76d1276"
+      "digest": "sha256:2d0eece075c6322f6e92a3428c2f0fb49ef9930727255629f7e898fc5b7bd3f5"
      },
      {
       "name": "PS5_ultimate_pack_part10_latest.zip",
-      "size": 1344695272,
+      "size": 1344692312,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part10_latest.zip",
-      "digest": "sha256:2b685a3daec4a1ae9f91090a5bbf68b66d51ab07b57251013e2a8bdc7052c113"
+      "digest": "sha256:6a1c4c3181ae9dc42094a37a638cd87b998e61dae0d4520917f50dce562cdcbd"
      },
      {
       "name": "PS5_ultimate_pack_part11_latest.zip",
       "size": 171435308,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part11_latest.zip",
-      "digest": "sha256:80c48048443c488c74658dcbed204ecbafd60a2b466ca7b3486f94c72866e842"
+      "digest": "sha256:e5574fde3cf192ea2e6435469aaf2a5a6d26d9f96b2e1cd60ac58713d3b45ffa"
      },
      {
       "name": "PS5_ultimate_pack_part1_latest.zip",
-      "size": 939557951,
+      "size": 939596868,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part1_latest.zip",
-      "digest": "sha256:1f1c0138b68b03f95bf6d81c549a7ff6f771956125a10a8314d8743e4f30dae8"
+      "digest": "sha256:bdf10bedb104c42ae8df9e5ab1e9285c4e8960b3b03c9d64462b80aa651b6f6e"
      },
      {
       "name": "PS5_ultimate_pack_part2_latest.zip",
       "size": 1395048904,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part2_latest.zip",
-      "digest": "sha256:cc4141bf650b5dd6841f1bada8f5103c0cec82daccd57999f60399618c77a724"
+      "digest": "sha256:cf124ec6a333ff037e5fd28cff6744e597f6b1c1148aef4bdcca6dfce57c792e"
      },
      {
       "name": "PS5_ultimate_pack_part3_latest.zip",
       "size": 1426790585,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part3_latest.zip",
-      "digest": "sha256:87dabe9c9552d7065d4ea9999709cefbdbda508e0271f7fd8414ace21c10b52c"
+      "digest": "sha256:60fc1d9df5d4625e25b37a8135c462198ee02305f5b41a53c4717a05fabc4617"
      },
      {
       "name": "PS5_ultimate_pack_part4_latest.zip",
-      "size": 1407294686,
+      "size": 1407304806,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part4_latest.zip",
-      "digest": "sha256:e172dff799195b1b5426ad60b57db503b4fdcc71b87116c7b4168812ab1a8a32"
+      "digest": "sha256:e63aa8a6a8538ff0311b22b42bf25095db72114f96c106084a4d8d4746deb704"
      },
      {
       "name": "PS5_ultimate_pack_part5_latest.zip",
       "size": 1479023639,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part5_latest.zip",
-      "digest": "sha256:1b0d42e27051ea860335b2a6d78c359ca34e74ebd2ac929565afd24ec211c529"
+      "digest": "sha256:0ede93b88b710eb2625b38300802adca2f17cf30de8ca2f7c3c824d8ac8bedbc"
      },
      {
       "name": "PS5_ultimate_pack_part6_latest.zip",
-      "size": 1352281194,
+      "size": 1310093111,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part6_latest.zip",
-      "digest": "sha256:88ab631ee0b5eb765abda0048a1f9719ffd4f4e13a3efb756b4e81a0b59a1768"
+      "digest": "sha256:cf2113dc89185803c0aeb6367027009fd8c6829979fe6f39bfe36ead4caadadb"
      },
      {
       "name": "PS5_ultimate_pack_part7_latest.zip",
       "size": 1543469748,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part7_latest.zip",
-      "digest": "sha256:3783bffb8bd244faefb8d7d578a4f899ef405c3e587db8f67330746b9a126f27"
+      "digest": "sha256:209a6f0f2889b168bdbaf1cc3f5dce5dd8e49484f9337299a394542ac93463b3"
      },
      {
       "name": "PS5_ultimate_pack_part8_latest.zip",
       "size": 1242922349,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part8_latest.zip",
-      "digest": "sha256:7bd2b3d6f8bb41d133110c8ccae91389c8460ede76dec8ae221fd4ef4d0a7813"
+      "digest": "sha256:33d50b3825f174658bd3e15d0749b2f8dc5effc9b40d2d68a201f515bd8dbebf"
      },
      {
       "name": "PS5_ultimate_pack_part9_latest.zip",
-      "size": 1165140644,
+      "size": 1165247444,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part9_latest.zip",
-      "digest": "sha256:84e615f970bca4fc8bf2f02a019f049d06dd12192ece76d94c87143842b7ea49"
+      "digest": "sha256:3de37cc581811601b2fe35f3d0a59f904f0c8fa2aafb1096c336d451af448808"
      }
     ]
    },
@@ -9407,160 +9573,6 @@
       "digest": "sha256:b3444faeffa05e90f5032dbfdf4e04aa7bf7b3352cfb32cb6028074ca4d0abab"
      }
     ]
-   },
-   {
-    "tag_name": "v2026.10.27-1802",
-    "name": "PS5 Store AIO Release (v2026.10.27-1802)",
-    "draft": false,
-    "prerelease": false,
-    "published_at": "2026-10-27T18:06:09Z",
-    "html_url": "https://github.com/nexgen999/evoX-CoreOS/releases/tag/v2026.10.27-1802",
-    "assets": [
-     {
-      "name": "prosperostore-app_aio_part1_latest.zip",
-      "size": 1227402820,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/prosperostore-app_aio_part1_latest.zip",
-      "digest": "sha256:dadb188452db7eaeee0506a8942a749b7f8fd3f591d21cc815b496cdc21f6b0a"
-     },
-     {
-      "name": "prosperostore-app_aio_part2_latest.zip",
-      "size": 876552199,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/prosperostore-app_aio_part2_latest.zip",
-      "digest": "sha256:ac211591d36315891af9d4f304dfda0173ae1daef6a5b1e6f193be447463b627"
-     },
-     {
-      "name": "prosperostore-app_aio_part3_latest.zip",
-      "size": 1543469748,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/prosperostore-app_aio_part3_latest.zip",
-      "digest": "sha256:2c79e2899fd85e927a3f63326ca9969de0f7d557b423d86ccf7194763e92caad"
-     },
-     {
-      "name": "prosperostore-app_aio_part4_latest.zip",
-      "size": 1356042521,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/prosperostore-app_aio_part4_latest.zip",
-      "digest": "sha256:e546193dc866216999d2f74217e1f62509c666cc51ba06d96281d47605b7dc44"
-     },
-     {
-      "name": "prosperostore-game_aio_part1_latest.zip",
-      "size": 1408278115,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/prosperostore-game_aio_part1_latest.zip",
-      "digest": "sha256:5badcf05c5143b3a7cd7e50b6758168ae79fbd0705c928824036425a4c816d12"
-     },
-     {
-      "name": "prosperostore-game_aio_part2_latest.zip",
-      "size": 1476409671,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/prosperostore-game_aio_part2_latest.zip",
-      "digest": "sha256:bc74aded3bdaa0e251c95fc631b5e3ed14935f1ce095c35a96b5bf3eec3e493b"
-     },
-     {
-      "name": "prosperostore-game_aio_part3_latest.zip",
-      "size": 791833843,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/prosperostore-game_aio_part3_latest.zip",
-      "digest": "sha256:63a16cba8130249e936c40016a87a2847348299cbd15d52b0219b80c4560fc4b"
-     },
-     {
-      "name": "prosperostore-tool_aio_latest.zip",
-      "size": 72735315,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/prosperostore-tool_aio_latest.zip",
-      "digest": "sha256:4344d765616f409f3f945fc5ef93cc562bbf75d1d0d4af127ff01a5688654976"
-     },
-     {
-      "name": "PS5_apps_aio_part1_latest.zip",
-      "size": 1439087271,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_apps_aio_part1_latest.zip",
-      "digest": "sha256:671980c6032f9e146b9f1c87e63eb67e0c0f224b48f6f988ef34472cabedd74f"
-     },
-     {
-      "name": "PS5_apps_aio_part2_latest.zip",
-      "size": 564991339,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_apps_aio_part2_latest.zip",
-      "digest": "sha256:8ed84cdecb55cbc1128ea9b56ae7e2abed29066f0ecd3b222264023fe9482cdf"
-     },
-     {
-      "name": "PS5_ffpfsc_aio_latest.zip",
-      "size": 115136452,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_ffpfsc_aio_latest.zip",
-      "digest": "sha256:3ec9d668d1e01fc88df34abe0ca4ab89ef8e3def3d960bf864973a20dd2b81e2"
-     },
-     {
-      "name": "PS5_payloads_aio_latest.zip",
-      "size": 394320666,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_payloads_aio_latest.zip",
-      "digest": "sha256:ebc6cbdec7e4ef55b8536731bcab6503028cf92ee6e24f42a2743eccd60836d3"
-     },
-     {
-      "name": "PS5_pkg_aio_part1_latest.zip",
-      "size": 941322814,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_pkg_aio_part1_latest.zip",
-      "digest": "sha256:2ede87654ca61b3e795385c8bd2af142e3e433bd688b9b2a6c61cf8927479da7"
-     },
-     {
-      "name": "PS5_pkg_aio_part2_latest.zip",
-      "size": 926803324,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_pkg_aio_part2_latest.zip",
-      "digest": "sha256:8cb707748205feeb8093c81207de9086a70a8ca01743010d2f6ee4d74112b826"
-     },
-     {
-      "name": "PS5_ultimate_pack_part10_latest.zip",
-      "size": 1030948740,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_ultimate_pack_part10_latest.zip",
-      "digest": "sha256:464e10f09a13468911d7caba46061b53957a6115f6d9ba3b0b982b5440639d91"
-     },
-     {
-      "name": "PS5_ultimate_pack_part1_latest.zip",
-      "size": 933241393,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_ultimate_pack_part1_latest.zip",
-      "digest": "sha256:27be46802280239d20611428f4a9e625fa3e364c4030f8fe9fb35a4a898a696a"
-     },
-     {
-      "name": "PS5_ultimate_pack_part2_latest.zip",
-      "size": 1395048904,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_ultimate_pack_part2_latest.zip",
-      "digest": "sha256:8ccacf9a935f846ed6f14aa8e8c11b87f233aade79e5a860373fba0747a26225"
-     },
-     {
-      "name": "PS5_ultimate_pack_part3_latest.zip",
-      "size": 1402731439,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_ultimate_pack_part3_latest.zip",
-      "digest": "sha256:cf8a7683988de9539b3d77a24012855ea3429fb7703c43fed664b0a8bd7f1487"
-     },
-     {
-      "name": "PS5_ultimate_pack_part4_latest.zip",
-      "size": 1479797109,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_ultimate_pack_part4_latest.zip",
-      "digest": "sha256:de4f25a53b1d4a0bb6a2b640a885987a43fb3b756983461cd97d73399e7a2a60"
-     },
-     {
-      "name": "PS5_ultimate_pack_part5_latest.zip",
-      "size": 1477059231,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_ultimate_pack_part5_latest.zip",
-      "digest": "sha256:d78a68ea2ba796a7ce503a8015367528db8f803032a828f70938dd6a21278fd5"
-     },
-     {
-      "name": "PS5_ultimate_pack_part6_latest.zip",
-      "size": 1214412901,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_ultimate_pack_part6_latest.zip",
-      "digest": "sha256:337c5704d2821fadb2de373537e62eaaf712c15b906dd1616c710a7ff79f7b34"
-     },
-     {
-      "name": "PS5_ultimate_pack_part7_latest.zip",
-      "size": 1543469748,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_ultimate_pack_part7_latest.zip",
-      "digest": "sha256:2c79e2899fd85e927a3f63326ca9969de0f7d557b423d86ccf7194763e92caad"
-     },
-     {
-      "name": "PS5_ultimate_pack_part8_latest.zip",
-      "size": 1230980815,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_ultimate_pack_part8_latest.zip",
-      "digest": "sha256:0f8ae6bbf62febfe10b36283cf16a9abdf6936c338d8e1b453d1b4ec4b39fdb1"
-     },
-     {
-      "name": "PS5_ultimate_pack_part9_latest.zip",
-      "size": 1426695730,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.10.27-1802/PS5_ultimate_pack_part9_latest.zip",
-      "digest": "sha256:b6793f191bf2443d9fbce91ba9a01285e0c5417825517de837c82c37ba39d6d4"
-     }
-    ]
    }
   ],
   "nexgen999/PS5-Repository-List": [],
@@ -10014,6 +10026,386 @@
    }
   ],
   "phantomptr/ps5upload": [
+   {
+    "tag_name": "v9.1.0",
+    "name": "v9.1.0",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-29T15:13:58Z",
+    "html_url": "https://github.com/phantomptr/ps5upload/releases/tag/v9.1.0",
+    "assets": [
+     {
+      "name": "altstore.json",
+      "size": 4330,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/altstore.json",
+      "digest": "sha256:e0d0ee7a25bdb9c505b4820f258bf74d386d79c8872a196a407bad4b9cb2921a"
+     },
+     {
+      "name": "latest.json",
+      "size": 4998,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/latest.json",
+      "digest": "sha256:28534cc3ecbaa52a0383047599f65f3f4ffaeac618f6dd2182ffbcf41de2be53"
+     },
+     {
+      "name": "PS5Upload-9.1.0-android-armv7.apk",
+      "size": 32075644,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-android-armv7.apk",
+      "digest": "sha256:d4fec3d19c75f03d619d4c57e94f6bf7afd13046f4da17cf7bf4f406886f8410"
+     },
+     {
+      "name": "PS5Upload-9.1.0-android.apk",
+      "size": 41815930,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-android.apk",
+      "digest": "sha256:77185e47c7aff9b6405ce681cc834a0ebdde52fc3aaef665ba7fdef269e6448d"
+     },
+     {
+      "name": "PS5Upload-9.1.0-ios-unsigned.ipa",
+      "size": 20157082,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-ios-unsigned.ipa",
+      "digest": "sha256:91cc825831ee39ae90d5ab8b51fb9ac8d8ae4d5a6114a2dd70db3ff06574d729"
+     },
+     {
+      "name": "PS5Upload-9.1.0-linux-arm64.deb",
+      "size": 32106026,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-linux-arm64.deb",
+      "digest": "sha256:51ec041d5c1a9cc8b8696e3aec210c32153dd22a68df593d01094d4c73cd52d5"
+     },
+     {
+      "name": "PS5Upload-9.1.0-linux-arm64.rpm",
+      "size": 32110625,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-linux-arm64.rpm",
+      "digest": "sha256:957e9a5554f785628003629c71882d7b3aa0107530b083d6e9717017c841d88e"
+     },
+     {
+      "name": "PS5Upload-9.1.0-linux-arm64.zip",
+      "size": 105484936,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-linux-arm64.zip",
+      "digest": "sha256:089bd9c2b19991fccdc732db993df379525921e4d14078e93abae5a96210f4c8"
+     },
+     {
+      "name": "PS5Upload-9.1.0-linux-x64.deb",
+      "size": 31947204,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-linux-x64.deb",
+      "digest": "sha256:4e3de70b52990e0a7379a75287598fef2dc5ba6811a3dc17493aaa3d079c626b"
+     },
+     {
+      "name": "PS5Upload-9.1.0-linux-x64.rpm",
+      "size": 31951718,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-linux-x64.rpm",
+      "digest": "sha256:820dc5bcb4fbcc334b5edeec61b2dfb9d239ea802d1a4581490c322b09dcf4bf"
+     },
+     {
+      "name": "PS5Upload-9.1.0-linux-x64.zip",
+      "size": 107561070,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-linux-x64.zip",
+      "digest": "sha256:321b76f2ce80825863c426ba230edad88c57a10214780e31e399049c86efaedb"
+     },
+     {
+      "name": "PS5Upload-9.1.0-mac-arm64.dmg",
+      "size": 29529304,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-mac-arm64.dmg",
+      "digest": "sha256:daac418f45ace1d1fa110c7fcd7987c94c2fed15b025c0455cb46900929d4d93"
+     },
+     {
+      "name": "PS5Upload-9.1.0-mac-x64.dmg",
+      "size": 30784007,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-mac-x64.dmg",
+      "digest": "sha256:ebc864351d1335ca0d6e0c75aad181a35276155ba25f07f4ba6d836326432434"
+     },
+     {
+      "name": "PS5Upload-9.1.0-win-arm64-setup.exe",
+      "size": 20439430,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-win-arm64-setup.exe",
+      "digest": "sha256:10fd6290400828ddab35fee716c23e53983e33b1df5900e4815b3e64b151a83d"
+     },
+     {
+      "name": "PS5Upload-9.1.0-win-arm64.zip",
+      "size": 28153367,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-win-arm64.zip",
+      "digest": "sha256:721a5a5c04f866e1a4ffb51fee6d6e47e9250c179483e34533b35c0748f84316"
+     },
+     {
+      "name": "PS5Upload-9.1.0-win-x64-setup.exe",
+      "size": 22240588,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-win-x64-setup.exe",
+      "digest": "sha256:84fafa86c9571536818f3a4c3181f3ef3cd915ab8ebd126b11a11c97aa0f5359"
+     },
+     {
+      "name": "PS5Upload-9.1.0-win-x64.zip",
+      "size": 29618066,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/PS5Upload-9.1.0-win-x64.zip",
+      "digest": "sha256:3b34c3b3bf9499aa54dc7dcf8de8df0dcf4a37bf1d8a8c9288e7e7e1eb2796ec"
+     },
+     {
+      "name": "ps5upload-9.1.0.elf",
+      "size": 6221376,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-9.1.0.elf",
+      "digest": "sha256:4004b092c48b531ceb2035c2213c5fe8b0a7aaa0af47df7370c67935649b0f1d"
+     },
+     {
+      "name": "ps5upload-engine-9.1.0-linux-arm64",
+      "size": 55752296,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-engine-9.1.0-linux-arm64",
+      "digest": "sha256:6730315f2657958a0ef9aaa64619c04245e20eadea1dda915590025fce6441a5"
+     },
+     {
+      "name": "ps5upload-engine-9.1.0-linux-x64",
+      "size": 58573376,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-engine-9.1.0-linux-x64",
+      "digest": "sha256:a5cfb4afc112848a7be97c06271e334cadfba99e70c66f323cf800c16ea61239"
+     },
+     {
+      "name": "ps5upload-engine-9.1.0-macos-arm64",
+      "size": 50848928,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-engine-9.1.0-macos-arm64",
+      "digest": "sha256:0f65f5d4b6ad3f8ea36bea6c95065534b25970320fc6644a52707e2a656dd51f"
+     },
+     {
+      "name": "ps5upload-engine-9.1.0-macos-x64",
+      "size": 53117264,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-engine-9.1.0-macos-x64",
+      "digest": "sha256:400ee569a0788df17b453e30561480761365ab3d85ca7000613ab95094571a0f"
+     },
+     {
+      "name": "ps5upload-engine-9.1.0-windows-arm64.exe",
+      "size": 41911808,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-engine-9.1.0-windows-arm64.exe",
+      "digest": "sha256:1cc68cd3d99328a33592529e5b84b7815386f4c9c2e205494b0b3911b9ed8f28"
+     },
+     {
+      "name": "ps5upload-engine-9.1.0-windows-x64.exe",
+      "size": 48974336,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-engine-9.1.0-windows-x64.exe",
+      "digest": "sha256:1678a9fd90a7dce71070aa04a4b7d539a8163dd3bb8f47614d4385b6dfd4804e"
+     },
+     {
+      "name": "ps5upload-unrar-9.1.0-linux-arm64",
+      "size": 919128,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-unrar-9.1.0-linux-arm64",
+      "digest": "sha256:c9d2c4b6da2fc05df571c3a1ecc3b69166e8b08e53fdc62f733e2e742256c36a"
+     },
+     {
+      "name": "ps5upload-unrar-9.1.0-linux-x64",
+      "size": 998592,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-unrar-9.1.0-linux-x64",
+      "digest": "sha256:1855d855a31e479695e7e59d542595232169369d0205f1e399788a8ebf8db345"
+     },
+     {
+      "name": "ps5upload-unrar-9.1.0-macos-arm64",
+      "size": 828400,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-unrar-9.1.0-macos-arm64",
+      "digest": "sha256:ea6bdb554d548e32398c25bd2df61f7072453dc59180317810fa3b3ee1cb4842"
+     },
+     {
+      "name": "ps5upload-unrar-9.1.0-macos-x64",
+      "size": 839312,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-unrar-9.1.0-macos-x64",
+      "digest": "sha256:c76c1b05809c5780a2aaaae4824da0328fe18ab51cdb33aa519c04c33f1b430d"
+     },
+     {
+      "name": "ps5upload-unrar-9.1.0-windows-arm64.exe",
+      "size": 602624,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-unrar-9.1.0-windows-arm64.exe",
+      "digest": "sha256:a5526bfb1ddd57908c282247f9684336d5edbcc76d06876e354bfc03f2a66998"
+     },
+     {
+      "name": "ps5upload-unrar-9.1.0-windows-x64.exe",
+      "size": 645120,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.1.0/ps5upload-unrar-9.1.0-windows-x64.exe",
+      "digest": "sha256:533d930c5b9e03c892251b463f250cc8eaf428ed0408b8da952676ce4dc3c277"
+     }
+    ]
+   },
+   {
+    "tag_name": "v9.0.1",
+    "name": "v9.0.1",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-10-29T10:03:46Z",
+    "html_url": "https://github.com/phantomptr/ps5upload/releases/tag/v9.0.1",
+    "assets": [
+     {
+      "name": "altstore.json",
+      "size": 4891,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/altstore.json",
+      "digest": "sha256:108ebffbb52b7472e60f57bbb2eab2bbdca91bb4f4f9f6c487c20d2dc6c88232"
+     },
+     {
+      "name": "latest.json",
+      "size": 5556,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/latest.json",
+      "digest": "sha256:deadf9528a3555418df5254a7cbac09062771620c9e3ee81148c69bdea9c0bd9"
+     },
+     {
+      "name": "PS5Upload-9.0.1-android-armv7.apk",
+      "size": 32038780,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-android-armv7.apk",
+      "digest": "sha256:220b85d4bcfcc2a9024917046457a5baafda784b4ecff7adeb2940a54dec5cbe"
+     },
+     {
+      "name": "PS5Upload-9.0.1-android.apk",
+      "size": 41774970,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-android.apk",
+      "digest": "sha256:b3c3aeb0c8207e722c984ecd42fa8ea391f6bf13e42526c94086e7fad31e0a72"
+     },
+     {
+      "name": "PS5Upload-9.0.1-ios-unsigned.ipa",
+      "size": 20110500,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-ios-unsigned.ipa",
+      "digest": "sha256:ac428dc9832b53efc724793bc9c44634bcd1aa19731840a6d526dee589c51af2"
+     },
+     {
+      "name": "PS5Upload-9.0.1-linux-arm64.deb",
+      "size": 32070202,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-linux-arm64.deb",
+      "digest": "sha256:df04568d80bf6c488f680aacb2e14283dd0ab9097e79dc917e531519d0c13fca"
+     },
+     {
+      "name": "PS5Upload-9.0.1-linux-arm64.rpm",
+      "size": 32075290,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-linux-arm64.rpm",
+      "digest": "sha256:a2ecb47e0fb5b7ae9d5b2f361fba974b1e5507353e9b4f5a1e3cb2f427cecd46"
+     },
+     {
+      "name": "PS5Upload-9.0.1-linux-arm64.zip",
+      "size": 105449574,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-linux-arm64.zip",
+      "digest": "sha256:6cec76ad9d8f33b225e02e8137aebded05c7e7cabb66593e17254027b47c6062"
+     },
+     {
+      "name": "PS5Upload-9.0.1-linux-x64.deb",
+      "size": 31914322,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-linux-x64.deb",
+      "digest": "sha256:330c0f486f9d9409ce88b798303bdd59ca96a58eb3a793610e1d27a39b03ca11"
+     },
+     {
+      "name": "PS5Upload-9.0.1-linux-x64.rpm",
+      "size": 31918924,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-linux-x64.rpm",
+      "digest": "sha256:b6766e4631886f1b6a164d1b94b6526d2e14759b953ae6887d4081dc51ded167"
+     },
+     {
+      "name": "PS5Upload-9.0.1-linux-x64.zip",
+      "size": 107507436,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-linux-x64.zip",
+      "digest": "sha256:88d465bbdeda9b5f55bafdee59aaab63a2f710f6c1877793399872c37b41608f"
+     },
+     {
+      "name": "PS5Upload-9.0.1-mac-arm64.dmg",
+      "size": 29490657,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-mac-arm64.dmg",
+      "digest": "sha256:573dec9b12ec44b14e2853a7fa71d66fc2aeaa27e4df18908f0c76b0d056baf7"
+     },
+     {
+      "name": "PS5Upload-9.0.1-mac-x64.dmg",
+      "size": 30750933,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-mac-x64.dmg",
+      "digest": "sha256:73df318f335a7f0b4ebab03c7b393f2d72f26a3d0b1b211ea2355fc85c90d300"
+     },
+     {
+      "name": "PS5Upload-9.0.1-win-arm64-setup.exe",
+      "size": 20404332,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-win-arm64-setup.exe",
+      "digest": "sha256:f32923174df96712c6b3498c96d94bcbce2fcb9d1959dab32b9b23d0c8171311"
+     },
+     {
+      "name": "PS5Upload-9.0.1-win-arm64.zip",
+      "size": 28116921,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-win-arm64.zip",
+      "digest": "sha256:80f975175cb24efbe54922169e800ea03050979b22d33e066221b658ca3b664e"
+     },
+     {
+      "name": "PS5Upload-9.0.1-win-x64-setup.exe",
+      "size": 22204449,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-win-x64-setup.exe",
+      "digest": "sha256:0dfc75e7b39e1c573614c151148e3c3ca2e39b77927348302b6b4c4bc11f84d6"
+     },
+     {
+      "name": "PS5Upload-9.0.1-win-x64.zip",
+      "size": 29586055,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/PS5Upload-9.0.1-win-x64.zip",
+      "digest": "sha256:e120c1232fce40a6610689e92e1ba14be0e8dafef34cc8f036cdf260387cf09c"
+     },
+     {
+      "name": "ps5upload-9.0.1.elf",
+      "size": 6221376,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-9.0.1.elf",
+      "digest": "sha256:36317d7d360faad3aeac6127199e7e61514dc2c2cc5f83c10835682951806d9f"
+     },
+     {
+      "name": "ps5upload-engine-9.0.1-linux-arm64",
+      "size": 55749136,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-engine-9.0.1-linux-arm64",
+      "digest": "sha256:40e41a22aa409e107d525fd6cfdd64afdaa3c3541ea4c58f1d290c610268c828"
+     },
+     {
+      "name": "ps5upload-engine-9.0.1-linux-x64",
+      "size": 58601432,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-engine-9.0.1-linux-x64",
+      "digest": "sha256:c59d342a443647c2d2453c9961d2f56ad89691fea7daa9f13873a2ff038153e2"
+     },
+     {
+      "name": "ps5upload-engine-9.0.1-macos-arm64",
+      "size": 50849888,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-engine-9.0.1-macos-arm64",
+      "digest": "sha256:7576bab231116a75c9cf81de8b0cc15e551d017b1f7ded7e7fe65b51df058b8f"
+     },
+     {
+      "name": "ps5upload-engine-9.0.1-macos-x64",
+      "size": 53135768,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-engine-9.0.1-macos-x64",
+      "digest": "sha256:a63b53f5f13be76c2b9eac84824147df82f35e1dd88e8a0ad625fac5b5e17d72"
+     },
+     {
+      "name": "ps5upload-engine-9.0.1-windows-arm64.exe",
+      "size": 41910784,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-engine-9.0.1-windows-arm64.exe",
+      "digest": "sha256:50789c4c877e33fb6477448fb2870e9a05c65287e8c184c65dc364d7090daaf4"
+     },
+     {
+      "name": "ps5upload-engine-9.0.1-windows-x64.exe",
+      "size": 48977920,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-engine-9.0.1-windows-x64.exe",
+      "digest": "sha256:91c807bb383e335f323084ac8781673c206f3fb4c97a27f25d3b8a0130d8d3ce"
+     },
+     {
+      "name": "ps5upload-unrar-9.0.1-linux-arm64",
+      "size": 919144,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-unrar-9.0.1-linux-arm64",
+      "digest": "sha256:d67e16d71a53e7788b71bc8aa741463865daf2750d211f47013120041b95d81d"
+     },
+     {
+      "name": "ps5upload-unrar-9.0.1-linux-x64",
+      "size": 998608,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-unrar-9.0.1-linux-x64",
+      "digest": "sha256:d5926479921509b51df04e6d0b8fa4f54b27f651584094e47648431daef10a68"
+     },
+     {
+      "name": "ps5upload-unrar-9.0.1-macos-arm64",
+      "size": 828400,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-unrar-9.0.1-macos-arm64",
+      "digest": "sha256:a83c922ee46d58fa0118deb3724fe27561539b41cdf15ba3489d3bff49dfcc5b"
+     },
+     {
+      "name": "ps5upload-unrar-9.0.1-macos-x64",
+      "size": 839312,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-unrar-9.0.1-macos-x64",
+      "digest": "sha256:457600f6786c4c3c9f5b2e188748381285e8b976c2dd2df3e50657b420057953"
+     },
+     {
+      "name": "ps5upload-unrar-9.0.1-windows-arm64.exe",
+      "size": 602624,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-unrar-9.0.1-windows-arm64.exe",
+      "digest": "sha256:2a329a28127864d0e070592acf3fed2a832b9947feacb3fadcb586ded36168d9"
+     },
+     {
+      "name": "ps5upload-unrar-9.0.1-windows-x64.exe",
+      "size": 645120,
+      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v9.0.1/ps5upload-unrar-9.0.1-windows-x64.exe",
+      "digest": "sha256:60566abf89a07b8677699f6fe809f0c04a69dace3945ba873cf6f093a3569a9b"
+     }
+    ]
+   },
    {
     "tag_name": "v8.10.0",
     "name": "v8.10.0",
@@ -12771,302 +13163,6 @@
       "size": 45371904,
       "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.1/ps5upload-engine-7.5.1-windows-x64.exe",
       "digest": "sha256:42ae1bd5830b691eea6624acb25b1bad8f652677ac3acbd45be453cee23cf361"
-     }
-    ]
-   },
-   {
-    "tag_name": "v7.5.0",
-    "name": "v7.5.0",
-    "draft": false,
-    "prerelease": false,
-    "published_at": "2026-10-24T20:39:27Z",
-    "html_url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.5.0",
-    "assets": [
-     {
-      "name": "latest.json",
-      "size": 2313,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/latest.json",
-      "digest": "sha256:e42a9379fe1c6754929a4f15f515b04e237a6fbc0f6adaf93af949abb88ae0aa"
-     },
-     {
-      "name": "PS5Upload-7.5.0-android-armv7.apk",
-      "size": 30420860,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-android-armv7.apk",
-      "digest": "sha256:fede9c7514424831ff141fcd18e7d9d2ed65ee10fc4b170e7fc8de80ab553218"
-     },
-     {
-      "name": "PS5Upload-7.5.0-android.apk",
-      "size": 39657338,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-android.apk",
-      "digest": "sha256:9f3877a363437008a52f9d8f1a0a6aad070854c545132fb1d90a665fbaca1238"
-     },
-     {
-      "name": "PS5Upload-7.5.0-ios-unsigned.ipa",
-      "size": 19099561,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-ios-unsigned.ipa",
-      "digest": "sha256:fcfef90cbb95d080d7b207b5e833c01207d588ad57a1d2d4f556c95a7b2cf8ec"
-     },
-     {
-      "name": "PS5Upload-7.5.0-linux-arm64.deb",
-      "size": 29907844,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-linux-arm64.deb",
-      "digest": "sha256:f073fdce72813fe2194e236a827dd79cfd92459abc2f4522dd9b9399a0c88d56"
-     },
-     {
-      "name": "PS5Upload-7.5.0-linux-arm64.rpm",
-      "size": 29912510,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-linux-arm64.rpm",
-      "digest": "sha256:df4a2a61aa902779f638a8381a74baf24eed7c186b1d4d4ab105b8ce0e8d452e"
-     },
-     {
-      "name": "PS5Upload-7.5.0-linux-arm64.zip",
-      "size": 103387812,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-linux-arm64.zip",
-      "digest": "sha256:3972e11c062e263a52a5cb16d4975dfa5e248634f1780f30eea21df007f80c3a"
-     },
-     {
-      "name": "PS5Upload-7.5.0-linux-x64.deb",
-      "size": 29706612,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-linux-x64.deb",
-      "digest": "sha256:202b73502630aff9279337ff6a01c8137dcaceb0bd1bb70cb02c3786b64600aa"
-     },
-     {
-      "name": "PS5Upload-7.5.0-linux-x64.rpm",
-      "size": 29712345,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-linux-x64.rpm",
-      "digest": "sha256:8f2bc537e7fe5a89320eac9e493d12563f414015491bf6a0859cf52bd398b562"
-     },
-     {
-      "name": "PS5Upload-7.5.0-linux-x64.zip",
-      "size": 105436382,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-linux-x64.zip",
-      "digest": "sha256:6461bf986df99ef77115c4af6e971bf102f88176982beb7065331308542c1d01"
-     },
-     {
-      "name": "PS5Upload-7.5.0-mac-arm64.dmg",
-      "size": 27486345,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-mac-arm64.dmg",
-      "digest": "sha256:ecd5132c84f492018304ab37a79757c2f9c0581d98d9da4c9d07f568b3540ac9"
-     },
-     {
-      "name": "PS5Upload-7.5.0-mac-x64.dmg",
-      "size": 28673467,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-mac-x64.dmg",
-      "digest": "sha256:74b9b38c9719fafd3321d68e88a65aa448093d60891d4e51c3c7a4ae6c210126"
-     },
-     {
-      "name": "PS5Upload-7.5.0-win-arm64-setup.exe",
-      "size": 18980945,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-win-arm64-setup.exe",
-      "digest": "sha256:9bacbfc3b71c7de5b16ff87282baa65d3c32c1ff48c75844d441f47784b1777a"
-     },
-     {
-      "name": "PS5Upload-7.5.0-win-arm64.zip",
-      "size": 26116416,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-win-arm64.zip",
-      "digest": "sha256:6e7eaff787555a2f79c48d0096259a746c9bbd12441bb0653120226adc7aa4ad"
-     },
-     {
-      "name": "PS5Upload-7.5.0-win-x64-setup.exe",
-      "size": 20638452,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-win-x64-setup.exe",
-      "digest": "sha256:a5252d7592ed6c513881ad1122504b4439b99348abee6fb07fa0017357ab9948"
-     },
-     {
-      "name": "PS5Upload-7.5.0-win-x64.zip",
-      "size": 27466755,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/PS5Upload-7.5.0-win-x64.zip",
-      "digest": "sha256:fea9d7d8e8890613fadf281e32adaf381e296b8eaca43315df5e216e8fb22702"
-     },
-     {
-      "name": "ps5upload-7.5.0.elf",
-      "size": 5946304,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/ps5upload-7.5.0.elf",
-      "digest": "sha256:57f4bfea3233d4e0094a298b89b165048ceef875937d8fbe9fb0f0572d163d8c"
-     },
-     {
-      "name": "ps5upload-engine-7.5.0-linux-arm64",
-      "size": 52176504,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/ps5upload-engine-7.5.0-linux-arm64",
-      "digest": "sha256:d9bf4da7c0f5eec1a23fa8977d7220bae0318cde7623944579a3f82076ffba4e"
-     },
-     {
-      "name": "ps5upload-engine-7.5.0-linux-x64",
-      "size": 54750208,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/ps5upload-engine-7.5.0-linux-x64",
-      "digest": "sha256:cdf2598881268abc92562bc6913766b95c6ffdff42e5440c2f5fa87158ed617f"
-     },
-     {
-      "name": "ps5upload-engine-7.5.0-macos-arm64",
-      "size": 47576816,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/ps5upload-engine-7.5.0-macos-arm64",
-      "digest": "sha256:b499823874030b8e805272834f404b99cc9dc6d5608fe7e3abae9dc7e4c6e88c"
-     },
-     {
-      "name": "ps5upload-engine-7.5.0-macos-x64",
-      "size": 49716320,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/ps5upload-engine-7.5.0-macos-x64",
-      "digest": "sha256:d69dfeaf8d2fd2e89c5889bca30199141d4475c6bf69d897b917fb2e385cc875"
-     },
-     {
-      "name": "ps5upload-engine-7.5.0-windows-arm64.exe",
-      "size": 38884864,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/ps5upload-engine-7.5.0-windows-arm64.exe",
-      "digest": "sha256:65b46ed3ac4e66f501b8351126864bce451a34888733ac955d598a8bb3ab7ec2"
-     },
-     {
-      "name": "ps5upload-engine-7.5.0-windows-x64.exe",
-      "size": 45376512,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.5.0/ps5upload-engine-7.5.0-windows-x64.exe",
-      "digest": "sha256:977b3d005b8874def097cb2d2a47c5f30a8832af0154ccdbbdad169891b80827"
-     }
-    ]
-   },
-   {
-    "tag_name": "v7.4.4",
-    "name": "v7.4.4",
-    "draft": false,
-    "prerelease": true,
-    "published_at": "2026-10-24T20:04:05Z",
-    "html_url": "https://github.com/phantomptr/ps5upload/releases/tag/v7.4.4",
-    "assets": [
-     {
-      "name": "latest.json",
-      "size": 4848,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/latest.json",
-      "digest": "sha256:83bc876e43407b456c228da1aff92b0f83a05c5c0c2c4d71c25fbb602c2f7e1f"
-     },
-     {
-      "name": "PS5Upload-7.4.4-android-armv7.apk",
-      "size": 30617468,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-android-armv7.apk",
-      "digest": "sha256:6156beadab652fad6a4e836e04dc6926824c7b44d4c33846e41a05a63b63ac2a"
-     },
-     {
-      "name": "PS5Upload-7.4.4-android.apk",
-      "size": 39849850,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-android.apk",
-      "digest": "sha256:4f35dc3daa36c3b1be9f8bbbd3b1a068aec5b25512c5f1eb18d7cbb9eb6435ff"
-     },
-     {
-      "name": "PS5Upload-7.4.4-ios-unsigned.ipa",
-      "size": 19596435,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-ios-unsigned.ipa",
-      "digest": "sha256:1f792bb6bb95e05171aa9430ff571eee9a6c6b36a2d1b0f6ad80489fd9811fc1"
-     },
-     {
-      "name": "PS5Upload-7.4.4-linux-arm64.deb",
-      "size": 30034812,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-linux-arm64.deb",
-      "digest": "sha256:5ff5160f0f7723507a8c792976bac5ef4bc7bb6e7d5f39a6f76ea8556890a1f4"
-     },
-     {
-      "name": "PS5Upload-7.4.4-linux-arm64.rpm",
-      "size": 30048647,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-linux-arm64.rpm",
-      "digest": "sha256:1eac35f7da6d7e2ff9ba825afd9072e1e79afb5e10ad4739cb39313b226b4fc2"
-     },
-     {
-      "name": "PS5Upload-7.4.4-linux-arm64.zip",
-      "size": 103522625,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-linux-arm64.zip",
-      "digest": "sha256:328084f6fa0f4f10609e209f6f658ce19a8db41bebabe5ec9574d4a9282d8f35"
-     },
-     {
-      "name": "PS5Upload-7.4.4-linux-x64.deb",
-      "size": 29826000,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-linux-x64.deb",
-      "digest": "sha256:16cf43f30487701fbf855751f234dae251e08215ed7b8bf551da16558c8ad4b1"
-     },
-     {
-      "name": "PS5Upload-7.4.4-linux-x64.rpm",
-      "size": 29829858,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-linux-x64.rpm",
-      "digest": "sha256:996e01484ed61d56c6b5dbd424c5a3ec730ddf4c1ead12b83a1a2e6da613c94e"
-     },
-     {
-      "name": "PS5Upload-7.4.4-linux-x64.zip",
-      "size": 105533508,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-linux-x64.zip",
-      "digest": "sha256:19ac5fd23aef511a36309a3bb61b94863cff0f943b2af86c198cb35509a9989f"
-     },
-     {
-      "name": "PS5Upload-7.4.4-mac-arm64.dmg",
-      "size": 27988597,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-mac-arm64.dmg",
-      "digest": "sha256:dea1b05785968c54e7884ad197aa03b81cc8e3253c77fc4c2954d7638812e211"
-     },
-     {
-      "name": "PS5Upload-7.4.4-mac-x64.dmg",
-      "size": 29188000,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-mac-x64.dmg",
-      "digest": "sha256:61da2df9f000b801e394f853f91512b913d8858480b6e85ac788516d19f667b4"
-     },
-     {
-      "name": "PS5Upload-7.4.4-win-arm64-setup.exe",
-      "size": 19109123,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-win-arm64-setup.exe",
-      "digest": "sha256:54b069c3412d101bd1d306dbe79c43a233e24b6a9835a667589ee72aafa022b3"
-     },
-     {
-      "name": "PS5Upload-7.4.4-win-arm64.zip",
-      "size": 26245494,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-win-arm64.zip",
-      "digest": "sha256:e80de498cbe950524c1e2e25cd8d7a439cd41fba5e7dc0b6f987c91fab75e020"
-     },
-     {
-      "name": "PS5Upload-7.4.4-win-x64-setup.exe",
-      "size": 20757969,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-win-x64-setup.exe",
-      "digest": "sha256:87d3a74e943bae01762da999d050c42fec678bfbcd04c536d7e3da558b435de5"
-     },
-     {
-      "name": "PS5Upload-7.4.4-win-x64.zip",
-      "size": 27591410,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/PS5Upload-7.4.4-win-x64.zip",
-      "digest": "sha256:1f29b7359009593a2eb88c2b5dd7672a1218545698808ade8af2c2d67fbf59dc"
-     },
-     {
-      "name": "ps5upload-7.4.4.elf",
-      "size": 6005840,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/ps5upload-7.4.4.elf",
-      "digest": "sha256:6ee60f88ab7e35e88ba85ce4714576e7e8a68fb1adcd540fd4a518ffdc2f0f9f"
-     },
-     {
-      "name": "ps5upload-engine-7.4.4-linux-arm64",
-      "size": 52236552,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/ps5upload-engine-7.4.4-linux-arm64",
-      "digest": "sha256:6f7f75e0590a874b7e3371965074355b4ec9adc5a3ca605bfa15d292137a7c77"
-     },
-     {
-      "name": "ps5upload-engine-7.4.4-linux-x64",
-      "size": 54802912,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/ps5upload-engine-7.4.4-linux-x64",
-      "digest": "sha256:5f82aed5775ca1cddf1d449c2ded8dffb33bb1d937f4691225fd45d2f681074f"
-     },
-     {
-      "name": "ps5upload-engine-7.4.4-macos-arm64",
-      "size": 47625904,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/ps5upload-engine-7.4.4-macos-arm64",
-      "digest": "sha256:4bfe0a1be0c29911f9f58eba7ab475f1f110d1166c3cee8fa9b15a87392b9a2b"
-     },
-     {
-      "name": "ps5upload-engine-7.4.4-macos-x64",
-      "size": 49769272,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/ps5upload-engine-7.4.4-macos-x64",
-      "digest": "sha256:4f4cd809ef79e53215072c3b02443821eeb4718366cdcb60d539349cfd8ac924"
-     },
-     {
-      "name": "ps5upload-engine-7.4.4-windows-arm64.exe",
-      "size": 38948352,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/ps5upload-engine-7.4.4-windows-arm64.exe",
-      "digest": "sha256:48bdbe35ff83ae6de8747f714cc03d589270e9d0fcbdebc50af5c80b969b7d25"
-     },
-     {
-      "name": "ps5upload-engine-7.4.4-windows-x64.exe",
-      "size": 45439488,
-      "browser_download_url": "https://github.com/phantomptr/ps5upload/releases/download/v7.4.4/ps5upload-engine-7.4.4-windows-x64.exe",
-      "digest": "sha256:36ab0d49773ae2c12c9303a81a389e4b1125073240066e6c99bc8c30cb74881b"
      }
     ]
    }
