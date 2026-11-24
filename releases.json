@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-23T20:10:47+00:00",
+ "generatedAt": "2026-11-24T04:46:11+00:00",
  "repos": {
   "alex-free/wolf4sdl-ps5": [
    {
@@ -17067,6 +17067,40 @@
    }
   ],
   "Swordpdf/PS5SX2": [
+   {
+    "tag_name": "vk-285-329",
+    "name": "PS5SX2 2.60",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-11-23T22:18:08Z",
+    "html_url": "https://github.com/Swordpdf/PS5SX2/releases/tag/vk-285-329",
+    "assets": [
+     {
+      "name": "PS5SX2-vk-285-329.zip",
+      "size": 32758948,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-329/PS5SX2-vk-285-329.zip",
+      "digest": "sha256:244e1381f3467a6c1ce145e355e615a8214e90ed85890586fda86b70b715868a"
+     },
+     {
+      "name": "PS5SX2Installer.elf",
+      "size": 1163520,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-329/PS5SX2Installer.elf",
+      "digest": "sha256:efdec4f8d968ef4a7c1880e75d26b96d212a042a6c208de46f0a859609f6224c"
+     },
+     {
+      "name": "PS5SXHelper-no-data-mount.elf",
+      "size": 2439576,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-329/PS5SXHelper-no-data-mount.elf",
+      "digest": "sha256:fc14c48b6b91da83f817e21afdef8e00d2a59c588de57b3f6d12d2015acc0654"
+     },
+     {
+      "name": "PS5SXHelper.elf",
+      "size": 2439576,
+      "browser_download_url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-329/PS5SXHelper.elf",
+      "digest": "sha256:d8ff3a8d35dd2943ee405c5eca9405142f19057368eb539c4454b18b5de2917f"
+     }
+    ]
+   },
    {
     "tag_name": "vk-285-321",
     "name": "PS5SX2 2.50",
