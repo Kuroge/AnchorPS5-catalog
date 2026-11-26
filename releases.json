@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-11-25T19:56:05+00:00",
+ "generatedAt": "2026-11-26T02:49:51+00:00",
  "repos": {
   "alex-free/wolf4sdl-ps5": [
    {
@@ -9067,6 +9067,434 @@
   ],
   "nexgen999/evoX-CoreOS": [
    {
+    "tag_name": "v2026.11.26-0151",
+    "name": "PS5 Store AIO Release (v2026.11.26-0151)",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-11-26T01:57:56Z",
+    "html_url": "https://github.com/nexgen999/evoX-CoreOS/releases/tag/v2026.11.26-0151",
+    "assets": [
+     {
+      "name": "prosperostore-app_aio_part1_latest.zip",
+      "size": 1408510264,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-app_aio_part1_latest.zip",
+      "digest": "sha256:7201ae0a7396e0fd4f4d4e133b809cee30f2dfcaf991b2c4501c6a80b4f95657"
+     },
+     {
+      "name": "prosperostore-app_aio_part2_latest.zip",
+      "size": 1070857556,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-app_aio_part2_latest.zip",
+      "digest": "sha256:921500fc4a4f4271cf9529c5e07aae71e0b9c3803c15b74c042f86bb0aa02e3d"
+     },
+     {
+      "name": "prosperostore-app_aio_part3_latest.zip",
+      "size": 898991752,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-app_aio_part3_latest.zip",
+      "digest": "sha256:7a8d25a9b7b28a2a78869006eec1659944efdcffbc3d40e3db34022a98bb0227"
+     },
+     {
+      "name": "prosperostore-app_aio_part4_latest.zip",
+      "size": 1548662627,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-app_aio_part4_latest.zip",
+      "digest": "sha256:aab68768fa2bc80ef826481483a851bf7441ac3e4a8d428ea11bcec7d67f1c1d"
+     },
+     {
+      "name": "prosperostore-app_aio_part5_latest.zip",
+      "size": 1433360337,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-app_aio_part5_latest.zip",
+      "digest": "sha256:6906c61cc74f349994a885f2578a993d89854cdb06819a3c2a5b5ae56c711092"
+     },
+     {
+      "name": "prosperostore-app_aio_part6_latest.zip",
+      "size": 1314173205,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-app_aio_part6_latest.zip",
+      "digest": "sha256:f660d5869f714d08fa69a8447149eb7575030d662b03e6ceadf1ad072db43b77"
+     },
+     {
+      "name": "prosperostore-app_aio_part7_latest.zip",
+      "size": 116678979,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-app_aio_part7_latest.zip",
+      "digest": "sha256:5a27ad00ff51022347d2fd59180933dae0143be0dbff3277151d1aa027db510d"
+     },
+     {
+      "name": "prosperostore-game_aio_part1_latest.zip",
+      "size": 1495950566,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-game_aio_part1_latest.zip",
+      "digest": "sha256:3ec44ea06b550b116461c6979f5546c6e4dc2630b11ea9b253208f0f33515e24"
+     },
+     {
+      "name": "prosperostore-game_aio_part2_latest.zip",
+      "size": 1459217923,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-game_aio_part2_latest.zip",
+      "digest": "sha256:bab5d5e28f1a151b419e0726a329539d0f7c26989a4f488a75b5519b6021f42d"
+     },
+     {
+      "name": "prosperostore-game_aio_part3_latest.zip",
+      "size": 1453524673,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-game_aio_part3_latest.zip",
+      "digest": "sha256:a89758d2f74b3ced60707c92f268625e1741e320c500bd244cabcb0198ce16ec"
+     },
+     {
+      "name": "prosperostore-game_aio_part4_latest.zip",
+      "size": 1395908713,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-game_aio_part4_latest.zip",
+      "digest": "sha256:c59776f8dd03bd8b424076cc4a5a826072ff86601610ff8433530a3bd6ef4eae"
+     },
+     {
+      "name": "prosperostore-game_aio_part5_latest.zip",
+      "size": 140683306,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-game_aio_part5_latest.zip",
+      "digest": "sha256:8572dc9bb58bb4af1ea4bec1e25b1672e3b290b26311d09b59cfeee6c6bfb2dc"
+     },
+     {
+      "name": "prosperostore-tool_aio_latest.zip",
+      "size": 117325053,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/prosperostore-tool_aio_latest.zip",
+      "digest": "sha256:3400b8d47fa67f2cb28427d219d360546b6d472e020bc5450551c9e28464f556"
+     },
+     {
+      "name": "PS5_apps_aio_part1_latest.zip",
+      "size": 1051524455,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_apps_aio_part1_latest.zip",
+      "digest": "sha256:4301662d8fcc8c1006150a7d32ab19a6993b67389d6452737045c6388e05c834"
+     },
+     {
+      "name": "PS5_apps_aio_part2_latest.zip",
+      "size": 1009083835,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_apps_aio_part2_latest.zip",
+      "digest": "sha256:3b5a59d33a1e44aed9a66fb734bf987bfc4e77f1328c0ebebee769706b8d93c0"
+     },
+     {
+      "name": "PS5_ffpfsc_aio_latest.zip",
+      "size": 108166336,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ffpfsc_aio_latest.zip",
+      "digest": "sha256:df2b55fd24a9c3824808977fa3ebc2b981dd875e22c1ce291bcbdf2e85ad7af7"
+     },
+     {
+      "name": "PS5_payloads_aio_latest.zip",
+      "size": 423232176,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_payloads_aio_latest.zip",
+      "digest": "sha256:613949b49377f75aa306cb464e0da2b26069fbaa47d392648edf15e4cd1b144b"
+     },
+     {
+      "name": "PS5_pkg_aio_part1_latest.zip",
+      "size": 941322814,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_pkg_aio_part1_latest.zip",
+      "digest": "sha256:e581d4d3f47c9fd9c79383af656919c3bff51dc33ee0beb6b8f7acad7c745990"
+     },
+     {
+      "name": "PS5_pkg_aio_part2_latest.zip",
+      "size": 926803324,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_pkg_aio_part2_latest.zip",
+      "digest": "sha256:101e61f9c0c728dbf18976eae1c2bfc30a76c5552d93b46fb8febb4215f61733"
+     },
+     {
+      "name": "PS5_ultimate_pack_part10_latest.zip",
+      "size": 1548662627,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part10_latest.zip",
+      "digest": "sha256:aab68768fa2bc80ef826481483a851bf7441ac3e4a8d428ea11bcec7d67f1c1d"
+     },
+     {
+      "name": "PS5_ultimate_pack_part11_latest.zip",
+      "size": 1484789333,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part11_latest.zip",
+      "digest": "sha256:9b4a6e702c09d4068114ee8f039ae258cd4606e33952a61b5eaa52862f739a02"
+     },
+     {
+      "name": "PS5_ultimate_pack_part12_latest.zip",
+      "size": 1465504270,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part12_latest.zip",
+      "digest": "sha256:4a7b70db0878cdc8cd5c95f7a721842637fb4bd4f6c690911b0f4bbafa59783e"
+     },
+     {
+      "name": "PS5_ultimate_pack_part13_latest.zip",
+      "size": 1185285280,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part13_latest.zip",
+      "digest": "sha256:ab8fa7902fc288d5dabe09113337b51f66bf4e37d30cf18b2d2a7927d0893361"
+     },
+     {
+      "name": "PS5_ultimate_pack_part14_latest.zip",
+      "size": 1289368423,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part14_latest.zip",
+      "digest": "sha256:d978b87823493f63f3ad4af4a87dae7d7c583ed624aa445db8f3bee6b0377971"
+     },
+     {
+      "name": "PS5_ultimate_pack_part15_latest.zip",
+      "size": 782130852,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part15_latest.zip",
+      "digest": "sha256:e7c816cfa2ec0009cf0a7075997760320e16fad11123dda44a0293f0e2fad13e"
+     },
+     {
+      "name": "PS5_ultimate_pack_part1_latest.zip",
+      "size": 962152903,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part1_latest.zip",
+      "digest": "sha256:60e09f25ab9c5ce8bbd49d6dda1c6f1d1389b53dcd09794d157015f269081b0d"
+     },
+     {
+      "name": "PS5_ultimate_pack_part2_latest.zip",
+      "size": 1388078788,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part2_latest.zip",
+      "digest": "sha256:5d3d706ea51178dccfe57ca1b2721179731c303ad26830cf267073d970fc9d74"
+     },
+     {
+      "name": "PS5_ultimate_pack_part3_latest.zip",
+      "size": 1100817370,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part3_latest.zip",
+      "digest": "sha256:ad83fdfeb21228ef469aa4cf6e032ed3d4976494b9d41f77fc107f286e7f88ed"
+     },
+     {
+      "name": "PS5_ultimate_pack_part4_latest.zip",
+      "size": 1167163006,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part4_latest.zip",
+      "digest": "sha256:f9aec2e9107b793ccf9e71e2e9b40ee255f87e0e29a118766d9d17f452240d23"
+     },
+     {
+      "name": "PS5_ultimate_pack_part5_latest.zip",
+      "size": 1281592374,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part5_latest.zip",
+      "digest": "sha256:cf052a32f25ee94fd76e6085e34d93c6e52792fb0dd609d24a5b0045d7138abe"
+     },
+     {
+      "name": "PS5_ultimate_pack_part6_latest.zip",
+      "size": 1430439322,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part6_latest.zip",
+      "digest": "sha256:7d7fa15950e330fc73865fb4b3122fb1d692d657587b7ef25dd376af1e436923"
+     },
+     {
+      "name": "PS5_ultimate_pack_part7_latest.zip",
+      "size": 1480273502,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part7_latest.zip",
+      "digest": "sha256:bc92e1b2a1ae11cef26d318d24d059ea06c797d5e1613be95fcab507b4e421df"
+     },
+     {
+      "name": "PS5_ultimate_pack_part8_latest.zip",
+      "size": 1383128445,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part8_latest.zip",
+      "digest": "sha256:c70715936e7b40c84af40a6feb5c93e7451e987b02c22c9b56be99243dfefb92"
+     },
+     {
+      "name": "PS5_ultimate_pack_part9_latest.zip",
+      "size": 364591311,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.26-0151/PS5_ultimate_pack_part9_latest.zip",
+      "digest": "sha256:09ccb4eaf89619269258c2875739dd04260d75a369b7303847b93970a96244ea"
+     }
+    ]
+   },
+   {
+    "tag_name": "latest",
+    "name": "PS5 Store AIO - Latest (Permanent)",
+    "draft": false,
+    "prerelease": false,
+    "published_at": "2026-11-26T02:04:08Z",
+    "html_url": "https://github.com/nexgen999/evoX-CoreOS/releases/tag/latest",
+    "assets": [
+     {
+      "name": "prosperostore-app_aio_part1_latest.zip",
+      "size": 1408510264,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part1_latest.zip",
+      "digest": "sha256:7201ae0a7396e0fd4f4d4e133b809cee30f2dfcaf991b2c4501c6a80b4f95657"
+     },
+     {
+      "name": "prosperostore-app_aio_part2_latest.zip",
+      "size": 1070857556,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part2_latest.zip",
+      "digest": "sha256:921500fc4a4f4271cf9529c5e07aae71e0b9c3803c15b74c042f86bb0aa02e3d"
+     },
+     {
+      "name": "prosperostore-app_aio_part3_latest.zip",
+      "size": 898991752,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part3_latest.zip",
+      "digest": "sha256:7a8d25a9b7b28a2a78869006eec1659944efdcffbc3d40e3db34022a98bb0227"
+     },
+     {
+      "name": "prosperostore-app_aio_part4_latest.zip",
+      "size": 1548662627,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part4_latest.zip",
+      "digest": "sha256:aab68768fa2bc80ef826481483a851bf7441ac3e4a8d428ea11bcec7d67f1c1d"
+     },
+     {
+      "name": "prosperostore-app_aio_part5_latest.zip",
+      "size": 1433360337,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part5_latest.zip",
+      "digest": "sha256:6906c61cc74f349994a885f2578a993d89854cdb06819a3c2a5b5ae56c711092"
+     },
+     {
+      "name": "prosperostore-app_aio_part6_latest.zip",
+      "size": 1314173205,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part6_latest.zip",
+      "digest": "sha256:f660d5869f714d08fa69a8447149eb7575030d662b03e6ceadf1ad072db43b77"
+     },
+     {
+      "name": "prosperostore-app_aio_part7_latest.zip",
+      "size": 116678979,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part7_latest.zip",
+      "digest": "sha256:5a27ad00ff51022347d2fd59180933dae0143be0dbff3277151d1aa027db510d"
+     },
+     {
+      "name": "prosperostore-game_aio_part1_latest.zip",
+      "size": 1495950566,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part1_latest.zip",
+      "digest": "sha256:3ec44ea06b550b116461c6979f5546c6e4dc2630b11ea9b253208f0f33515e24"
+     },
+     {
+      "name": "prosperostore-game_aio_part2_latest.zip",
+      "size": 1459217923,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part2_latest.zip",
+      "digest": "sha256:bab5d5e28f1a151b419e0726a329539d0f7c26989a4f488a75b5519b6021f42d"
+     },
+     {
+      "name": "prosperostore-game_aio_part3_latest.zip",
+      "size": 1453524673,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part3_latest.zip",
+      "digest": "sha256:a89758d2f74b3ced60707c92f268625e1741e320c500bd244cabcb0198ce16ec"
+     },
+     {
+      "name": "prosperostore-game_aio_part4_latest.zip",
+      "size": 1395908713,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part4_latest.zip",
+      "digest": "sha256:c59776f8dd03bd8b424076cc4a5a826072ff86601610ff8433530a3bd6ef4eae"
+     },
+     {
+      "name": "prosperostore-game_aio_part5_latest.zip",
+      "size": 140683306,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part5_latest.zip",
+      "digest": "sha256:8572dc9bb58bb4af1ea4bec1e25b1672e3b290b26311d09b59cfeee6c6bfb2dc"
+     },
+     {
+      "name": "prosperostore-tool_aio_latest.zip",
+      "size": 117325053,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-tool_aio_latest.zip",
+      "digest": "sha256:3400b8d47fa67f2cb28427d219d360546b6d472e020bc5450551c9e28464f556"
+     },
+     {
+      "name": "PS5_apps_aio_part1_latest.zip",
+      "size": 1051524455,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part1_latest.zip",
+      "digest": "sha256:4301662d8fcc8c1006150a7d32ab19a6993b67389d6452737045c6388e05c834"
+     },
+     {
+      "name": "PS5_apps_aio_part2_latest.zip",
+      "size": 1009083835,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part2_latest.zip",
+      "digest": "sha256:3b5a59d33a1e44aed9a66fb734bf987bfc4e77f1328c0ebebee769706b8d93c0"
+     },
+     {
+      "name": "PS5_ffpfsc_aio_latest.zip",
+      "size": 108166336,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ffpfsc_aio_latest.zip",
+      "digest": "sha256:df2b55fd24a9c3824808977fa3ebc2b981dd875e22c1ce291bcbdf2e85ad7af7"
+     },
+     {
+      "name": "PS5_payloads_aio_latest.zip",
+      "size": 423232176,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip",
+      "digest": "sha256:613949b49377f75aa306cb464e0da2b26069fbaa47d392648edf15e4cd1b144b"
+     },
+     {
+      "name": "PS5_pkg_aio_part1_latest.zip",
+      "size": 941322814,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part1_latest.zip",
+      "digest": "sha256:e581d4d3f47c9fd9c79383af656919c3bff51dc33ee0beb6b8f7acad7c745990"
+     },
+     {
+      "name": "PS5_pkg_aio_part2_latest.zip",
+      "size": 926803324,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part2_latest.zip",
+      "digest": "sha256:101e61f9c0c728dbf18976eae1c2bfc30a76c5552d93b46fb8febb4215f61733"
+     },
+     {
+      "name": "PS5_ultimate_pack_part10_latest.zip",
+      "size": 1548662627,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part10_latest.zip",
+      "digest": "sha256:aab68768fa2bc80ef826481483a851bf7441ac3e4a8d428ea11bcec7d67f1c1d"
+     },
+     {
+      "name": "PS5_ultimate_pack_part11_latest.zip",
+      "size": 1484789333,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part11_latest.zip",
+      "digest": "sha256:9b4a6e702c09d4068114ee8f039ae258cd4606e33952a61b5eaa52862f739a02"
+     },
+     {
+      "name": "PS5_ultimate_pack_part12_latest.zip",
+      "size": 1465504270,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part12_latest.zip",
+      "digest": "sha256:4a7b70db0878cdc8cd5c95f7a721842637fb4bd4f6c690911b0f4bbafa59783e"
+     },
+     {
+      "name": "PS5_ultimate_pack_part13_latest.zip",
+      "size": 1185285280,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part13_latest.zip",
+      "digest": "sha256:ab8fa7902fc288d5dabe09113337b51f66bf4e37d30cf18b2d2a7927d0893361"
+     },
+     {
+      "name": "PS5_ultimate_pack_part14_latest.zip",
+      "size": 1289368423,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part14_latest.zip",
+      "digest": "sha256:d978b87823493f63f3ad4af4a87dae7d7c583ed624aa445db8f3bee6b0377971"
+     },
+     {
+      "name": "PS5_ultimate_pack_part15_latest.zip",
+      "size": 782130852,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part15_latest.zip",
+      "digest": "sha256:e7c816cfa2ec0009cf0a7075997760320e16fad11123dda44a0293f0e2fad13e"
+     },
+     {
+      "name": "PS5_ultimate_pack_part1_latest.zip",
+      "size": 962152903,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part1_latest.zip",
+      "digest": "sha256:60e09f25ab9c5ce8bbd49d6dda1c6f1d1389b53dcd09794d157015f269081b0d"
+     },
+     {
+      "name": "PS5_ultimate_pack_part2_latest.zip",
+      "size": 1388078788,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part2_latest.zip",
+      "digest": "sha256:5d3d706ea51178dccfe57ca1b2721179731c303ad26830cf267073d970fc9d74"
+     },
+     {
+      "name": "PS5_ultimate_pack_part3_latest.zip",
+      "size": 1100817370,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part3_latest.zip",
+      "digest": "sha256:ad83fdfeb21228ef469aa4cf6e032ed3d4976494b9d41f77fc107f286e7f88ed"
+     },
+     {
+      "name": "PS5_ultimate_pack_part4_latest.zip",
+      "size": 1167163006,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part4_latest.zip",
+      "digest": "sha256:f9aec2e9107b793ccf9e71e2e9b40ee255f87e0e29a118766d9d17f452240d23"
+     },
+     {
+      "name": "PS5_ultimate_pack_part5_latest.zip",
+      "size": 1281592374,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part5_latest.zip",
+      "digest": "sha256:cf052a32f25ee94fd76e6085e34d93c6e52792fb0dd609d24a5b0045d7138abe"
+     },
+     {
+      "name": "PS5_ultimate_pack_part6_latest.zip",
+      "size": 1430439322,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part6_latest.zip",
+      "digest": "sha256:7d7fa15950e330fc73865fb4b3122fb1d692d657587b7ef25dd376af1e436923"
+     },
+     {
+      "name": "PS5_ultimate_pack_part7_latest.zip",
+      "size": 1480273502,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part7_latest.zip",
+      "digest": "sha256:bc92e1b2a1ae11cef26d318d24d059ea06c797d5e1613be95fcab507b4e421df"
+     },
+     {
+      "name": "PS5_ultimate_pack_part8_latest.zip",
+      "size": 1383128445,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part8_latest.zip",
+      "digest": "sha256:c70715936e7b40c84af40a6feb5c93e7451e987b02c22c9b56be99243dfefb92"
+     },
+     {
+      "name": "PS5_ultimate_pack_part9_latest.zip",
+      "size": 364591311,
+      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part9_latest.zip",
+      "digest": "sha256:09ccb4eaf89619269258c2875739dd04260d75a369b7303847b93970a96244ea"
+     }
+    ]
+   },
+   {
     "tag_name": "v2026.11.25-1709",
     "name": "PS5 Store AIO Release (v2026.11.25-1709)",
     "draft": false,
@@ -9479,214 +9907,6 @@
       "size": 1548662627,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.25-0215/PS5_ultimate_pack_part9_latest.zip",
       "digest": "sha256:6ccc776cffe1907cd858bf03d6650a16180327c77c607130bf06c6b3892976bb"
-     }
-    ]
-   },
-   {
-    "tag_name": "latest",
-    "name": "PS5 Store AIO - Latest (Permanent)",
-    "draft": false,
-    "prerelease": false,
-    "published_at": "2026-11-25T17:19:39Z",
-    "html_url": "https://github.com/nexgen999/evoX-CoreOS/releases/tag/latest",
-    "assets": [
-     {
-      "name": "prosperostore-app_aio_part1_latest.zip",
-      "size": 1408446869,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part1_latest.zip",
-      "digest": "sha256:97a96658d1fb6212842d4b8cafe071b91bcdc18da31666e181ad608f5fddb410"
-     },
-     {
-      "name": "prosperostore-app_aio_part2_latest.zip",
-      "size": 1395205402,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part2_latest.zip",
-      "digest": "sha256:3dc981e818454100d7f98028a2f6ee8d274c92fc986ba591dd5b1a7cdf9dfe35"
-     },
-     {
-      "name": "prosperostore-app_aio_part3_latest.zip",
-      "size": 296821116,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part3_latest.zip",
-      "digest": "sha256:19b6cbcf138e82432d680ccf64e884a15e84b0c0a26099ad9404d100cc9bc35e"
-     },
-     {
-      "name": "prosperostore-app_aio_part4_latest.zip",
-      "size": 1548662627,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part4_latest.zip",
-      "digest": "sha256:d6c2c80e404d9cc9ba624745420e5e9d2980bbd9f7e83e8f5ef6212bec3d0901"
-     },
-     {
-      "name": "prosperostore-app_aio_part5_latest.zip",
-      "size": 1432977256,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part5_latest.zip",
-      "digest": "sha256:f2c9d1559ed4efaf52f7299ed4b09a3d0e5ba0791b34d3cfceb12d9a0c2aba30"
-     },
-     {
-      "name": "prosperostore-app_aio_part6_latest.zip",
-      "size": 1314173205,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part6_latest.zip",
-      "digest": "sha256:275566f8a6367855a728d42ecd3b308347b902127f93d5f19eea1b94f18f87b7"
-     },
-     {
-      "name": "prosperostore-app_aio_part7_latest.zip",
-      "size": 116678979,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part7_latest.zip",
-      "digest": "sha256:a1c39908742727270bc2dd062ea111da880579b44d0cef04a2ad7e3b141a5870"
-     },
-     {
-      "name": "prosperostore-game_aio_part1_latest.zip",
-      "size": 1484789030,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part1_latest.zip",
-      "digest": "sha256:b511c5975aa061a259976a6a3dca93ef95282d3dc1903e33d72a832de914eff5"
-     },
-     {
-      "name": "prosperostore-game_aio_part2_latest.zip",
-      "size": 1470175721,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part2_latest.zip",
-      "digest": "sha256:a07e2737dac1d7c583b38c92576f8d1a0b2c017b033452d335819d535e10efa6"
-     },
-     {
-      "name": "prosperostore-game_aio_part3_latest.zip",
-      "size": 1276106225,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part3_latest.zip",
-      "digest": "sha256:754a7e468965801f3187f4bf2e1c56e640f5ca0880df81cf92d3cb303e251a9d"
-     },
-     {
-      "name": "prosperostore-game_aio_part4_latest.zip",
-      "size": 1490541648,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part4_latest.zip",
-      "digest": "sha256:15d9413661896eeb7701cd98af7c15bcdb02fad2f84b6e139d74d33ca487254e"
-     },
-     {
-      "name": "prosperostore-game_aio_part5_latest.zip",
-      "size": 12733600,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part5_latest.zip",
-      "digest": "sha256:49b780e6bf5e35d5626e20833857f16ba32db56c0c7ce3ef43d6b1659b2e2c03"
-     },
-     {
-      "name": "prosperostore-tool_aio_latest.zip",
-      "size": 117325053,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-tool_aio_latest.zip",
-      "digest": "sha256:0a20f66965c4c2ed29823d0637a4352329532e26f777d9fc60bade2b3d797910"
-     },
-     {
-      "name": "PS5_apps_aio_part1_latest.zip",
-      "size": 1051524455,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part1_latest.zip",
-      "digest": "sha256:5152313a345dfc8baaa936f8790e1fdc116fa02a259bcddba1594aa23f535575"
-     },
-     {
-      "name": "PS5_apps_aio_part2_latest.zip",
-      "size": 1009083835,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part2_latest.zip",
-      "digest": "sha256:0217aa4898f386e5fe7718c238ffcf2eb6c82406836301b97dceaa79ef478436"
-     },
-     {
-      "name": "PS5_ffpfsc_aio_latest.zip",
-      "size": 108166336,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ffpfsc_aio_latest.zip",
-      "digest": "sha256:7fb0edfa0e7cc95ef9858c705a175324c0f6c2e6f42447b5f2adfce997b52b36"
-     },
-     {
-      "name": "PS5_payloads_aio_latest.zip",
-      "size": 423232073,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip",
-      "digest": "sha256:33152917e4a1bb32238ee4d9a95804e423b233ceab5d50d8ca55794e49e7b9f2"
-     },
-     {
-      "name": "PS5_pkg_aio_part1_latest.zip",
-      "size": 941322814,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part1_latest.zip",
-      "digest": "sha256:87d278b57a98b7a68559cb103d0377b31f556c4ca508102a5335ada03b37b43e"
-     },
-     {
-      "name": "PS5_pkg_aio_part2_latest.zip",
-      "size": 926803324,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part2_latest.zip",
-      "digest": "sha256:c5a7267a9ee38dffe4b9ec7791a533d6974d22ae518ac91b05c743ec8dd2a7f9"
-     },
-     {
-      "name": "PS5_ultimate_pack_part10_latest.zip",
-      "size": 1484405498,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part10_latest.zip",
-      "digest": "sha256:28852a29bcb8b1e7d98733f11f7616184376ffc7b45cf3098f0c05968f05d3f3"
-     },
-     {
-      "name": "PS5_ultimate_pack_part11_latest.zip",
-      "size": 1465504270,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part11_latest.zip",
-      "digest": "sha256:fe77c258f606e50e42adfe20213877ef42329314f371bb7c3ed4a7da83872aa6"
-     },
-     {
-      "name": "PS5_ultimate_pack_part12_latest.zip",
-      "size": 1185286034,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part12_latest.zip",
-      "digest": "sha256:63299496bf46c5bfeefe86055b3883cd99542caa0b5c5804ba5db93b518aa2f8"
-     },
-     {
-      "name": "PS5_ultimate_pack_part13_latest.zip",
-      "size": 1289288846,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part13_latest.zip",
-      "digest": "sha256:6f32f6811a96ee667e0f1be680d24b72908646396dc4d4c0fd5c156347513608"
-     },
-     {
-      "name": "PS5_ultimate_pack_part14_latest.zip",
-      "size": 782130852,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part14_latest.zip",
-      "digest": "sha256:4e3dcd344d45a3fdd3b813cbb0f784f9e16f2061001e793937469f2e9c1733e1"
-     },
-     {
-      "name": "PS5_ultimate_pack_part1_latest.zip",
-      "size": 962152800,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part1_latest.zip",
-      "digest": "sha256:30c1486c3b6ccdf7721465ecf03186c3557cd5d164b22cc090af8b548a471533"
-     },
-     {
-      "name": "PS5_ultimate_pack_part2_latest.zip",
-      "size": 1388078788,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part2_latest.zip",
-      "digest": "sha256:474908a6f81b5640ae9f389d761fd74ab708128c548a4f8aa4425438c60a4125"
-     },
-     {
-      "name": "PS5_ultimate_pack_part3_latest.zip",
-      "size": 1100817370,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part3_latest.zip",
-      "digest": "sha256:17920255f5e6bd37a969dd700e3fd4a49c05ac581a8ade019d2886f20d29bd72"
-     },
-     {
-      "name": "PS5_ultimate_pack_part4_latest.zip",
-      "size": 1167117818,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part4_latest.zip",
-      "digest": "sha256:4535588fee1d2fa80de845a52388854c7400b6cc2a40de3d2f029f51a47a64cb"
-     },
-     {
-      "name": "PS5_ultimate_pack_part5_latest.zip",
-      "size": 1225814417,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part5_latest.zip",
-      "digest": "sha256:c3a76d9085e9895e0a62bb832fa588299bb9258e54d44073480a71450e47fa7c"
-     },
-     {
-      "name": "PS5_ultimate_pack_part6_latest.zip",
-      "size": 1430439322,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part6_latest.zip",
-      "digest": "sha256:353052b8076cde641ddcfdbc41727b991281e4d8430ab6c42bc7c89086067652"
-     },
-     {
-      "name": "PS5_ultimate_pack_part7_latest.zip",
-      "size": 1460071643,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part7_latest.zip",
-      "digest": "sha256:c38b5dbda004c9d7b5f4414c0563505de9a2c7a83a364f4bef9d8bd8655f2ea1"
-     },
-     {
-      "name": "PS5_ultimate_pack_part8_latest.zip",
-      "size": 1334999173,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part8_latest.zip",
-      "digest": "sha256:93fdb61df4cd411fb807e83233fd2ebb71768926c0d67990b6af7d5ce4b5f886"
-     },
-     {
-      "name": "PS5_ultimate_pack_part9_latest.zip",
-      "size": 1548662627,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part9_latest.zip",
-      "digest": "sha256:d6c2c80e404d9cc9ba624745420e5e9d2980bbd9f7e83e8f5ef6212bec3d0901"
      }
     ]
    },
@@ -10293,208 +10513,6 @@
       "size": 1548662627,
       "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-2334/PS5_ultimate_pack_part9_latest.zip",
       "digest": "sha256:13ef0328d7dd2d3082f79f23d1661b0edb09d99d74c7e1bdd28621ba338d2e31"
-     }
-    ]
-   },
-   {
-    "tag_name": "v2026.11.22-1418",
-    "name": "PS5 Store AIO Release (v2026.11.22-1418)",
-    "draft": false,
-    "prerelease": false,
-    "published_at": "2026-11-22T14:24:07Z",
-    "html_url": "https://github.com/nexgen999/evoX-CoreOS/releases/tag/v2026.11.22-1418",
-    "assets": [
-     {
-      "name": "prosperostore-app_aio_part1_latest.zip",
-      "size": 1435181417,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/prosperostore-app_aio_part1_latest.zip",
-      "digest": "sha256:d6a4274cf7507b454f139b0c731780f1e3243ffc2eefac16aa9175a30a5232d9"
-     },
-     {
-      "name": "prosperostore-app_aio_part2_latest.zip",
-      "size": 1417295032,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/prosperostore-app_aio_part2_latest.zip",
-      "digest": "sha256:67179d3f69b3ba431d377f3b17dea30d622ff92c31669c04562194c4a45ce687"
-     },
-     {
-      "name": "prosperostore-app_aio_part3_latest.zip",
-      "size": 71811581,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/prosperostore-app_aio_part3_latest.zip",
-      "digest": "sha256:ce87d4d4f7507a15cbf0e4464123de6e30ab9c1c5714e30b73d8cd2a8e42acb8"
-     },
-     {
-      "name": "prosperostore-app_aio_part4_latest.zip",
-      "size": 1548662627,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/prosperostore-app_aio_part4_latest.zip",
-      "digest": "sha256:b8e1dd8ef52f01773bd056e53035f3ed31b0426a454808b1604204a4ecbb41bd"
-     },
-     {
-      "name": "prosperostore-app_aio_part5_latest.zip",
-      "size": 1430523941,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/prosperostore-app_aio_part5_latest.zip",
-      "digest": "sha256:915ca117644cfccce6d616b3ffed59c2d43c62f23309ed1a22339133de17b645"
-     },
-     {
-      "name": "prosperostore-app_aio_part6_latest.zip",
-      "size": 1314017882,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/prosperostore-app_aio_part6_latest.zip",
-      "digest": "sha256:f142bcb45bb012a96a2971b6e002811f111ee6f11262c1340efb7f5e0f599fdd"
-     },
-     {
-      "name": "prosperostore-app_aio_part7_latest.zip",
-      "size": 116678979,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/prosperostore-app_aio_part7_latest.zip",
-      "digest": "sha256:eb452e2481fdef37942e83f2b87df6c7573f15957b241707b6c05ef0aacc91ed"
-     },
-     {
-      "name": "prosperostore-game_aio_part1_latest.zip",
-      "size": 1484662665,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/prosperostore-game_aio_part1_latest.zip",
-      "digest": "sha256:d54e88fe59a343c694cd4d2bbdd6cb42a15662314f8af8b875e17d96570c8310"
-     },
-     {
-      "name": "prosperostore-game_aio_part2_latest.zip",
-      "size": 1435030228,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/prosperostore-game_aio_part2_latest.zip",
-      "digest": "sha256:1e6c4d0b7fa6c177f72ea51a1cb25f23b19f321c390842fe22758c27f0744911"
-     },
-     {
-      "name": "prosperostore-game_aio_part3_latest.zip",
-      "size": 1380378873,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/prosperostore-game_aio_part3_latest.zip",
-      "digest": "sha256:49805646742ca12fa0be1590354ecbc66b88bf15b7a1a1b5f8a7ac0960e210c1"
-     },
-     {
-      "name": "prosperostore-game_aio_part4_latest.zip",
-      "size": 1493383201,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/prosperostore-game_aio_part4_latest.zip",
-      "digest": "sha256:f9a7301e589aa278385a00fad383a618e45ea428d3c68e3916c4ae2344dc8187"
-     },
-     {
-      "name": "prosperostore-tool_aio_latest.zip",
-      "size": 117325053,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/prosperostore-tool_aio_latest.zip",
-      "digest": "sha256:00cd52abdfd13429a4c85d5f712e48b2186734723c648583c5bf84fed3a2f402"
-     },
-     {
-      "name": "PS5_apps_aio_part1_latest.zip",
-      "size": 1051524455,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_apps_aio_part1_latest.zip",
-      "digest": "sha256:3cd4fe0931ddf499dec1bb2f19392414a276a579ae47bc0c21686e829111c4aa"
-     },
-     {
-      "name": "PS5_apps_aio_part2_latest.zip",
-      "size": 1009083835,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_apps_aio_part2_latest.zip",
-      "digest": "sha256:9de47a79e0012c48dbff8b0caaee5e789b70331c2aaad63fa3de8c4f4b810b07"
-     },
-     {
-      "name": "PS5_ffpfsc_aio_latest.zip",
-      "size": 108166336,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ffpfsc_aio_latest.zip",
-      "digest": "sha256:2bff64f3b90274c97e3ead89713b7823d5728573947b6aae7a4f3ea4b8a02729"
-     },
-     {
-      "name": "PS5_payloads_aio_latest.zip",
-      "size": 422883902,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_payloads_aio_latest.zip",
-      "digest": "sha256:2497bdd36d66c851b6375dd742f33d0639e40a04b9a4412e76b8fa6903212ec0"
-     },
-     {
-      "name": "PS5_pkg_aio_part1_latest.zip",
-      "size": 941322814,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_pkg_aio_part1_latest.zip",
-      "digest": "sha256:97462e2c5a091e19844cd2e4ebd575d709e500988d7edd4ea32d4db788cc8d6e"
-     },
-     {
-      "name": "PS5_pkg_aio_part2_latest.zip",
-      "size": 926803324,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_pkg_aio_part2_latest.zip",
-      "digest": "sha256:8f47b3c7d732acc876cf1bcdb479453aa9b4d58d1a128455421cbbd3b1410d94"
-     },
-     {
-      "name": "PS5_ultimate_pack_part10_latest.zip",
-      "size": 1481936881,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part10_latest.zip",
-      "digest": "sha256:726fcc0e6ed341de3128ae6d68f1af498b9cebaf843efe2112f5075dd6b071d9"
-     },
-     {
-      "name": "PS5_ultimate_pack_part11_latest.zip",
-      "size": 1465504270,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part11_latest.zip",
-      "digest": "sha256:c6ea2fe904b87166ca67857f0be99d4a02c4318a5e677655cd4e7a70656c9136"
-     },
-     {
-      "name": "PS5_ultimate_pack_part12_latest.zip",
-      "size": 1185242645,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part12_latest.zip",
-      "digest": "sha256:591f43c477fddec146815093e54a1ade39d5b82dc8906e209484294b643bc125"
-     },
-     {
-      "name": "PS5_ultimate_pack_part13_latest.zip",
-      "size": 1279284505,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part13_latest.zip",
-      "digest": "sha256:eca1c1bd70474220208f4f6af80bbed55b957969d8371a97b74642c794760ff7"
-     },
-     {
-      "name": "PS5_ultimate_pack_part14_latest.zip",
-      "size": 782131234,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part14_latest.zip",
-      "digest": "sha256:2569940e2fc8fd864ae5c6f8113d7142b90291b48afab16e6805ed5d908fa1ba"
-     },
-     {
-      "name": "PS5_ultimate_pack_part1_latest.zip",
-      "size": 961804629,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part1_latest.zip",
-      "digest": "sha256:1e436e4e84bc4b638b275b725ce40515c6f8d8873bae62becc59cbf0b828988f"
-     },
-     {
-      "name": "PS5_ultimate_pack_part2_latest.zip",
-      "size": 1388078788,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part2_latest.zip",
-      "digest": "sha256:e757b9b6785c4f84648238783407843cb342991e3897be36b6c7c7f77f120c62"
-     },
-     {
-      "name": "PS5_ultimate_pack_part3_latest.zip",
-      "size": 1100817370,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part3_latest.zip",
-      "digest": "sha256:6fbffff2a51454b1b13523082b73ec9743edd450b4271c9c3311d279146b0f3a"
-     },
-     {
-      "name": "PS5_ultimate_pack_part4_latest.zip",
-      "size": 1481782863,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part4_latest.zip",
-      "digest": "sha256:7b550e7722d8704719037882de48a58b36fa651d265c314bf1fbaee34ed58653"
-     },
-     {
-      "name": "PS5_ultimate_pack_part5_latest.zip",
-      "size": 883378206,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part5_latest.zip",
-      "digest": "sha256:1cd698fd2404d6fafdfffff7c838229437e466112b0d2cfd452309552821d69e"
-     },
-     {
-      "name": "PS5_ultimate_pack_part6_latest.zip",
-      "size": 1430439322,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part6_latest.zip",
-      "digest": "sha256:6b9a99a44dc8b20e31de0efe13b2b943c0ebda5a9455be0dc156ba7f1ab85fe3"
-     },
-     {
-      "name": "PS5_ultimate_pack_part7_latest.zip",
-      "size": 1342553932,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part7_latest.zip",
-      "digest": "sha256:672917f8de09ccd16c75b206cbad962afeff868ce08668c19d27d6e1bd7104f0"
-     },
-     {
-      "name": "PS5_ultimate_pack_part8_latest.zip",
-      "size": 1373118785,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part8_latest.zip",
-      "digest": "sha256:5f6eaaaf5fbcf3268f2af8d81b064ae20fd008bf255674efac2e4fb9590a3b37"
-     },
-     {
-      "name": "PS5_ultimate_pack_part9_latest.zip",
-      "size": 1548662627,
-      "browser_download_url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/v2026.11.22-1418/PS5_ultimate_pack_part9_latest.zip",
-      "digest": "sha256:b8e1dd8ef52f01773bd056e53035f3ed31b0426a454808b1604204a4ecbb41bd"
      }
     ]
    }
